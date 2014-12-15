@@ -1,14 +1,16 @@
 [0] Config.pm:318> INFO - This is Biber 1.8
 [0] Config.pm:321> INFO - Logfile is '/Users/ska/Documents/thesis/.texpadtmp/main.blg'
-[65] biber-darwin:275> INFO - === Fri Dec 12, 2014, 15:05:27
-[65] Biber.pm:333> INFO - Reading '/Users/ska/Documents/thesis/.texpadtmp/main.bcf'
-[128] Biber.pm:630> INFO - Found 1 citekeys in bib section 0
-[150] Biber.pm:3053> INFO - Processing section 0
-[171] Biber.pm:3190> INFO - Looking for bibtex format file '/Users/ska/Documents/thesis/bibliography/literature.bib' for section 0
-[173] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
-[173] bibtex.pm:812> INFO - Found BibTeX data source '/Users/ska/Documents/thesis/bibliography/literature.bib'
-[202] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[202] Biber.pm:2945> INFO - Sorting 'entry' list 'nyt' keys
-[202] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[204] bbl.pm:482> INFO - Writing '/Users/ska/Documents/thesis/.texpadtmp/main.bbl' with encoding 'UTF-8'
-[205] bbl.pm:555> INFO - Output to /Users/ska/Documents/thesis/.texpadtmp/main.bbl
+[67] biber-darwin:275> INFO - === Mon Dec 15, 2014, 13:31:40
+[67] Biber.pm:333> INFO - Reading '/Users/ska/Documents/thesis/.texpadtmp/main.bcf'
+[131] Biber.pm:630> INFO - Found 1 citekeys in bib section 0
+[156] Biber.pm:3053> INFO - Processing section 0
+[177] Biber.pm:3190> INFO - Looking for bibtex format file '/Users/ska/Documents/thesis/bibliography/library.bib' for section 0
+[209] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[234] bibtex.pm:812> INFO - Found BibTeX data source '/Users/ska/Documents/thesis/bibliography/library.bib'
+[262] Utils.pm:169> WARN - BibTeX subsystem: /var/folders/00/llkm_g7j1mx6rrq8r4nq0hkh0000gn/T/Vb0bQJp92v/library.bib_6100.utf8, line 6, warning: 176 characters of junk seen at toplevel
+[292] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[293] Biber.pm:2945> INFO - Sorting 'entry' list 'nyt' keys
+[293] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[295] bbl.pm:482> INFO - Writing '/Users/ska/Documents/thesis/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[296] bbl.pm:555> INFO - Output to /Users/ska/Documents/thesis/.texpadtmp/main.bbl
+[296] Biber.pm:105> INFO - WARNINGS: 1

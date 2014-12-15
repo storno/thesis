@@ -8,10 +8,6 @@
 \input{settings/settings}
 \input{settings/commands}
 
-% TODO: remove if glossary not needed
-\input{glossary/terms}
-\input{glossary/acronyms}
-
 \begin{document}
 
 \input{pages/cover}
@@ -21,21 +17,28 @@
 \input{pages/title}
 \input{pages/disclaimer}
 \input{pages/acknowledgements}
-\input{pages/abstract}
+\glsaddall{} % add all defined terms to glossary, even if not referenced in text
+
+\input{glossary/acronyms}
+
+\printglossary[title=Verzeichnis der Abkürzungen,type=\acronymtype]
+
 \microtypesetup{protrusion=false}
 \tableofcontents{}
 \microtypesetup{protrusion=true}
 
 \mainmatter{}
 
-\input{chapters/introduction}
-% TODO: add more chapters here
+\input{chapters/introduction} %Beispielseiten
+
+\input{chapters/einleitung}
+\input{chapters/materialmethoden}
+\input{chapters/ergebnisse}
+\input{chapters/diskussion}
+\input{chapters/zusammenfassung}
 
 \appendix{}
 
- % TODO: remove if glossary not needed
-\glsaddall{} % add all defined terms to glossary, even if not referenced in text
-\printglossaries{}
 
 \microtypesetup{protrusion=false}
 \listoffigures{}

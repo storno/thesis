@@ -19,24 +19,46 @@
 
 \refsection{0}
   \sortlist{entry}{nyt}
-    \entry{latex}{book}{}
-      \name{labelname}{1}{}{%
-        {{uniquename=0,hash=5d77435450d10a850a5b58577b9a456b}{Lamport}{L\bibinitperiod}{Leslie}{L\bibinitperiod}{}{}{}{}}%
+    \entry{Ahles2011}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=30f5bce5a067a09644d7a7f741c77cc9}{Ahles}{A\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d167f7a91ee7324160c05fe146f2cae3}{Rochais}{R\bibinitperiod}{Francesca}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=54fb9c3761e724a81a31f27e35e29d68}{Frambach}{F\bibinitperiod}{Torsten}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=92248c8444dd1286e9066cac61d9e823}{Bünemann}{B\bibinitperiod}{Moritz}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=acaea11c14b745fade9d24235dd48bae}{Engelhardt}{E\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{1}{}{%
-        {{uniquename=0,hash=5d77435450d10a850a5b58577b9a456b}{Lamport}{L\bibinitperiod}{Leslie}{L\bibinitperiod}{}{}{}{}}%
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=30f5bce5a067a09644d7a7f741c77cc9}{Ahles}{A\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d167f7a91ee7324160c05fe146f2cae3}{Rochais}{R\bibinitperiod}{Francesca}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=54fb9c3761e724a81a31f27e35e29d68}{Frambach}{F\bibinitperiod}{Torsten}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=92248c8444dd1286e9066cac61d9e823}{Bünemann}{B\bibinitperiod}{Moritz}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=acaea11c14b745fade9d24235dd48bae}{Engelhardt}{E\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
       }
-      \list{publisher}{1}{%
-        {Addison-Wesley Professional}%
-      }
-      \strng{namehash}{5d77435450d10a850a5b58577b9a456b}
-      \strng{fullhash}{5d77435450d10a850a5b58577b9a456b}
-      \field{sortinit}{L}
-      \field{labelyear}{1994}
+      \strng{namehash}{5707c5b37190a9d4c271539c5feb077a}
+      \strng{fullhash}{5487864ea237f9429199d58a54d21913}
+      \field{sortinit}{A}
+      \field{labelyear}{2011}
+      \field{labelmonth}{08}
       \field{datelabelsource}{}
-      \field{labeltitle}{LaTeX : A Documentation Preparation System User's Guide and Reference Manual}
-      \field{title}{LaTeX : A Documentation Preparation System User's Guide and Reference Manual}
-      \field{year}{1994}
+      \field{labeltitle}{{A polymorphism-specific "memory" mechanism in the $\beta$(2)-adrenergic receptor.}}
+      \field{abstract}{Signaling through G protein (heterotrimeric guanosine triphosphate-binding protein)-coupled receptors is affected by polymorphisms in receptor-encoding genes. Using fluorescence resonance energy transfer, we found that the $\beta$(2)-adrenergic receptor ($\beta$(2)AR) responded to repeated activation with altered activation kinetics. Polymorphic variants of the $\beta$(2)AR displayed divergent changes of $\beta$(2)AR activation kinetics that closely mimicked their different efficacies to generate cyclic adenosine 3',5'-monophosphate. More efficacious variants became faster in their activation kinetics, whereas less efficacious variants became slower, compared to their initial activation. These differences depended on phosphorylation of the receptor by G protein-coupled receptor kinases. Our findings suggest an intrinsic, polymorphism-specific property of the $\beta$(2)AR that alters activation kinetics upon continued stimulation and that may account for individual drug responses.}
+      \field{issn}{1937-9145}
+      \field{journaltitle}{Sci Signal}
+      \field{month}{08}
+      \field{number}{185}
+      \field{title}{{A polymorphism-specific "memory" mechanism in the $\beta$(2)-adrenergic receptor.}}
+      \field{volume}{4}
+      \field{year}{2011}
+      \field{pages}{ra53}
+      \verb{doi}
+      \verb 10.1126/scisignal.2001681
+      \endverb
+      \verb{file}
+      \verb :Users/ska/Library/Application Support/Mendeley Desktop/Downloaded/Ahles et al. - 2011 - A polymorphism-specific memory mechanism in the $\beta$(2)-adrenergic receptor.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://stke.sciencemag.org/cgi/doi/10.1126/scisignal.2001681%20http://www.ncbi.nlm.nih.gov/pubmed/21868359
+      \endverb
     \endentry
   \endsortlist
 \endrefsection

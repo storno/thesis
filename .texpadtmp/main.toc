@@ -2,9 +2,9 @@
 \defcounter {refsection}{0}\relax 
 \select@language {ngerman}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Acknowledgments}{iii}{Doc-Start}
+\contentsline {chapter}{Danksagung}{iii}{Doc-Start}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Zusammenfassung}{iv}{chapter*.1}
+\contentsline {chapter}{Verzeichnis der Abk\IeC {\"u}rzungen}{iv}{section*.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \defcounter {refsection}{0}\relax 
@@ -14,10 +14,18 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}Section}{1}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Glossary}{3}{section*.8}
+\contentsline {chapter}{\numberline {2}Einleitung}{3}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{4}{appendix*.10}
+\contentsline {chapter}{\numberline {3}Material \& Methoden}{4}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{5}{appendix*.11}
+\contentsline {chapter}{\numberline {4}Ergebnisse}{5}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{6}{appendix*.12}
+\contentsline {chapter}{\numberline {5}Diskussion}{6}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Zusammenfassung}{7}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{8}{appendix*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{9}{appendix*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Literatur}{10}{appendix*.11}
