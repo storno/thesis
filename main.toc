@@ -4,6 +4,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Danksagung}{iii}{Doc-Start}
 \defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Verzeichnis der Abk\IeC {\"u}rzungen}{iv}{section*.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}Firstsection}{1}{section.1.1}
@@ -36,8 +38,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}Zusammenfassung}{10}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{11}{appendix*.7}
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{11}{appendix*.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{12}{appendix*.8}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{13}{appendix*.9}
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{12}{appendix*.10}

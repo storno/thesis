@@ -1,7 +1,7 @@
 \RequirePackage[l2tabu,orthodox]{nag}
 
 % TODO: decide if one-sided/two-sided or whatever
-%\documentclass[headsepline,footsepline,footinclude=false,fontsize=11pt,paper=a4,listof=totoc,bibliography=totoc,BCOR=12mm,DIV=12]{scrbook} % two-sided
+%\documentclass[headsepline,footsepline,footinclude=false,fontsize=11pt,paper=a4,listof=totoc,bibliography=totoc,BCOR=12mm,DIV=20]{scrbook} % two-sided
 \documentclass[headsepline,footsepline,footinclude=false,oneside,fontsize=11pt,paper=a4,listof=totoc,bibliography=totoc]{scrbook} % one-sided
 
 \input{settings/packages}
@@ -18,7 +18,6 @@
 \input{pages/disclaimer}
 \input{pages/acknowledgements}
 \glsaddall{} % add all defined terms to glossary, even if not referenced in text
-
 \input{glossary/acronyms}
 
 \printglossary[title=Verzeichnis der Abkürzungen,type=\acronymtype]
