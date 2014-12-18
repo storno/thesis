@@ -1,32 +1,42 @@
 \begin{titlepage}
-  \centering
+{\par \centering
 
   \vspace{40mm}
   \includegraphics[width=40mm]{logos/tum}
 
   \vspace{5mm}
   {\huge\MakeUppercase{\getFaculty{}}}\\
-
+    
   \vspace{5mm}
-  {\large\MakeUppercase{\getUniversity{}}}\\
+  {\large\MakeUppercase{\getInstitute{}}}\\
 
-  \vspace{20mm}
-  {\Large \getDoctype{}}
-
-  \vspace{15mm}
-  {\huge\bfseries \getTitle{}}
+  
+\par}
 
   \vspace{10mm}
-  {\huge\bfseries \getTitleGer{}}
+  \large{ Vollständiger Abdruck der von der Fakultät für Medizin der Technischen Universität München zur Erlangung des akademischen Grades eines Dr. med. genehmigten Dissertation.}
 
-  \vspace{15mm}
+  \vspace{10mm}
+{\par \centering
+  {\huge\bfseries \getTitleGer{}}\\
+  \vspace{5mm}
+  {\LARGE \getAuthor{}}
+  \vspace{10mm}
+  
   \begin{tabular}{l l}
-    Autor: & \getAuthor{} \\
-    Supervisor: & \getSupervisor{} \\
-    Advisor: & \getAdvisor{} \\
-    Submission Date: & \getSubmissionDate{} \\
-  \end{tabular}
+    \large{Vorsitzender:}                    & \large{\getSupervisor{}} \\
+    \large{Prüfer der Dissertation:}        & \large{1.} \\
+                                    & \large{2.} \\
+                                    & \large{3.} \\
+    \end{tabular}
+\\
+\par}
 
-  \vspace{15mm}
+\vspace {10mm}
+
+\large{Die Dissertation wurde am \getSubmissionDate{} bei der Technischen Universität München eingereicht und durch die Fakultät für Medizin am \getSubmissionDate{} angenommen}. 
+
+\vspace {10mm}
+  \centering
   \includegraphics[width=20mm]{logos/faculty}
 \end{titlepage}
