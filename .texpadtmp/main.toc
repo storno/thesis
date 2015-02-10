@@ -1,45 +1,27 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
 \select@language {ngerman}
-\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Danksagung}{iii}{Doc-Start}
-\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Verzeichnis der Abk\IeC {\"u}rzungen}{iv}{section*.1}
-\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
-\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}Firstsection}{1}{section.1.1}
-\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.1.1}Subsection}{1}{subsection.1.1.1}
-\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}Section}{1}{section.1.2}
-\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Einleitung}{2}{chapter.2}
-\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Material \& Methoden}{3}{chapter.3}
-\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}Plasmide}{3}{section.3.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Bakterien}{4}{section.3.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Zelllinien}{4}{section.3.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Chemicals \& Reagents}{4}{section.3.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Enzyme}{5}{section.3.5}
-\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Bakterien}{3}{section.3.2}
+\contentsline {section}{\numberline {3.3}Zelllinien \& Zellkultur}{4}{section.3.3}
+\contentsline {section}{\numberline {3.4}Chemikalien \& Reagenzien}{4}{section.3.4}
+\contentsline {section}{\numberline {3.5}Enzyme}{4}{section.3.5}
 \contentsline {section}{\numberline {3.6}Oligonukleotidprimer}{5}{section.3.6}
-\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.7}Pharmaka}{5}{section.3.7}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Ergebnisse}{6}{chapter.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Diskussion}{9}{chapter.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Zusammenfassung}{10}{chapter.6}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{11}{appendix*.9}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{12}{appendix*.10}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Literatur}{13}{appendix*.11}
+\contentsline {section}{\numberline {3.8}Molekularbiologische Methoden}{5}{section.3.8}
+\contentsline {subsection}{\numberline {3.8.1}DNA-Amplifikation mittels Polymerasekettenreaktion (PCR)}{5}{subsection.3.8.1}
+\contentsline {subsection}{\numberline {3.8.2}Agarose--Gelelektrophorese}{6}{subsection.3.8.2}
+\contentsline {chapter}{\numberline {4}Ergebnisse}{7}{chapter.4}
+\contentsline {chapter}{\numberline {5}Diskussion}{10}{chapter.5}
+\contentsline {chapter}{\numberline {6}Zusammenfassung}{11}{chapter.6}
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{12}{appendix*.15}
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{13}{appendix*.16}
+\contentsline {chapter}{\nonumberline Literatur}{14}{appendix*.17}
