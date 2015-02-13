@@ -2,42 +2,42 @@
 \defcounter {refsection}{0}\relax 
 \select@language {ngerman}
 \contentsline {chapter}{Danksagung}{iii}{Doc-Start}
-\contentsline {chapter}{Verzeichnis der Abk\IeC {\"u}rzungen}{iv}{section*.1}
+\contentsline {chapter}{Verzeichnis der Abk\IeC {\"u}rzungen}{v}{section*.1}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Firstsection}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Subsection}{1}{subsection.1.1.1}
 \contentsline {section}{\numberline {1.2}Section}{1}{section.1.2}
-\contentsline {chapter}{\numberline {2}Einleitung}{2}{chapter.2}
-\contentsline {chapter}{\numberline {3}Material \& Methoden}{3}{chapter.3}
-\contentsline {section}{\numberline {3.1}Material}{3}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Plasmide}{3}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Bakterien}{3}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}Zelllinien \& Zellkultur}{4}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}Chemikalien \& Reagenzien}{4}{subsection.3.1.4}
-\contentsline {subsection}{\numberline {3.1.5}Enzyme}{4}{subsection.3.1.5}
-\contentsline {subsection}{\numberline {3.1.6}Oligonukleotidprimer}{5}{subsection.3.1.6}
-\contentsline {subsection}{\numberline {3.1.7}Pharmaka}{5}{subsection.3.1.7}
-\contentsline {section}{\numberline {3.2}Molekularbiologische Methoden}{5}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}DNA-Amplifikation mittels Polymerasekettenreaktion (PCR)}{5}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Agarose--Gelelektrophorese}{6}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Extraktion von DNA aus Agarosegelen}{6}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Restriktionsenzymverdau von PCR--Produkten und Plasmid--DNA}{7}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Ligation von DNA--Fragmenten}{7}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}Messung der DNA--Konzentrationen}{7}{subsection.3.2.6}
-\contentsline {subsection}{\numberline {3.2.7}DNA-Sequenzierung}{7}{subsection.3.2.7}
-\contentsline {subsection}{\numberline {3.2.8}Transformation elektrokompetenter DH10B--Bakterien}{8}{subsection.3.2.8}
-\contentsline {subsection}{\numberline {3.2.9}Mini/Maxi--Kultur und Mini/Maxi--DNA--Aufreinigung}{8}{subsection.3.2.9}
+\contentsline {chapter}{\numberline {2}Einleitung}{3}{chapter.2}
+\contentsline {chapter}{\numberline {3}Material \& Methoden}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Material}{5}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Plasmide}{5}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Bakterien}{5}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Zelllinien \& Zellkultur}{5}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Chemikalien \& Reagenzien}{6}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}Enzyme}{6}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.1.6}Oligonukleotidprimer}{6}{subsection.3.1.6}
+\contentsline {subsection}{\numberline {3.1.7}Pharmaka}{6}{subsection.3.1.7}
+\contentsline {section}{\numberline {3.2}Molekularbiologische Methoden}{7}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}DNA-Amplifikation mittels Polymerasekettenreaktion (PCR)}{7}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Agarose--Gelelektrophorese}{7}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Extraktion von DNA aus Agarosegelen}{8}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Restriktionsenzymverdau von PCR--Produkten und Plasmid--DNA}{8}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Ligation von DNA--Fragmenten}{8}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Messung der DNA--Konzentrationen}{8}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}DNA-Sequenzierung}{8}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}Transformation elektrokompetenter DH10B--Bakterien}{9}{subsection.3.2.8}
+\contentsline {subsection}{\numberline {3.2.9}Mini/Maxi--Kultur und Mini/Maxi--DNA--Aufreinigung}{9}{subsection.3.2.9}
 \contentsline {subsubsection}{\nonumberline Mini--DNA--Aufreinigung}{9}{section*.12}
-\contentsline {subsubsection}{\nonumberline Maxi--DNA--Aufreinigung}{9}{section*.13}
+\contentsline {subsubsection}{\nonumberline Maxi--DNA--Aufreinigung}{10}{section*.13}
 \contentsline {section}{\numberline {3.3}Methoden der eukaryotischen Zellbiologie}{10}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Kultivierung eukaryotischer Zelllinien}{10}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Auftauen und Einfrieren von Zellen}{10}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Transiente Transfektion von HEK293-- und HeLa--Zellen mit Effectene}{10}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Generierung stabil exprimierender HEK293-- und HeLa--Zelllinien}{10}{subsection.3.3.4}
-\contentsline {section}{\numberline {3.4}Fluoreszenzoptische Methoden}{10}{section.3.4}
-\contentsline {chapter}{\numberline {4}Ergebnisse}{11}{chapter.4}
-\contentsline {chapter}{\numberline {5}Diskussion}{14}{chapter.5}
-\contentsline {chapter}{\numberline {6}Zusammenfassung}{15}{chapter.6}
-\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{16}{appendix*.15}
-\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{17}{appendix*.16}
-\contentsline {chapter}{\nonumberline Literatur}{18}{appendix*.17}
+\contentsline {subsection}{\numberline {3.3.3}Transiente Transfektion von HEK293-- und HeLa--Zellen mit Effectene}{11}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Generierung stabil exprimierender HEK293-- und HeLa--Zelllinien}{12}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Fluoreszenzoptische Methoden}{12}{section.3.4}
+\contentsline {chapter}{\numberline {4}Ergebnisse}{13}{chapter.4}
+\contentsline {chapter}{\numberline {5}Diskussion}{15}{chapter.5}
+\contentsline {chapter}{\numberline {6}Zusammenfassung}{17}{chapter.6}
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{19}{appendix*.16}
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{21}{appendix*.17}
+\contentsline {chapter}{\nonumberline Literatur}{23}{appendix*.18}
