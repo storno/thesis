@@ -34,7 +34,8 @@
 \contentsline {subsection}{\numberline {3.3.2}Auftauen und Einfrieren von Zellen}{10}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3.3.3}Transiente Transfektion von HEK293-- und HeLa--Zellen mit Effectene}{11}{subsection.3.3.3}
 \contentsline {subsection}{\numberline {3.3.4}Generierung stabil exprimierender HEK293-- und HeLa--Zelllinien}{12}{subsection.3.3.4}
-\contentsline {section}{\numberline {3.4}Fluoreszenzoptische Methoden}{12}{section.3.4}
+\contentsline {section}{\numberline {3.4}Mikroskopische Methoden}{12}{section.3.4}
+\contentsline {section}{\numberline {3.5}Fluoreszenzoptische Methoden}{12}{section.3.5}
 \contentsline {chapter}{\numberline {4}Ergebnisse}{13}{chapter.4}
 \contentsline {chapter}{\numberline {5}Diskussion}{15}{chapter.5}
 \contentsline {chapter}{\numberline {6}Zusammenfassung}{17}{chapter.6}
