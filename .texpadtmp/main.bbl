@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.3 $
+% $ biblatex bbl format version 2.4 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,7 +18,7 @@
 
 
 \refsection{0}
-  \sortlist{entry}{nyt}
+  \sortlist{nyt}{nyt}
     \entry{Ahles2011}{article}{}
       \name{labelname}{5}{}{%
         {{uniquename=0,hash=30f5bce5a067a09644d7a7f741c77cc9}{Ahles}{A\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
@@ -37,6 +37,7 @@
       \strng{namehash}{5707c5b37190a9d4c271539c5feb077a}
       \strng{fullhash}{5487864ea237f9429199d58a54d21913}
       \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
       \field{labelyear}{2011}
       \field{labelmonth}{08}
       \field{datelabelsource}{}

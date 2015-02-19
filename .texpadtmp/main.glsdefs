@@ -88,3 +88,123 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{dmso}{}%
+{%
+\gls@defglossaryentry{dmso}%
+{%
+name={DMSO},%
+sort={DMSO},%
+type={acronym},%
+first={Dimethylsulfoxid\glsspace (DMSO)},%
+firstplural={Dimethylsulfoxids\glsspace (DMSOs)},%
+text={DMSO},%
+plural={DMSOs},%
+description={Dimethylsulfoxid},%
+descriptionplural={Dimethylsulfoxid\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Dimethylsulfoxid},%
+longplural={Dimethylsulfoxids},%
+short={DMSO},%
+shortplural={DMSOs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{beta2}{}%
+{%
+\gls@defglossaryentry{beta2}%
+{%
+name={$\beta _2$AR},%
+sort={$\beta _2$AR},%
+type={acronym},%
+first={$\beta _2$-Adrenorezeptor\glsspace ($\beta _2$AR)},%
+firstplural={$\beta _2$-Adrenorezeptors\glsspace ($\beta _2$ARs)},%
+text={$\beta _2$AR},%
+plural={$\beta _2$ARs},%
+description={$\beta _2$-Adrenorezeptor},%
+descriptionplural={$\beta _2$-Adrenorezeptor\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={$\beta _2$-Adrenorezeptor},%
+longplural={$\beta _2$-Adrenorezeptors},%
+short={$\beta _2$AR},%
+shortplural={$\beta _2$ARs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ici}{}%
+{%
+\gls@defglossaryentry{ici}%
+{%
+name={ICI},%
+sort={ICI},%
+type={acronym},%
+first={ICI-118,551\glsspace (ICI)},%
+firstplural={ICI-118,551s\glsspace (ICIs)},%
+text={ICI},%
+plural={ICIs},%
+description={ICI-118,551},%
+descriptionplural={ICI-118,551\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={ICI-118,551},%
+longplural={ICI-118,551s},%
+short={ICI},%
+shortplural={ICIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pbs}{}%
+{%
+\gls@defglossaryentry{pbs}%
+{%
+name={PBS},%
+sort={PBS},%
+type={acronym},%
+first={Dulbecco's Phosphate Buffered Saline\glsspace (PBS)},%
+firstplural={Dulbecco's Phosphate Buffered Salines\glsspace (PBSs)},%
+text={PBS},%
+plural={PBSs},%
+description={Dulbecco's Phosphate Buffered Saline},%
+descriptionplural={Dulbecco's Phosphate Buffered Saline\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Dulbecco's Phosphate Buffered Saline},%
+longplural={Dulbecco's Phosphate Buffered Salines},%
+short={PBS},%
+shortplural={PBSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%

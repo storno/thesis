@@ -2,7 +2,7 @@
 
 \section{Material}
 \subsection{Plasmide} \label{plasmide}
-Die folgenden Plasmide stammen entweder aus dem Laborbestand (IPT (TU München))oder wurden von New England Biolabs GmbH (Frankfurt a. M.) erworben. Sie wurden unverändert transfiziert bzw. für weitere Klonierung verwendet.
+Die folgenden Plasmide stammen entweder aus dem Laborbestand (IPT, TU München) oder wurden von New England Biolabs GmbH (Frankfurt a. M.) erworben. Sie wurden unverändert transfiziert bzw. für weitere Klonierung verwendet.
 
 \begin{table}[htsb]
     \begin{tabular}{lll}
@@ -11,8 +11,8 @@ Die folgenden Plasmide stammen entweder aus dem Laborbestand (IPT (TU München))
         \midrule
         pSNAPf		&								&	New England Biolabs GmbH (Frankfurt a. M.)\\
         pCLIPf		&								&	New England Biolabs GmbH (Frankfurt a. M.)\\
-        pSNAPf		&	5mis--\textit{ADRB2}-16Gly	&	New England Biolabs GmbH (Frankfurt a. M.)\\
-        pCLIPf		&	5mis--\textit{ADRB2}-16Gly	&	New England Biolabs GmbH (Frankfurt a. M.)\\
+        pSNAPf		&	5mis-\textit{ADRB2}-16Gly	&	New England Biolabs GmbH (Frankfurt a. M.)\\
+        pCLIPf		&	5mis-\textit{ADRB2}-16Gly	&	New England Biolabs GmbH (Frankfurt a. M.)\\
         pDONR221	&	\textit{ADRB2}-16Arg	   		&	IPT (TU München)\\
     \bottomrule
     \end{tabular}
@@ -25,7 +25,7 @@ In die in der folgenden Tabelle aufgeführten Vektoren wurden die angegebenen In
 \toprule
 Vektor		&	Insert		&	Polymorphismus / Mutation\\
 \midrule
-pSNAPf		&	5mis--\textit{ADRB2}	&	Arg16, Tyr284\\
+pSNAPf		&	5mis-\textit{ADRB2}	&	Arg16, Tyr284\\
 pSNAPf		&	\textit{ADRB2}		&	Arg16\\
 pCLIPf		&	\textit{ADRB2}		&	Arg16\\
 \bottomrule
@@ -49,30 +49,41 @@ HeLa		&	menschliches Cervixepithel					&	IPT (TU München)\\
 \end {tabular}
 \end{table}
 
-Basierend auf den angegebenen Zelllinien wurden folgende stabile Zelllinien generiert. Die mit \textit{5-mis-SNAP} gekennzeichneten exprimierten Rezeptoren trugen am N-terminalen Ende einen vom 5HT$_3$-Rezeptor abgeleitete Membraninsertionssequenz sowie direkt C-terminal anschließend den SNAP-Tag (SNAP-tag, New England Biolabs GmbH, Frankfurt a. M.). 
+Basierend auf den angegebenen HEK293- und HeLa-Zelllinien wurden folgende stabile Zelllinien generiert. Die mit \textit{5-mis-SNAP} gekennzeichneten exprimierten Rezeptoren trugen am N-terminalen Ende einen vom 5HT$_3$-Rezeptor abgeleitete Membraninsertionssequenz sowie direkt C-terminal anschließend den SNAP-Tag (SNAP-tag, New England Biolabs GmbH, Frankfurt a. M.). 
 
 \begin{table}[htsb]
 \begin{tabularx}{\textwidth}{lll}
 \toprule
 Name		&	Stabil überexprimiertes Protein	&	Polymorphismen des Proteins\\
 \midrule
-HEK293		&	5mis-SNAP-ADRB2		&	Arg16, Gly16, Tyr284\\
-HeLa		&	5mis-SNAP-ADRB2		&	Arg16, Gly16, Tyr284\\
+SNAP-$\beta_2$AR-HEK293		&	5mis-SNAP-\textit{ADRB2}		&	Arg16, Gly16, Tyr284\\
+SNAP-$\beta_2$AR-HeLa		&	5mis-SNAP-\textit{ADRB2}		&	Arg16, Gly16, Tyr284\\
 \bottomrule
 \end{tabularx}
 \end{table}
 
-\subsection{Chemikalien \& Reagenzien}
-Falls nicht anders angegeben, wurden alle Chemikalien und Reagenzien von Applichem (Darmstadt), Carl Roth (Karlsruhe), Merck (Darmstadt) und Sigma-Aldrich (Taufkirchen) bezogen. Folgende SNAP-Substrate wurden wie angegeben bezogen.
+\subsection{Chemikalien \& Reagenzien}\label{chemikalien}
+Falls nicht anders angegeben, wurden alle Chemikalien und Reagenzien von Applichem (Darmstadt), Carl Roth (Karlsruhe), Merck (Darmstadt) und Sigma-Aldrich (Taufkirchen) bezogen. 
+
+\subsection{SNAP-Substrate und fluoreszierende Liganden} \label{substrate}
+
+Die SNAP-Substrate, die über eine O\textsuperscript{6}-Benzylguanin-Gruppe verfügten sind mit \textit{BG} gekennzeichnet. Sie wurden wie angegeben bezogen.
+
+Die verwendeten Fluorophore waren mit der tr-FRET-Methode kompatibel: Als Donorfluorophor wurde ein Tb\textsuperscript{3+}-Cryptat (Lumi4) verwendet.  Als Akzeptor wurde auf d2 (ein kommerzielles Alexa 647-Derivat) und Alexa 647 zurückgegriffen.
+
+Die fluoreszierenden Liganden basierten auf dem inversen $\beta_2$\-Adrenorezeptoragonisten ICI-118,551 (ICI). Über einen passenden Linker waren die angegebenen Fluorophore kovalent gekoppelt. Die Verbindungen wurden wie angegeben zur Synthese in Auftrag gegeben.
 
 \begin{table}[htsb]
 \begin{tabular}{lll}
 \toprule
-Name							&	Company\\
+Name							&	Referenz\\
 \midrule
-BG-Alexa488						&	New England Biolabs (Frankfurt a. M.)\\
+Benzylguanin-(BG)-Alexa488						&	New England Biolabs (Frankfurt a. M.)\\
 BG-d2							&	Cisbio Bioassays (Codolet, France)\\
 BG-Lumi4						&	Cisbio Bioassays (Codolet, France)\\
+\midrule
+ICI-Alexa 647					&	Prof. Dr. Peter Gmeiner, Universität Erlangen-Nürnberg\\
+ICI-Lumi4						& 	Cisbio Bioassays (Codolet, France)\\
 \bottomrule
 \end {tabular}
 \end{table}
@@ -93,7 +104,7 @@ Restriktionsendonukleasen				&	New England Biolabs (Frankfurt a. M.)\\
 
 
 \subsection{Oligonukleotidprimer}
-Die Oligonukleotidprimer wurden entweder von Eurofins MWG Biotech (Ebersberg) oder Sigma-Aldrich (München) synthetisiert. Sie wurden in bidestilliertem (dd) H$_2$O gelöst und auf 1\si{\milli M} eingestellt. 
+Die Oligonukleotidprimer wurden entweder von Eurofins MWG Biotech (Ebersberg) oder Sigma-Aldrich (München) synthetisiert. Sie wurden in bidestilliertem Wasser (\textit{ddH$_2$O}) gelöst und auf 1\si{\milli M} eingestellt. 
  
 \begin{tabularx}{\textwidth}{lXl}
 \toprule
@@ -111,9 +122,9 @@ ADRB2-c850t\_t851a\_rev	&	GAA GGG CAG CCA GCA GTA GGT GAA AGT GCC CAT G &\\
 \toprule
 Name			&	Typ										&	Referenz\\
 \midrule
-Alprenolol		&	$\beta_2$\--Adrenorezeptoranagonist				&	Sigma-Aldrich GmbH\\
-ICI-118,551		&	inverser $\beta_2$\--Adrenorezeptoragonist		&	Sigma-Aldrich GmbH\\
-Isoproterenol	&	$\beta_2$\--Adrenorezeptoragonist				&	Sigma-Aldrich GmbH\\
+Alprenolol		&	$\beta_2$\-Adrenorezeptoranagonist				&	Sigma-Aldrich GmbH\\
+ICI-118,551		&	inverser $\beta_2$\-Adrenorezeptoragonist		&	Sigma-Aldrich GmbH\\
+Isoproterenol	&	$\beta_2$\-Adrenorezeptoragonist				&	Sigma-Aldrich GmbH\\
 Epinephrin		&	natürlicher Adrenorezeptoragonist				& 	Sigma-Aldrich GmbH\\
 \bottomrule
 \end{tabularx}
@@ -124,7 +135,7 @@ Zur Amplifikation von kodierender DNA wurde die Methode der Polymerasekettenreak
 
 \begin{table}[htsb]
 \begin{tabular}{ll}
-cDNA oder Plasmid--DNA 					& 100\si{\nano\gram}\\
+cDNA oder Plasmid-DNA 					& 100\si{\nano\gram}\\
 Vorwärtsprimer							& 20\si{\pico\mol}\\
 Rückwärtsprimer							& 20\si{\pico\mol}\\
 AccuPrime \textit{pfx} Reaktionspuffer 	& 5\si{\micro\liter}\\
@@ -148,43 +159,43 @@ Finale Elongation 			& 68\si{\celsius}	& 1\si{\minute}		& 1\\
 \bottomrule
 \end{tabularx}
 
-\subsection{Agarose--Gelelektrophorese}
+\subsection{Agarose-Gelelektrophorese}
 
 \begin{tabularx}{\textwidth}{lll}
-50xTAE--Puffer: 	& Tris					& 0,2\si{M}\\
+50xTAE-Puffer: 	& Tris					& 0,2\si{M}\\
 					& Essigsäure (0,5M)		& 57,1\si{\milli\liter}\\
 					& Na$_2$EDTA x 2H$_2$O	& 37,2\si{\milli\liter}\\
 					& ddH$_2$O				& ad 1\si{\liter}\\
 					&				& \\
-5xDNA--Ladepuffer: 	& Xylencyanol	& 0,025\si{\gram}\\
+5xDNA-Ladepuffer: 	& Xylencyanol	& 0,025\si{\gram}\\
 					& EDTA (0,5M)	& 1,4\si{\milli\liter}\\
 					& Glycerol		& 3,6\si{\milli\liter}\\
 					& ddH$_2$O		& 7,0\si{\milli\liter}\\
 \end{tabularx}
 \\
-Die Herstellung eines einprozentigen Agarosegels erfolgte mit 1\si{\gram} Agarose in 100\si{\milli\liter} 1xTAE--Puffer, die durch Erhitzen in einer Mikrowelle gelöst wurde. Nach Abkühlen auf etwa 45\si{\celsius} wurden 6,5\si{\micro\liter} Ethidiumbromid hinzugefügt und das Gel mit den gewünschten Kämmen gegossen. Nach dem Auspolymerisieren wurde das Gel in eine mit 1xTAE--Puffer befüllte Elektophoresekammer (Peqlab, Erlangen) transferiert. Die DNA-Proben wurden 1:5 mit DNA-Ladepuffer verdünnt und in die Geltaschen geladen. Parallel wurden vorverdaute DNA--Stücke bekannter Länge (1--10\si{kb}) in eine Geltasche geladen.
+Die Herstellung eines einprozentigen Agarosegels erfolgte mit 1\si{\gram} Agarose in 100\si{\milli\liter} 1xTAE-Puffer, die durch Erhitzen in einer Mikrowelle gelöst wurde. Nach Abkühlen auf etwa 45\si{\celsius} wurden 6,5\si{\micro\liter} Ethidiumbromid hinzugefügt und das Gel mit den gewünschten Kämmen gegossen. Nach dem Auspolymerisieren wurde das Gel in eine mit 1xTAE-Puffer befüllte Elektophoresekammer (Peqlab, Erlangen) transferiert. Die DNA-Proben wurden 1:5 mit DNA-Ladepuffer verdünnt und in die Geltaschen geladen. Parallel wurden vorverdaute DNA-Stücke bekannter Länge (1-10\si{kb}) in eine Geltasche geladen.
 
-An die so beladene Gelkammer wurde eine Spannung von 120\si{\volt} für 45\si{\minute} angelegt. Die negativ geladenen DNA--Fragmente liefen abhängig von ihrer Länge mit unterschiedlicher Geschwindigkeit anodenwärts. Das sich im Gel befindliche Ethidiumbromid interkalierte in die doppelsträngige DNA.
+An die so beladene Gelkammer wurde eine Spannung von 120\si{\volt} für 45\si{\minute} angelegt. Die negativ geladenen DNA-Fragmente liefen abhängig von ihrer Länge mit unterschiedlicher Geschwindigkeit anodenwärts. Das sich im Gel befindliche Ethidiumbromid interkalierte in die doppelsträngige DNA.
 
 Anschließend konnte unter UV-Licht (Wellenlänge 312\si{\nano\meter}) der Standard mit den gesuchten Fragmenten abgeglichen werden.
 
 \subsection{Extraktion von DNA aus Agarosegelen}
-Zur Extraktion von DNA--Fragmenten aus Agarosegelen wurde die gewünschte DNA--Bande mit einem sterilen Skalpell ausgeschnitten und mithilfe des QIAquick Gel Extraction Kit (Qiagen, Hilden) gemäß dem Protokoll des Herstellers extrahiert. Schließich wurde die DNA aus der Extraktionssäule mit 15\si{\micro\liter} ddH$_2$O eluiert.
+Zur Extraktion von DNA-Fragmenten aus Agarosegelen wurde die gewünschte DNA-Bande mit einem sterilen Skalpell ausgeschnitten und mithilfe des QIAquick Gel Extraction Kit (Qiagen, Hilden) gemäß dem Protokoll des Herstellers extrahiert. Schließich wurde die DNA aus der Extraktionssäule mit 15\si{\micro\liter} ddH$_2$O eluiert.
 
-\subsection{Restriktionsenzymverdau von PCR--Produkten und Plasmid--DNA}
-PCR--Produkte und Plasmid--DNA wurden entsprechend den Empfehlungen des Enzymherstellers (New England Biolabs, Frankfurt a. M.) mit Restriktionsendonukleasen verdaut. Wenn möglich wurden die High-Fidelity--(HF)--Varianten der Restriktionsenzyme verwendet. 
+\subsection{Restriktionsenzymverdau von PCR-Produkten und Plasmid-DNA}
+PCR-Produkte und Plasmid-DNA wurden entsprechend den Empfehlungen des Enzymherstellers (New England Biolabs, Frankfurt a. M.) mit Restriktionsendonukleasen verdaut. Wenn möglich wurden die High-Fidelity-(HF)-Varianten der Restriktionsenzyme verwendet. 
 
-Für den vollständigen Verdau von Plasmid-DNA wurden 1--2\si{U} des gewünschten Enzyms mit 1\si{\micro\gram} DNA für 2,5\si{\hour} bei 37\si{\celsius} inkubiert. Zur Überprüfung der DNA--Fragmentlänge nach Mini-Präparation durchlief die verdaute DNA erneut eine Gelelektrophorese. 
+Für den vollständigen Verdau von Plasmid-DNA wurden 1-2\si{U} des gewünschten Enzyms mit 1\si{\micro\gram} DNA für 2,5\si{\hour} bei 37\si{\celsius} inkubiert. Zur Überprüfung der DNA-Fragmentlänge nach Mini-Präparation durchlief die verdaute DNA erneut eine Gelelektrophorese. 
 
-\subsection{Ligation von DNA--Fragmenten}
+\subsection{Ligation von DNA-Fragmenten}
 
-\subsection{Messung der DNA--Konzentrationen}
-Die Bestimmung der Konzentration in Wasser gelöster DNA erfolgte mittels des Spektrophotometers ND--1000 (NanoDrop, Wilmington, USA) und der vom Hersteller gelieferten Software. Mithilfe der NanoDrop Software konnte über die Absorption bei 260\si{\nano\meter} die Konzentration der gelösten DNA und über den Quotienten der Absorption bei 260\si{\nano\meter} und 280\si{\nano\meter} die Reinheit der Probe bestimmt werden. Lag der Quotient über 1,8, konnte von einem hohen Reinheitsgrad, d.h. geringer Kontamination mit Proteinen, Phenol oder anderen Kontaminanten ausgegangen werden.
+\subsection{Messung der DNA-Konzentrationen}
+Die Bestimmung der Konzentration in Wasser gelöster DNA erfolgte mittels des Spektrophotometers ND-1000 (NanoDrop, Wilmington, USA) und der vom Hersteller gelieferten Software. Mithilfe der NanoDrop Software konnte über die Absorption bei 260\si{\nano\meter} die Konzentration der gelösten DNA und über den Quotienten der Absorption bei 260\si{\nano\meter} und 280\si{\nano\meter} die Reinheit der Probe bestimmt werden. Lag der Quotient über 1,8, konnte von einem hohen Reinheitsgrad, d.h. geringer Kontamination mit Proteinen, Phenol oder anderen Kontaminanten ausgegangen werden.
 
 \subsection{DNA-Sequenzierung}
-Die Sequenzierung von Plasmid--DNA und PCR--Produkten wurde durch Eurofins MWG Biotech (Ebersberg) durchgeführt. Dazu wurden 20\si{\micro\liter} in ddH$_2$O gelöster DNA der Konzentration 0,1\si{\micro\gram/\micro\liter} zur Sequenzierung gegeben und die Sequenz anschließend mit dem Tool MacVector (MacVector, Inc.) mit der erwarteten Basenfolge abgeglichen.
+Die Sequenzierung von Plasmid-DNA und PCR-Produkten wurde durch Eurofins MWG Biotech (Ebersberg) durchgeführt. Dazu wurden 20\si{\micro\liter} in ddH$_2$O gelöster DNA der Konzentration 0,1\si{\micro\gram/\micro\liter} zur Sequenzierung gegeben und die Sequenz anschließend mit dem Tool MacVector (MacVector, Inc.) mit der erwarteten Basenfolge abgeglichen.
 
-\subsection{Transformation elektrokompetenter DH10B--Bakterien}
+\subsection{Transformation elektrokompetenter DH10B-Bakterien}
 
 \begin{tabularx}{\textwidth}{lll}
 LB-Agar: 			& 1\% Bacto-Trypton		& 10\si{\gram}\\
@@ -207,17 +218,17 @@ nach Resistenzgen des Plasmids:	& Ampicillin 100\si{\micro\gram/\milli\liter}&\\
 \end{tabularx}
 \\
 
-Zur DNA-Amplifikation von Plasmiden oder Ligationsprodukten wurden 0,5\si{\micro\liter} Plasmid--DNA bzw. 3\si{\micro\liter} Ligationsreaktion zu 50\si{\micro\liter} elektrokompetenten DH10B--Bakterien gegeben, in eine Küvette (Gene Pulser 0,1\si{\centi\meter} Cuvette, Bio-Rad GmbH, München) überführt und mit einem Elektroporationsgerät (MicroPulser, Bio-Rad GmbH, München) eine gepulste Spannung von initial 1,8\si{\kilo\volt} angelegt. Das Elektroporationsprodukt wurde sofort in ein 1,5\si{\milli\liter}--Reaktionsgefäß überführt und in einem Schüttelinkubator (Thermomixer, Eppendorf AG, Hamburg) für 1\si{\hour} bei 37\si{\celsius} und 350\si{rpm} inkubiert. Bei Plasmid-Amplifikation wurden verschiedene Verdünnungen um 1:10, bei Ligation das vollständige Bakterienvolumen auf Agarplatten ausgestrichen, die über das dem Resistenzgen des Vektors entsprechende Antibiotikum verfügten. Die Agarplatten wurden über Nacht bei 37\si{\celsius} inkubiert.
+Zur DNA-Amplifikation von Plasmiden oder Ligationsprodukten wurden 0,5\si{\micro\liter} Plasmid-DNA bzw. 3\si{\micro\liter} Ligationsreaktion zu 50\si{\micro\liter} elektrokompetenten DH10B-Bakterien gegeben, in eine Küvette (Gene Pulser 0,1\si{\centi\meter} Cuvette, Bio-Rad GmbH, München) überführt und mit einem Elektroporationsgerät (MicroPulser, Bio-Rad GmbH, München) eine gepulste Spannung von initial 1,8\si{\kilo\volt} angelegt. Das Elektroporationsprodukt wurde sofort in ein 1,5\si{\milli\liter}-Reaktionsgefäß überführt und in einem Schüttelinkubator (Thermomixer, Eppendorf AG, Hamburg) für 1\si{\hour} bei 37\si{\celsius} und 350\si{rpm} inkubiert. Bei Plasmid-Amplifikation wurden verschiedene Verdünnungen um 1:10, bei Ligation das vollständige Bakterienvolumen auf Agarplatten ausgestrichen, die über das dem Resistenzgen des Vektors entsprechende Antibiotikum verfügten. Die Agarplatten wurden über Nacht bei 37\si{\celsius} inkubiert.
 
-\subsection{Mini/Maxi--Kultur und Mini/Maxi--DNA--Aufreinigung}
-Zur weiteren DNA-Ampflifikation im Rahmen einer Mini--Kultur wurde mittels einer sterilen Pipettenspitze eine einzelne Bakterienkolonie von einer Agarplatte aufgenommen und in ein Reaktionsgefäß mit 4\si{\milli\liter} LB-Medium und dem Vektor entsprechenden Antibiotikum (Ampicillin 100\si{\micro\gram/\milli\liter} bzw. Kanamycin 33\si{\micro\gram/\milli\liter}) abgeworfen.
+\subsection{Mini/Maxi-Kultur und Mini/Maxi-DNA-Aufreinigung}
+Zur weiteren DNA-Ampflifikation im Rahmen einer Mini-Kultur wurde mittels einer sterilen Pipettenspitze eine einzelne Bakterienkolonie von einer Agarplatte aufgenommen und in ein Reaktionsgefäß mit 4\si{\milli\liter} LB-Medium und dem Vektor entsprechenden Antibiotikum (Ampicillin 100\si{\micro\gram/\milli\liter} bzw. Kanamycin 33\si{\micro\gram/\milli\liter}) abgeworfen.
 In einem Schüttelinkubator (Thermoschüttler, Adolf-Kühner AG, Birsfelden) wurde die Kultur mindestens 6\si{\hour} oder über Nacht bei 37\si{\celsius} und 170\si{rpm} inkubiert.
 \\
 \\
-Die im folgenden beschriebene DNA--Aufreinigung erfolgte unter Verwendung der Puffer des Plasmid Maxi Kits (Qiagen, Hilden).
+Die im folgenden beschriebene DNA-Aufreinigung erfolgte unter Verwendung der Puffer des Plasmid Maxi Kits (Qiagen, Hilden).
 
-\subsubsection{Mini--DNA--Aufreinigung}
-1,5\si{\milli\liter} der Mini--Kultur wurden in einem 1,5\si{\milli\liter} Reaktionsgefäß für 15\si{\second} bei 15000\si{rpm} abzentrifugiert, der Überstand verworfen. Zur Vergrößerung des Pellets wurde der Zentrifugationsschritt nach erneuter Zugabe von 1,5\si{\milli\liter} der Mini--Kultur wiederholt.
+\subsubsection{Mini-DNA-Aufreinigung}
+1,5\si{\milli\liter} der Mini-Kultur wurden in einem 1,5\si{\milli\liter} Reaktionsgefäß für 15\si{\second} bei 15000\si{rpm} abzentrifugiert, der Überstand verworfen. Zur Vergrößerung des Pellets wurde der Zentrifugationsschritt nach erneuter Zugabe von 1,5\si{\milli\liter} der Mini-Kultur wiederholt.
 
 Das Pellet wurde in 250\si{\micro\liter} Resuspensionspuffer (P1) zur Degradation der bakteriellen RNA aufgenommen und 5\si{\minute} bei Raumtemperatur inkubiert. Nach Zugabe von 250\si{\micro\liter} Lysispuffer (P2) wurden die Proben gemischt und erneut 5\si{\minute} bei Raumtemperatur inkubiert. Die so in alkalischem Niveau lysierten Zellen wurden mit 300\si{\micro\liter} auf 4\si{\celsius} gekühltem Neutralisierungspuffer (P3) neutralisiert und 5\si{min} auf Eis inkubiert.
 
@@ -225,15 +236,15 @@ Nach Zentrifugation (10\si{\minute}, 15000\si{rpm}, 4\si{\celsius}) wurde die im
 Die Konzentration der DNA wurde photometrisch bestimmt.
 \\
 \\
-Nach Restriktionsverdau zur Integritätsprüfung der über Mini--Präparation amplifizierten Plasmide erfolgte, wenn nötig weitere Amplifikation mittels Maxi--Kultur. Sollten die Klone weiter amplifiziert werden, wurden 2ml der Mini--Kultur in sterile Erlenmeyer--Reaktionsgefäße mit 100\si{\milli\liter} LB-Medium sowie dem entsprechenden Antibiotikum überführt und wiederum über Nacht im Schüttelinkubator inkubiert.
+Nach Restriktionsverdau zur Integritätsprüfung der über Mini-Präparation amplifizierten Plasmide erfolgte, wenn nötig weitere Amplifikation mittels Maxi-Kultur. Sollten die Klone weiter amplifiziert werden, wurden 2ml der Mini-Kultur in sterile Erlenmeyer-Reaktionsgefäße mit 100\si{\milli\liter} LB-Medium sowie dem entsprechenden Antibiotikum überführt und wiederum über Nacht im Schüttelinkubator inkubiert.
 
-\subsubsection{Maxi--DNA--Aufreinigung}
-Die Maxi--Kulturen wurden bei 6000g für 10\si{\minute} bei 4\si{\celsius} abzentrifugiert (Zentrifuge 5810R, Eppendorf, Hamburg), der Überstand verworfen.
-Die DNA--Aufreinigung der Maxi--Kultur erfolgte entsprechend den Vorgaben des Herstellers des  Plasmid Maxi Kits von Qiagen (Hilden). Dazu wurde nach Degradation der in der Bakterienkultur befindlichen RNAasen eine alkalische Zelllyse durchgeführt, der pH-Wert anschließend angepasst und in salzfreier Lösung bei passendem pH die negativ geladene DNA über eine Anionenaustauschersäule gebunden, eluiert und mit Isopropanol präzipitiert. Das luftgetrocknete DNA--Pellet wurde in 150\si{\micro\liter} ddH$_2$O gelöst und die Konzentration wie beschrieben bestimmt. 
+\subsubsection{Maxi-DNA-Aufreinigung}
+Die Maxi-Kulturen wurden bei 6000g für 10\si{\minute} bei 4\si{\celsius} abzentrifugiert (Zentrifuge 5810R, Eppendorf, Hamburg), der Überstand verworfen.
+Die DNA-Aufreinigung der Maxi-Kultur erfolgte entsprechend den Vorgaben des Herstellers des  Plasmid Maxi Kits von Qiagen (Hilden). Dazu wurde nach Degradation der in der Bakterienkultur befindlichen RNAasen eine alkalische Zelllyse durchgeführt, der pH-Wert anschließend angepasst und in salzfreier Lösung bei passendem pH die negativ geladene DNA über eine Anionenaustauschersäule gebunden, eluiert und mit Isopropanol präzipitiert. Das luftgetrocknete DNA-Pellet wurde in 150\si{\micro\liter} ddH$_2$O gelöst und die Konzentration wie beschrieben bestimmt. 
 
 \section{Methoden der eukaryotischen Zellbiologie}
 \subsection{Kultivierung eukaryotischer Zelllinien} \label{Kultur}
-HEK293-- und HeLa--Zellen wurden bei 5\%CO$_2$ und 37\si{\celsius} in folgendem Zellkulturmedium inkubiert:
+HEK293- und HeLa-Zellen wurden bei 5\%CO$_2$ und 37\si{\celsius} in folgendem Zellkulturmedium inkubiert:
 
 \begin{table}[htsb]
 \begin{tabularx}{\textwidth}{ll}
@@ -247,7 +258,7 @@ HEK293-- und HeLa--Zellen wurden bei 5\%CO$_2$ und 37\si{\celsius} in folgendem 
 \end{tabularx}
 \end{table}
 
-Die Zelllinien wurden in Zellkulturschalen (Nunc, Langensebold) kultiviert. Beide Zelllinien verdoppelten ihre Zellzahl nach etwa 24\si{\hour} und wuchsen als adhärente Monolayer. Alle drei bis vier Tage wurden die Zellen gesplittet. Nach Absaugen des Mediums und einmaligem Waschen mit DPBS (Dulbecco's Phosphate Buffered Saline) wurden die Zellen mit Trypsin-EDTA-Lösung (0,5\si{\gram/\liter} Trypsin, 0,2\si{\gram/\liter} EDTA, Pan-Biotech, Aidenbach) für 1\si{\minute} bei 5\%CO$_2$ und 37\si{\celsius} inkubiert, die Trypsin-EDTA-Lösung abgenommen und die nun abgelösten Zellen in Kulturmedium resuspendiert. Sie wurden 1:8 in neue Kulturschalen mit vorgelegtem Medium gesät.
+Die Zelllinien wurden in Zellkulturschalen (Nunc, Thermo Scientific, Braunschweig) kultiviert. Beide Zelllinien verdoppelten ihre Zellzahl nach etwa 24\si{\hour} und wuchsen als adhärente Monolayer. Alle drei bis vier Tage wurden die Zellen gesplittet. Nach Absaugen des Mediums und einmaligem Waschen mit \gls{pbs} wurden die Zellen mit Trypsin-EDTA-Lösung (0,5\si{\gram/\liter} Trypsin, 0,2\si{\gram/\liter} EDTA, Pan-Biotech, Aidenbach) für 1\si{\minute} bei 5\%CO$_2$ und 37\si{\celsius} inkubiert, die Trypsin-EDTA-Lösung abgenommen und die nun abgelösten Zellen in Kulturmedium resuspendiert. Sie wurden 1:8 in neue Kulturschalen mit vorgelegtem Medium gesät.
 
 \subsection{Auftauen und Einfrieren von Zellen}
 \begin{tabularx}{\textwidth}{ll}
@@ -259,17 +270,17 @@ Die Zelllinien wurden in Zellkulturschalen (Nunc, Langensebold) kultiviert. Beid
 Zum Auftauen von zuvor in flüssigem Stickstoff gefrorenen Zellen, wurden sie in Kryogefäßen (Sarstedt AG, Nümbrecht) in einem Wasserbad bei 37\si{\celsius} aufgetaut. Währenddessen wurden die beschriebenen Zellkulturmedien auf 37\si{\celsius} vorgewärmt und in Zellkulturschalen vorgelegt. Die aufgetaute Zellsuspension wurde zugegeben. Nach etwa vier Stunden, wenn die Zellen adhärent waren, wurde das Zellkulturmedium abgesaugt und durch frisches Medium ersetzt, das kein DMSO mehr enthielt.
 \\
 \\
-Sollten kultivierte Zellen eingefroren werden, wurden sie mittels Trypsin-EDTA-Lösung von den Zellkulturschalen abgelöst (s. \ref{Kultur}), in einem 15\si{\milli\liter}--Reaktionsgefäß bei 1200\si{rpm} für 5\si{\minute} bei Raumtemperatur zentrifugiert und in auf 4\si{\celsius} gekühltem Einfriermedium resuspendiert. Jeweils 1\si{\milli\liter} der Suspension wurde in vorgekühlte Kryogefäße gefüllt und bei -20\si{\celsius} gefroren. Nach 24\si{\hour} wurden sie weiter auf -80\si{\celsius} gekühlt. Nach weiteren 24\si{\hour} konnten die gefrorenen Zellen in flüssigen Stickstoff überführt werden.
+Sollten kultivierte Zellen eingefroren werden, wurden sie mittels Trypsin-EDTA-Lösung von den Zellkulturschalen abgelöst (s. \ref{Kultur}), in einem 15\si{\milli\liter}-Reaktionsgefäß bei 1200\si{rpm} für 5\si{\minute} bei Raumtemperatur zentrifugiert und in auf 4\si{\celsius} gekühltem Einfriermedium resuspendiert. Jeweils 1\si{\milli\liter} der Suspension wurde in vorgekühlte Kryogefäße gefüllt und bei -20\si{\celsius} gefroren. Nach 24\si{\hour} wurden sie weiter auf -80\si{\celsius} gekühlt. Nach weiteren 24\si{\hour} konnten die gefrorenen Zellen in flüssigen Stickstoff überführt werden.
 
-\subsection{Transiente Transfektion von HEK293-- und HeLa--Zellen mit Effectene} \label{transfektion}
-Zur transienten Transfektion von HEK293- und HeLa--Zellen wurde Effectene (Qiagen, Hilden) benutzt. 
+\subsection{Transiente Transfektion von HEK293- und HeLa-Zellen mit Effectene} \label{transfektion}
+Zur transienten Transfektion von HEK293- und HeLa-Zellen wurde Effectene (Qiagen, Hilden) benutzt. 
 \\
 \\
-Zum Zeitpunkt der Transfektion waren die Zellen in 6-Well-Platten bzw. 6\si{\centi\meter}--Schalen zu 60-80\% konfluent kultiviert. Unmittelbar vor der Transfektion wurden die Zellen einmal mit PBS gewaschen, daraufhin die unten beschriebene Menge DMEM vorgelegt.
+Zum Zeitpunkt der Transfektion waren die Zellen in 6-Well-Platten bzw. 6\si{\centi\meter}-Schalen zu 60-80\% konfluent kultiviert. Unmittelbar vor der Transfektion wurden die Zellen einmal mit PBS gewaschen, daraufhin die unten beschriebene Menge DMEM vorgelegt.
 \\
 \\
-Zur Herstellung des Transfektionsansatzes wurden zu angegebene Volumina der zu transfizierenden Plasmid--DNA, EC--Puffer und Enhancer vermischt und fünf Minuten bei Raumtemperatur inkubiert.
-Mit dem Enhancer wurden die DNA--Moleküle in einem durch den EC--Puffer korrekt eingestellten Puffersystem so zuerst kondensiert. Die anschließende Zugabe des Effectene--Reagenzes führte zur Komplexierung der DNA mit einem kationischen Lipid. Nach ausreichendem Mischen und zehnminütiger Inkubation konnte die so komplexierte DNA tropfenweise auf die zu transfizierenden Zellen gegeben werden. Die DNA--Moleküle konnten so in den Zellkern eingeschleust werden. Nun in großer Zahl im eukaryoten Zellkern vorhandene transfizierte DNA wurde von den Zellen abgelesen und führte zu einem ausreichend hohen Expressionslevel.
+Zur Herstellung des Transfektionsansatzes wurden zu angegebene Volumina der zu transfizierenden Plasmid-DNA, EC-Puffer und Enhancer vermischt und fünf Minuten bei Raumtemperatur inkubiert.
+Mit dem Enhancer wurden die DNA-Moleküle in einem durch den EC-Puffer korrekt eingestellten Puffersystem so zuerst kondensiert. Die anschließende Zugabe des Effectene-Reagenzes führte zur Komplexierung der DNA mit einem kationischen Lipid. Nach ausreichendem Mischen und zehnminütiger Inkubation konnte die so komplexierte DNA tropfenweise auf die zu transfizierenden Zellen gegeben werden. Die DNA-Moleküle konnten so in den Zellkern eingeschleust werden. Nun in großer Zahl im eukaryoten Zellkern vorhandene transfizierte DNA wurde von den Zellen abgelesen und führte zu einem ausreichend hohen Expressionslevel.
 \\
 \\
 Mit dem verwendeten Reagenz konnte eine Effizienz von etwa 70\% erreicht werden.
@@ -277,10 +288,10 @@ Mit dem verwendeten Reagenz konnte eine Effizienz von etwa 70\% erreicht werden.
 \begin{table}[htsb]
 \begin{tabularx}{\textwidth}{lll}
 	\toprule
-											& 6-Well-Platte			& 6\si{\centi\meter}--Schale\\
+											& 6-Well-Platte			& 6\si{\centi\meter}-Schale\\
 	\midrule
 	DNA	(1\si{\micro\gram/\micro\liter})		& 0,4\si{\micro\gram}	& 1\si{\micro\gram}	\\
-	EC--Puffer 								& 100\si{\micro\liter}	& 150\si{\micro\liter}	\\
+	EC-Puffer 								& 100\si{\micro\liter}	& 150\si{\micro\liter}	\\
 	Enhancer 								& 3,2\si{\micro\liter}	& 8\si{\micro\liter}	\\
 	\midrule
 	&\multicolumn{2}{l}{1\si{\second} vortexen und 5\si{\minute} bei Raumtemperatur inkubieren}\\
@@ -295,16 +306,105 @@ Mit dem verwendeten Reagenz konnte eine Effizienz von etwa 70\% erreicht werden.
 \end{tabularx}
 \end{table}
 
-\subsection{Generierung stabil exprimierender HEK293-- und HeLa--Zelllinien}
-Alle verwendeten Plasmide besaßen das Neomycin-Geniticin-Resistenzgen (Neo\textsuperscript{r}). Zellen, die die transfizierte Plasmid-DNA stabil in ihr Genom integriert hatten, konnten so mit Geniticin (G--418, Invitrogen, Karlsruhe) selektioniert werden.\\
+\subsection{Generierung stabil exprimierender HEK293- und HeLa-Zelllinien}
+Alle verwendeten Plasmide besaßen das Neomycin-Geniticin-Resistenzgen (Neo\textsuperscript{r}). Zellen, die die transfizierte Plasmid-DNA stabil in ihr Genom integriert hatten, konnten so mit Geniticin (G-418, Invitrogen, Karlsruhe) selektioniert werden.\\
 \\
-Mit den Plasmiden aus \ref{plasmide} wurden unter Verwendung der in \ref{transfektion} beschriebenen Methode HEK293- und HeLa--Zellen mit Effectene transfiziert. Danach wurden die überexprimierenden Zellen in 10\si{\centi\meter}--Zellkulturschalen ausgesät. 24\si{\hour} nach Transfektion wurde die Zellen täglich für ein bis zwei Wochen mit frischem Medium versorgt, das mit 0,8\si{\gram/\liter}Geniticin versetzt war. 
+Mit den Plasmiden aus \ref{plasmide} wurden unter Verwendung der in \ref{transfektion} beschriebenen Methode HEK293- und HeLa-Zellen mit Effectene transfiziert. Danach wurden die überexprimierenden Zellen in 10\si{\centi\meter}-Zellkulturschalen ausgesät. 24\si{\hour} nach Transfektion wurde die Zellen täglich für ein bis zwei Wochen mit frischem Medium versorgt, das mit 0,8\si{\gram/\liter}Geniticin versetzt war. 
 
-Als unter dem invertierten Mikroskop einzelne Kolonien erkennbar waren, wurden diese gepickt und in eigenen Zellkulturschalen ausgesäht. Die so entstandenen heterogen exprimierenden Zellen wurden für fluoreszenzoptische Untersuchungen herangezogen. 
+Als unter dem invertierten Mikroskop einzelne Kolonien erkennbar waren, wurden diese gepickt und in eigenen Zellkulturschalen ausgesät. Die so entstandenen heterogen exprimierenden Zellen wurden für fluoreszenzoptische Untersuchungen herangezogen. 
 
-\section{Mikroskopische Methoden}
+\section{Mikroskopische Methoden}\label{mikroskopie}
+\subsection{Fluoreszenzmikroskopische Aufnahmen}
+Im Folgenden beschriebene fluoreszenzmikrokopische Aufnahmen von lebenden Zellen wurden an einem Inversmikroskop (Axio Observer Z1, Zeiss, Göttingen) durchgeführt. Die Mikroskopie wurde mit den Plan-Apochromat 63x und Plan-Apochromat 40x Ölimmersionsobjektiv vorgenommen. Folgende Filtersets (Chroma Technology, Bellow Falls, USA) standen in Kombination mit dem jeweiligen Fluorophor zur Verfügung:
+
+\begin{table}[htsb]
+\begin{tabularx}{\textwidth}{llll}
+	\toprule
+	Fluorophor 	& Anregungsfilter	& Strahlenteiler		& Emissionsfilter\\
+	\midrule
+	Alexa 488 	& ET470/40x 			& T495LPXR 			& ET525/50x \\
+	d2			& & & \\
+	\bottomrule
+\end{tabularx}
+\end{table}
+
+ Mit einer Retiga 4000DC Kamera (Qimaging, Burnaby, Kanada) konnten hochauflösende Graustufenbilder mit einer Auflösung von 2048x2048 Bildpunkten aufgenommen werden.  
+
+\subsection{Fluoreszenzfärbungen mit SNAP-Substraten}
+
+Zur Färbung von lebenden Zellen, die ein Protein exprimierten, das den SNAP-tag trug, wurden die in \ref{chemikalien} angegebenen SNAP-Substrate verwendet.
+\\
+\\
+ Stabil oder transient exprimierende HEK293- bzw. HeLa-Zellen wurden in einer Zellkonzentration von $2,5x10^5$/\si{\milli\liter} in 100\si{\micro\liter} Medium schwarze, für die Fluoreszenzmikroskopie spezialisierte 96-well-Platten ($\mu$-Plate, ibidi, Martinsried) ausgesät und mindestens fünf Stunden oder bevorzugt über Nacht im passenden Zellkulturmedium kultiviert, um ausreichende Adhärenz zu gewährleisten. Um die Adhärenz weiter zu verbessern wurden die Mikroskopieplatten vor Verwendung für 30\si{\minute} bei 37\si{\celsius} mit Poly-D-Lysin beschichtet und einmal mit PBS gewaschen.
+\\ \\
+ Für jedes Well wurden SNAP-Substrat-Lösungen mit 1\si{\micro M} BG-Alexa 488 in 50\si{\micro\liter} DMEM++ vorbereitet.
+\\ \\
+Das Zellkulturmedium wurde abgesaugt, die Zellen mit 50\si{\micro\liter} des vorbereiteten Färbemediums mit den SNAP-Substraten für 30\si{\minute} bei 37\si{\celsius} und 5\% CO\textsubscript{2} inkubiert. Nach dem Färben wurden die Zellen drei Mal mit 100\si{\micro\liter} PBS gewaschen, um freies SNAP-Substrat, sowie eventuell störende Einflüsse des im DMEM-Zellkulturmedium enthaltenen Indikators zu reduzieren. Die so gefärbten Zellen wurden in 50\si{\micro\liter} PBS mikroskopiert.
+Zur Mikroskopie wurde das in \ref{mikroskopie} angegebene Inversmikroskop mit dem passenden Filterset verwendet.
+
+\subsection{Färbungen mit fluoreszierenden Liganden}
+Zur Fluoreszenzfärbung von Zellen, die den nicht-modifizierten \gls{beta2} exprimierten, konnten die in \ref{substrate} angegebenen extern synthetisierten fluoreszierenden Liganden verwendet werden. Dazu wurden $3x10^5$ Zellen, sowie untransfizierte HeLa-Zellen als Negativkontrolle in 150\si{\micro\liter} in 96-well-Mikroplatten ($\mu$-Plate, ibidi, Martinsried) ausgesät und mindestens 5\si{\hour} bei 37\si{\celsius} und 5\% CO \textsubscript{2} inkubiert.
+\\ \\
+Zur Färbung mit dem fluoreszierenden Liganden \gls{ici} wurden sättigende Konzentrationen des Derivates verwendet. Das Zellkulturmedium wurde durch frisches DMEM++ ersetzt, das mit 10\si{\nano M} bzw. 100\si{\nano M} der fluoreszierenden Liganden versetzt war. Nach einem einstündigen Inkubationsschritt bei 37\si{\celsius} und einmaligem Waschen mit PBS wurden die Zellen mit dem in \ref{mikroskopie} beschriebenen Inversmikroskop evaluiert.
 
 \section{Fluoreszenzoptische Methoden}
 
+Alle trFRET-Studien wurden entweder in 96-well-Platten ($\mu$-Plate, ibidi, Martinsried) oder 384-well-Platten (Nunc, Thermo Fisher Scientific, Braunschweig) durchgeführt. Die Mikroplatten wurden in einem Mikroplattenlesegerät (Pherastar FS, BMG Labtech, Ortenberg) ausgelesen. 
 
+In allen Versuchen wurde sowohl die Intensität bei 620\si{\nano\meter} als auch bei 665\si{\nano\meter} gemessen. Für jedes Well der Mikroplatten wurden jeweils 60 Messzyklen (\textit{flashes per well}) durchgeführt. Die Messwerte repräsentieren eine Fläche unter der Intensitätskurve im Zeitverlauf (\textit{AUC}). Zur numerischen Integration wurden dazu die Messbereiche zwischen 60\si{\micro\second} bis 400\si{\micro\second} nach initialer Exzitation gewählt. 
+
+\subsection{trFRET mit SNAP-Substraten}
+Zur Messung von intermolekularem trFRET zwischen $\beta_2$-Rezeptoren, die mit dem SNAP-tag versehen waren, wurden unterschiedliche Versuchsreihen durchgeführt. In einem Schritt wurde die Interaktion zwischen trFRET-Donor und trFRET-Akzeptor geprüft. Im zweiten war zu überprüfen, ob eine lineare Korrelation zwischen transfizierter DNA-Menge und trFRET-Signal bestand.
+
+\subsubsection{Interaktion zwischen trFRET-Donor und trFRET-Akzeptor}\label{interaktion}
+
+Um ausreichende Zelladhärenz zu gewährleisten, mussten alle Mikroplatten zuvor mit Poly-D-Lysin beschichtet werden. 384-well-Platten wurden dazu mit 25\si{\micro\liter} Poly-D-Lysin für 30\si{\minute} bei 37\si{\celsius} inkubiert und einmal mit PBS gewaschen.
+\\ \\
+$10^5$ Zellen pro Well der stabil oder transient exprimierenden HEK293- bzw. HeLa-Zellen wurden in 6-Tupeln für jede Bedingung in 30\si{\micro\liter} passenden Mediums in die Mikroplatten ausgesät. Die Mikroplatten wurden über Nacht bei 37\si{\celsius} und 5\% CO\textsubscript{2} inkubiert.
+\\ \\
+In Experimenten, in denen eine Ligandenstimulation erfolgte, wurde im nächsten Schritt eine Prästimulation durchgeführt. In allen Wells wurde das Zellkulturmedium durch 20\si{\micro\liter} frisches Medium mit oder ohne dem gewünschten Liganden ersetzt.
+\\ \\
+Zur Reaktion mit den SNAP-Substraten wurden die in \ref{substrate} angegebenen Donor- und Akzeptorfluorophore mit O\textsuperscript{6}-Benzylguaningruppen in doppelter Konzentration im Vergleich zur finalen Konzentration vorbereitet. Die Konzentration des Akzeptorfluorophors wurde dabei über die angegebenen Bereiche variiert, während die Konzentration des Donorfluorophors BG-Lumi4-Tb konstant auf eine finale Konzentration von 10\si{\nano M} festgesetzt wurde. Die SNAP-Substrate wurden im Vergleich zur stock-Konzentration (teilweise DMSO-haltig) in starker Verdünnung in DMEM++ angesetzt. Anschließend wurden zum Erreichen der finalen Konzentration die Lösungen 1:1 gemischt.
+\\ \\  
+Zur Reaktion zwischen SNAP-tag und Benzylguaningruppe wurde das in den Wells vorhandene Zellkulturmedium durch 10\si{\micro\liter} pro Well der vorbereiteten Lösungen ersetzt. Die Mikroplatten wurden 1\si{\hour} bei 37\si{\celsius} und 5\% CO\textsubscript{2} inkubiert.
+\\ \\
+Nach der Inkubation wurden die Zellen vier Mal mit reinem PBS gewaschen. Im Falle einer Ligandenstimulation wurden sie nach dem letzten Waschschritt in einer PBS-Lösung aufgenommen, die den Liganden enthielt, sonst wurde reiner PBS-Puffer zugegeben.
+\\ \\
+Die Mikroplatten wurden wie angegeben im Mikroplattenlesegerät ausgelesen.
+
+\subsubsection{Messung des trFRET-Signals bei Ligandenstimulation}
+
+Zur Messung des trFRET-Signals SNAP-getaggter Rezeptoren im Falle einer Ligandenstimulation wurden Versuchsreihen analog zu \ref{interaktion} durchgeführt. Die Konzentration des Akzeptorfluorophors wurde jedoch auf den Wert festgesetzt, mit dem das maximale trFRET-Signal zu erwarten war (c(BG-Lumi4) = 10\si{\nano M}; c(BG-d2) = 100\si{\nano M}).
+
+Dieser Versuch wurde in zwei Varianten durchgeführt:
+\\ \\
+In der ersten Variante erfolgte eine Prästimulation mit den Agonisten und Antagonisten, wie in \ref{interaktion} beschrieben. Die Inkubation erfolgte ebenfalls mit Lösungen, die sowohl Donor- und Akzeptorfluorophor als auch die Liganden enthielten. Schließlich wurde mit PBS-Lösungen gewaschen, die ebenfalls die Liganden enthielten.
+\\ \\
+In einer zweiten Variante wurden die Liganden ausschließlich in den letzten Puffer gegeben, in dem auch die Messung erfolgte.
+
+\subsubsection{Korrelation zwischen transfizierter DNA-Menge und trFRET-Signal}
+Zur Messung des Einflusses der transfizierten Plasmid-Masse auf die Intensität des trFRET-Signals wurden $2x10^5$ Zellen pro Well in einer -- wie beschrieben mit Poly-D-Lysin beschichteten -- 96-well-Mikroplatte ($\mu$-Plate, ibidi, Martinsried) ausgesät und über Nacht bei 37\si{\celsius} und 5\% CO\textsubscript{2} inkubiert.
+\\ \\
+Wie in \ref{transfektion} beschrieben, wurden zwischen 1\si{\nano\gram} und 200\si{\nano\gram} Plasmid-DNA, die für einen SNAP-tag tragendes Protein codierte, transfiziert. Die Zellen wurden für 5\si{\hour} bei 37\si{\celsius} und 5\% CO\textsubscript{2} inkubiert.
+\\ \\
+Anschließend wurden die transient exprimierenden Zellen mit entweder nur 10\si{\nano M} des SNAP-Substrat des Donor-Fluorophores BG-Lumi4 für 1\si{\hour} bei 37\si{\celsius} und 5\% CO \textsubscript{2} oder mit 10\si{\nano M} BG-Lumi4 und 100\si{\nano M} BG-d2 inkubiert und vier Mal mit PBS gewaschen.
+\\ \\
+Die Mikroplatten wurden im Mikroplattenlesegerät Pherastar FS (BMG Labtech, Ortenberg) ausgelesen. Über die Messung der Signalintensität bei 620\si{\nano\meter} der nur mit dem Donor-Fluorophor gefärbten Zellen konnte die Menge des exprimierten Rezeptors bestimmt werden. Parallel konnte die trFRET-Intensität bei 665\si{\nano\meter} ($\Delta$F665) der mit Donor- und Akzeptorfluorophor gefärbten Zellen gemessen werden.
+\\ \\
+Es erfolgte eine statistische Regressionsanalyse mit Prism 6 (GraphPad, La Jolla, USA), bei der die Signalintensität bei 620\si{\nano\meter} gegen die trFRET-Intensität aufgetragen wurde.
+
+\subsection{trFRET mit fluoreszierenden Liganden}
+\subsubsection{Ligandenbindung und -sättigung}
+Zur Bestimmung der Sättigungskonzentration des fluoreszierenden trFRET-Donor-Liganden wurden 8000 Zellen pro Well in Poly-D-Lysin beschichtete 384-Well-Mikroplatten ausgesät und über Nacht bei 37\si{\celsius} und 5\% CO\textsubscript{2} inkubiert. 
+\\ \\
+Zur Ligandenbindung wurde Zellkulturmedium DMEM++ mit steigenden Konzentrationen des Donor-Liganden (Lumi4-ICI) vorbereitet. Für jede Bedingung wurde ein 6-Tupel gemessen.
+\\ \\
+Das Zellkulturmedium wurde abgesaugt und durch das vorbereitete Medium, das den Liganden enthielt, ersezt. Die Mikroplatten wurden 1\si{\hour} bei 37\si{\celsius} und 5\% CO\textsubscript{2} inkubiert.
+\\ \\
+Die Zellen wurden drei Mal mit \gls{pbs} gewaschen. Die Messung erfolgte in 20\si{\micro\liter} \gls{pbs} im Mikroplattenlesegerät mit zuvor beschriebenen Einstellungen.
+
+\subsubsection{Interaktion zwischen trFRET-Donor-Ligand und trFRET-Akzeptor-Ligand}
+
+\section{Statistische Methoden}
+Wann immer möglich, erfolgte die statistische Auswertung von Messwerten. Diese wurde mithilfe von Prism 6 (GraphPad, La Jolla, USA). Statistische Signifikanz wurde mit dem Student's-t-Test überprüft. Auf Ergebnisse verschiedener Gruppen wurde eine Varianzanalyse (one-way bzw. two-way ANOVA) angewendet. Der Signifikanzwert (p-wert) wurde in beiden Fällen auf 0,05 festgelegt. Wie in den Lebenswissenschaften üblich, sind Messwerte, wenn nicht anders angegeben, mit Mittelwert und Standardfehler dargestellt. 
 
