@@ -28,66 +28,6 @@ parent={},%
 %
 }%
 }%
-\ifglsentryexists{cd}{}%
-{%
-\gls@defglossaryentry{cd}%
-{%
-name={CD},%
-sort={CD},%
-type={acronym},%
-first={Compact Disk (CD)},%
-firstplural={Compact Disks(CDs)},%
-text={CD},%
-plural={CDs},%
-description={Compact Disk},%
-descriptionplural={Compact Disk\acrpluralsuffix },%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={Compact Disk},%
-longplural={Compact Disks},%
-short={CD},%
-shortplural={CDs},%
-counter={page},%
-parent={},%
-%
-}%
-}%
-\ifglsentryexists{aa}{}%
-{%
-\gls@defglossaryentry{aa}%
-{%
-name={aA},%
-sort={aA},%
-type={acronym},%
-first={am Arsch (aA)},%
-firstplural={am Arschs(aAs)},%
-text={aA},%
-plural={aAs},%
-description={am Arsch},%
-descriptionplural={am Arsch\acrpluralsuffix },%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={am Arsch},%
-longplural={am Arschs},%
-short={aA},%
-shortplural={aAs},%
-counter={page},%
-parent={},%
-%
-}%
-}%
 \ifglsentryexists{dmso}{}%
 {%
 \gls@defglossaryentry{dmso}%
@@ -203,6 +143,96 @@ long={Dulbecco's Phosphate Buffered Saline},%
 longplural={Dulbecco's Phosphate Buffered Salines},%
 short={PBS},%
 shortplural={PBSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{trfret}{}%
+{%
+\gls@defglossaryentry{trfret}%
+{%
+name={tr-FRET},%
+sort={tr-FRET},%
+type={acronym},%
+first={time resolved Fluorescence Resonance Energy Transfer\glsspace (tr-FRET)},%
+firstplural={time resolved Fluorescence Resonance Energy Transfers\glsspace (tr-FRETs)},%
+text={tr-FRET},%
+plural={tr-FRETs},%
+description={time resolved Fluorescence Resonance Energy Transfer},%
+descriptionplural={time resolved Fluorescence Resonance Energy Transfer\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={time resolved Fluorescence Resonance Energy Transfer},%
+longplural={time resolved Fluorescence Resonance Energy Transfers},%
+short={tr-FRET},%
+shortplural={tr-FRETs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{snap}{}%
+{%
+\gls@defglossaryentry{snap}%
+{%
+name={SNAP-tag},%
+sort={SNAP-tag},%
+type={acronym},%
+first={Markenname des auf O\protect \textsuperscript {6}-Alkylguanin-DNA Alkyltransferase basierenden Proteinlabelingsystems\glsspace (SNAP-tag)},%
+firstplural={Markenname des auf O\protect \textsuperscript {6}-Alkylguanin-DNA Alkyltransferase basierenden Proteinlabelingsystemss\glsspace (SNAP-tags)},%
+text={SNAP-tag},%
+plural={SNAP-tags},%
+description={Markenname des auf O\textsuperscript {6}-Alkylguanin-DNA Alkyltransferase basierenden Proteinlabelingsystems},%
+descriptionplural={Markenname des auf O\textsuperscript {6}-Alkylguanin-DNA Alkyltransferase basierenden Proteinlabelingsystems\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Markenname des auf O\protect \textsuperscript {6}-Alkylguanin-DNA Alkyltransferase basierenden Proteinlabelingsystems},%
+longplural={Markenname des auf O\protect \textsuperscript {6}-Alkylguanin-DNA Alkyltransferase basierenden Proteinlabelingsystemss},%
+short={SNAP-tag},%
+shortplural={SNAP-tags},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{clip}{}%
+{%
+\gls@defglossaryentry{clip}%
+{%
+name={CLIP-tag},%
+sort={CLIP-tag},%
+type={acronym},%
+first={s. SNAP-tag\glsspace (CLIP-tag)},%
+firstplural={s. SNAP-tags\glsspace (CLIP-tags)},%
+text={CLIP-tag},%
+plural={CLIP-tags},%
+description={s. SNAP-tag},%
+descriptionplural={s. SNAP-tag\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={s. SNAP-tag},%
+longplural={s. SNAP-tags},%
+short={CLIP-tag},%
+shortplural={CLIP-tags},%
 counter={page},%
 parent={},%
 %
