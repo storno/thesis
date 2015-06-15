@@ -19,9 +19,10 @@
 \input{pages/title}
 \input{pages/disclaimer}
 \input{pages/acknowledgements}
-\glsaddall{} % add all defined terms to glossary, even if not referenced in text
-\input{glossary/acronyms}
 
+\input{glossary/acronyms}
+\glossarystyle{index}
+\glsaddall{} % add all defined terms to glossary, even if not referenced in text
 \printglossary[title=Verzeichnis der Abkürzungen,type=\acronymtype]
 
 \microtypesetup{protrusion=false}
@@ -30,7 +31,7 @@
 
 \mainmatter{}
 
-\input{chapters/introduction} %Beispielseiten
+%\input{chapters/introduction} %Beispielseiten
 
 \input{chapters/einleitung}
 \input{chapters/materialmethoden}
@@ -45,6 +46,7 @@
 \listoffigures{}
 \listoftables{}
 \microtypesetup{protrusion=true}
+
 \printbibliography{}
 
 \end{document}

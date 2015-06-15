@@ -238,3 +238,33 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{mis}{}%
+{%
+\gls@defglossaryentry{mis}%
+{%
+name={MIS},%
+sort={MIS},%
+type={acronym},%
+first={Membraninsertionssequenz\glsspace (MIS)},%
+firstplural={Membraninsertionssequenzs\glsspace (MISs)},%
+text={MIS},%
+plural={MISs},%
+description={Membraninsertionssequenz},%
+descriptionplural={Membraninsertionssequenz\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Membraninsertionssequenz},%
+longplural={Membraninsertionssequenzs},%
+short={MIS},%
+shortplural={MISs},%
+counter={page},%
+parent={},%
+%
+}%
+}%

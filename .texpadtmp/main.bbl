@@ -19,47 +19,89 @@
 
 \refsection{0}
   \sortlist{nyt}{nyt}
-    \entry{Ahles2011}{article}{}
+    \entry{Gronemeyer2006}{article}{}
       \name{labelname}{5}{}{%
-        {{uniquename=0,hash=30f5bce5a067a09644d7a7f741c77cc9}{Ahles}{A\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=d167f7a91ee7324160c05fe146f2cae3}{Rochais}{R\bibinitperiod}{Francesca}{F\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=54fb9c3761e724a81a31f27e35e29d68}{Frambach}{F\bibinitperiod}{Torsten}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=92248c8444dd1286e9066cac61d9e823}{Bünemann}{B\bibinitperiod}{Moritz}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=acaea11c14b745fade9d24235dd48bae}{Engelhardt}{E\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ea849cec379edeec252ccf8c15e38a11}{Gronemeyer}{G\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e26a6088950423d91da3a6b628624b62}{Chidley}{C\bibinitperiod}{Christopher}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e9c47c4b727032b6b7b3d499445f42b0}{Juillerat}{J\bibinitperiod}{Alexandre}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=17d8535e58377e118cc26c2956c98c61}{Heinis}{H\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4baba1a7076efa3570b3ef15b073806e}{Johnsson}{J\bibinitperiod}{Kai}{K\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{5}{}{%
-        {{uniquename=0,hash=30f5bce5a067a09644d7a7f741c77cc9}{Ahles}{A\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=d167f7a91ee7324160c05fe146f2cae3}{Rochais}{R\bibinitperiod}{Francesca}{F\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=54fb9c3761e724a81a31f27e35e29d68}{Frambach}{F\bibinitperiod}{Torsten}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=92248c8444dd1286e9066cac61d9e823}{Bünemann}{B\bibinitperiod}{Moritz}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=acaea11c14b745fade9d24235dd48bae}{Engelhardt}{E\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ea849cec379edeec252ccf8c15e38a11}{Gronemeyer}{G\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e26a6088950423d91da3a6b628624b62}{Chidley}{C\bibinitperiod}{Christopher}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e9c47c4b727032b6b7b3d499445f42b0}{Juillerat}{J\bibinitperiod}{Alexandre}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=17d8535e58377e118cc26c2956c98c61}{Heinis}{H\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4baba1a7076efa3570b3ef15b073806e}{Johnsson}{J\bibinitperiod}{Kai}{K\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{5707c5b37190a9d4c271539c5feb077a}
-      \strng{fullhash}{5487864ea237f9429199d58a54d21913}
-      \field{sortinit}{A}
-      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
-      \field{labelyear}{2011}
-      \field{labelmonth}{08}
+      \strng{namehash}{457c07e221c24f415d978e3967734065}
+      \strng{fullhash}{36dfc9a50b2461103a5c748a07ef9a0b}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labelyear}{2006}
       \field{datelabelsource}{}
-      \field{labeltitle}{{A polymorphism-specific "memory" mechanism in the $\beta$(2)-adrenergic receptor.}}
-      \field{abstract}{Signaling through G protein (heterotrimeric guanosine triphosphate-binding protein)-coupled receptors is affected by polymorphisms in receptor-encoding genes. Using fluorescence resonance energy transfer, we found that the $\beta$(2)-adrenergic receptor ($\beta$(2)AR) responded to repeated activation with altered activation kinetics. Polymorphic variants of the $\beta$(2)AR displayed divergent changes of $\beta$(2)AR activation kinetics that closely mimicked their different efficacies to generate cyclic adenosine 3',5'-monophosphate. More efficacious variants became faster in their activation kinetics, whereas less efficacious variants became slower, compared to their initial activation. These differences depended on phosphorylation of the receptor by G protein-coupled receptor kinases. Our findings suggest an intrinsic, polymorphism-specific property of the $\beta$(2)AR that alters activation kinetics upon continued stimulation and that may account for individual drug responses.}
-      \field{issn}{1937-9145}
-      \field{journaltitle}{Sci Signal}
-      \field{month}{08}
-      \field{number}{185}
-      \field{title}{{A polymorphism-specific "memory" mechanism in the $\beta$(2)-adrenergic receptor.}}
-      \field{volume}{4}
-      \field{year}{2011}
-      \field{pages}{ra53}
+      \field{labeltitle}{{Directed evolution of O6-alkylguanine-DNA alkyltransferase for applications in protein labeling}}
+      \field{abstract}{The specific reaction of O6-alkylguanine-DNA alkyltransferase (AGT) with O6-benzylguanine (BG) derivatives allows for a specific labeling of AGT fusion proteins with chemically diverse compounds in living cells and in vitro. The efficiency of the labeling depends on a number of factors, most importantly on the reactivity, selectivity and stability of AGT. Here, we report the use of directed evolution and two different selection systems to further increase the activity of AGT towards BG derivatives by a factor of 17 and demonstrate the advantages of this mutant for the specific labeling of AGT fusion proteins displayed on the surface of mammalian cells. The results furthermore identify two regions of the protein outside the active site that influence the activity of the protein towards BG derivatives.}
+      \field{isbn}{1741-0126 (Print)$\backslash$r1741-0126 (Linking)}
+      \field{issn}{17410126}
+      \field{journaltitle}{Protein Eng Des Sel}
+      \field{number}{7}
+      \field{title}{{Directed evolution of O6-alkylguanine-DNA alkyltransferase for applications in protein labeling}}
+      \field{volume}{19}
+      \field{year}{2006}
+      \field{pages}{309\bibrangedash 316}
       \verb{doi}
-      \verb 10.1126/scisignal.2001681
+      \verb 10.1093/protein/gzl014
       \endverb
       \verb{file}
-      \verb :Users/ska/Library/Application Support/Mendeley Desktop/Downloaded/Ahles et al. - 2011 - A polymorphism-specific memory mechanism in the $\beta$(2)-adrenergic receptor.pdf:pdf
+      \verb :Users/ska/Documents/thesis/literature/2006/Gronemeyer et al/Gronemeyer et al. - 2006 - Directed evolution of O6-alkylguanine-DNA alkyltransferase for applications in protein labeling.pdf:pdf
+      \endverb
+      \keyw{Directed evolution,O6-alkylguanine-DNA alkyltransferases,Phage display,Protein labeling}
+    \endentry
+    \entry{Salahpour2004}{article}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=2d20845c786800e0e4a7539bb00916d5}{Salahpour}{S\bibinitperiod}{Ali}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=be79da2114b81142d5fd7920533a3205}{Angers}{A\bibinitperiod}{Stéphane}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bac90c16b11cbada8a0586694ca0f84b}{Mercier}{M\bibinitperiod}{Jean-François}{J\bibinithyphendelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=145c5b0dcb94470a59e4f6a120e05cd5}{Lagacé}{L\bibinitperiod}{Monique}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bc5ddd1bd419c9c57f7e3dd80489a3a3}{Marullo}{M\bibinitperiod}{Stefano}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7ea48095889361f5fa9410c51a3acfa2}{Bouvier}{B\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=2d20845c786800e0e4a7539bb00916d5}{Salahpour}{S\bibinitperiod}{Ali}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=be79da2114b81142d5fd7920533a3205}{Angers}{A\bibinitperiod}{Stéphane}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bac90c16b11cbada8a0586694ca0f84b}{Mercier}{M\bibinitperiod}{Jean-François}{J\bibinithyphendelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=145c5b0dcb94470a59e4f6a120e05cd5}{Lagacé}{L\bibinitperiod}{Monique}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bc5ddd1bd419c9c57f7e3dd80489a3a3}{Marullo}{M\bibinitperiod}{Stefano}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7ea48095889361f5fa9410c51a3acfa2}{Bouvier}{B\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{dc74020f7331fc28ea9001166848c025}
+      \strng{fullhash}{11a5e986863549ba370a1d67279824f5}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labelyear}{2004}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Homodimerization of the beta2-adrenergic receptor as a prerequisite for cell surface targeting.}}
+      \field{abstract}{Although homodimerization has been demonstrated for a large number of G protein-coupled receptors (GPCRs), no general role has been attributed to this process. Because it is known that oligomerization plays a key role in the quality control and endoplasmic reticulum (ER) export of many proteins, we sought to determine if homodimerization could play such a role in GPCR biogenesis. Using the beta2-adrenergic receptor (beta2AR) as a model, cell fractionation studies revealed that receptor homodimerization is an event occurring as early as the ER. Supporting the hypothesis that receptor homodimerization is involved in ER processing, beta2AR mutants lacking an ER-export motif or harboring a heterologous ER-retention signal dimerized with the wild-type receptor and inhibited its trafficking to the cell surface. Finally, in addition to inhibiting receptor dimerization, disruption of the putative dimerization motif, 276GXXXGXXXL284, prevented normal trafficking of the receptor to the plasma membrane. Taken together, these data indicate that beta2AR homodimerization plays an important role in ER export and cell surface targeting.}
+      \field{issn}{0021-9258}
+      \field{journaltitle}{J Biol Chem}
+      \field{month}{08}
+      \field{number}{32}
+      \field{title}{{Homodimerization of the beta2-adrenergic receptor as a prerequisite for cell surface targeting.}}
+      \field{volume}{279}
+      \field{year}{2004}
+      \field{pages}{33390\bibrangedash 7}
+      \verb{doi}
+      \verb 10.1074/jbc.M403363200
+      \endverb
+      \verb{file}
+      \verb :Users/ska/Documents/thesis/literature/2004/Salahpour et al/Salahpour et al. - 2004 - Homodimerization of the beta2-adrenergic receptor as a prerequisite for cell surface targeting.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://stke.sciencemag.org/cgi/doi/10.1126/scisignal.2001681%20http://www.ncbi.nlm.nih.gov/pubmed/21868359
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/15155738
       \endverb
+      \keyw{Adrenergic,Binding Sites,Biological Transport,Cell Fractionation,Cell Line,Cell Membrane,Cell Membrane: metabolism,Dimerization,Endoplasmic Reticulum,Endoplasmic Reticulum: metabolism,Energy Transfer,Enzyme-Linked Immunosorbent Assay,Fluorescent Antibody Technique,Gene Expression,Green Fluorescent Proteins,Hemagglutinins,Hemagglutinins: genetics,Luciferases,Luciferases: genetics,Luminescent Measurements,Luminescent Proteins,Luminescent Proteins: genetics,Mutagenesis,Polymerase Chain Reaction,Receptors,Recombinant Fusion Proteins,Structure-Activity Relationship,Transfection,beta-2,beta-2: chemistry,beta-2: genetics,beta-2: metabolism}
     \endentry
   \endsortlist
 \endrefsection

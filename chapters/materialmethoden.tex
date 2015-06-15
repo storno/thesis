@@ -11,9 +11,10 @@ Die folgenden Plasmide stammen entweder aus dem Laborbestand (IPT, TU München) 
         \midrule
         pSNAPf		&		-						&	New England Biolabs GmbH (Frankfurt a. M.)\\
         pCLIPf		&		-						&	New England Biolabs GmbH (Frankfurt a. M.)\\
-        pSNAPf		&	5mis-\textit{ADRB2}-16Gly	&	New England Biolabs GmbH (Frankfurt a. M.)\\
-        pCLIPf		&	5mis-\textit{ADRB2}-16Gly	&	New England Biolabs GmbH (Frankfurt a. M.)\\
-        pDONR221	&	\textit{ADRB2}-16Arg	   		&	IPT (TU München)\\
+        pSNAPf		&	5mis-SNAP-\textit{ADRB2}-Gly16	&	New England Biolabs GmbH (Frankfurt a. M.)\\
+        pCLIPf		&	5mis-SNAP-\textit{ADRB2}-Gly16	&	New England Biolabs GmbH (Frankfurt a. M.)\\
+        pENTR	&	\textit{ADRB2}-Arg16	   		&	IPT (TU München)\\
+        pT-REx Dest 30	&	-   					&	IPT (TU München)\\
     \bottomrule
     \end{tabularx}
 \end{table}
@@ -25,9 +26,11 @@ In die in der folgenden Tabelle aufgeführten Vektoren wurden die angegebenen In
 \toprule
 Vektor		&	Insert		&	Polymorphismus / Mutation\\
 \midrule
-pSNAPf		&	5mis-\textit{ADRB2}	&	Arg16, Tyr284\\
+pSNAPf		&	5mis-SNAP-\textit{ADRB2}	&	Arg16, Tyr284\\
 pSNAPf		&	\textit{ADRB2}		&	Arg16\\
 pCLIPf		&	\textit{ADRB2}		&	Arg16\\
+pENTR		&	\textit{ADRB2}-SNAP-\textit{ADRB2}'	& Arg16\\
+pT-REx Dest 30	& \textit{ADRB2}-SNAP-\textit{ADRB2}'	& Arg16\\
 \bottomrule
 \end{tabularx}
 \end{table}
@@ -38,7 +41,7 @@ Zur DNA-Amplifikation wurde der Bakterienstamm E. coli (DH10B) (IPT, TU München
 \subsection{Zelllinien \& Zellkultur}
 Zur Mikroskopie bzw. als Negativkontrollen wurden unverändert folgende Zelllinien verwendet:
 
-\begin{table}[htsp]
+\begin{table}[!htsp]
 	\begin{tabularx}{\textwidth}{lll}
 \toprule
 Name		&	Ursprung (Organ)				&	Referenz\\
@@ -60,10 +63,10 @@ Basierend auf den angegebenen HEK293- und HeLa-Zelllinien wurden folgende stabil
 \begin{table}[htsb]
 \begin{tabularx}{\textwidth}{lll}
 \toprule
-Name		&	Stabil überexprimiertes Protein	&	Polymorphismen des Proteins\\
+Name		&	Stabil überexprimiertes Protein	&	Polymorphismen/Mutation\\
 \midrule
-SNAP-$\beta_2$AR-HEK293		&	5mis-SNAP-\textit{ADRB2}		&	Arg16, Gly16, Tyr284\\
-SNAP-$\beta_2$AR-HeLa		&	5mis-SNAP-\textit{ADRB2}		&	Arg16, Gly16, Tyr284\\
+SNAP-$\beta_2$AR-HEK293		&	5mis-SNAP-ADRB2		&	Arg16, Gly16, Tyr284\\
+SNAP-$\beta_2$AR-HeLa		&	5mis-SNAP-ADRB2		&	Arg16, Gly16, Tyr284\\
 \bottomrule
 \end{tabularx}
 \end{table}
@@ -114,12 +117,23 @@ Die Oligonukleotidprimer wurden entweder von Eurofins MWG Biotech (Ebersberg) od
 \begin{table}[htsb] 
 \begin{tabularx}{\textwidth}{lXl}
 \toprule
-Name		&	Sequenz 					&	Produkt\\
+Name		&	Sequenz 	(5' $\rightarrow$ 3')	&	Produkt\\
 \midrule
-ADRB2-SbfI-for	&&\\
-ADRB2-XhoI-rev	&	AAA AAA CCT GCA GGC GGG CAA CCC GGG AAC GG	&	\textit{SbfI}-\textbf{ADRB2}-\textit{XhoI}\\
-ADRB2-c850t\_t851a\_for	& 	CAT GGG CAC TTT CAC CTA CTG CTG GCT GCC CTT C & ADRB2(Tyr284)\\
-ADRB2-c850t\_t851a\_rev	&	GAA GGG CAG CCA GCA GTA GGT GAA AGT GCC CAT G &\\
+\multicolumn{3}{c}{Klonierung}\\
+&&\\
+ADRB2-SbfI-for	& 	AAA AAA CCT GCA GGC GGG CAA CCC GGG AAC GG	&	\multirow{4}{*}{\textit{SbfI}-\textbf{ADRB2}-\textit{XhoI}}\\
+ADRB2-XhoI-rev	&	ATG ACT CAC TGC TGT AAC TCG AGT TTT TT		&	\\
+\midrule
+SNAP-MfeI-for	&	AAA AAA CAA TTG CGA CAA AGA CTG CGA AAT GAA G 	& \multirow{4}{*}{\textit{MfeI}-\textbf{SNAP-tag}-\textit{MfeI}}\\
+SNAP-MfeI-rev	&	AAA AAA CAA TTG ATA CCC AGC CCA GGC TTG CC		& \\
+\midrule
+\multicolumn{3}{c}{Mutagenese}\\
+&&\\
+ADRB2-c850t\_t851a-for	& 	CAT GGG CAC TTT CAC CTA CTG CTG GCT GCC CTT C & \multirow{4}{*}{\textbf{ADRB2}(Leu284Tyr)}\\
+ADRB2-c850t\_t851a-rev	&	GAA GGG CAG CCA GCA GTA GGT GAA AGT GCC CAT G &	\\
+\midrule
+ADRB2-c549t-for & CCC ACC AGG AAG CCA TCA ATT GCT ATG CCA ATG A & \multirow{4}{*}{\textbf{ADRB2}-MfeI-\textbf{ADRB2}'}\\
+ADRB2-c549t-rev & TCA TTG GCA TAG CAA TTG ATG GCT TCC TGG TGG G & \\
 \bottomrule
 \end{tabularx}
 \end{table}
@@ -138,7 +152,7 @@ Epinephrin		&	natürlicher Adrenorezeptoragonist				& 	Sigma-Aldrich GmbH\\
 
 \section{Molekularbiologische Methoden}
 \subsection{DNA-Amplifikation mittels Polymerasekettenreaktion (PCR)}
-Zur Amplifikation von kodierender DNA wurde die Methode der Polymerasekettenreaktion (PCR) mittels des Enzyms AccuPrime \textit{pfx} DNA Polymerase verwendet. Dabei wurde folgende Reaktionsmischung vorbereitet.
+Zur Amplifikation von kodierender DNA wurde die Methode der Polymerasekettenreaktion (PCR) mittels des Enzyms AccuPrime \textit{pfx} DNA Polymerase verwendet. Dabei wurde folgendesReaktionsgemisch Reaktionsgemisch vorbereitet.
 
 \begin{table}[htsb]
 \begin{tabular}{ll}
@@ -151,7 +165,7 @@ ddH$_2$O								& ad 50\si{\micro\liter}\\
 \end{tabular}
 \end{table}
 
-Die Reaktionsmischung wurde nach folgendem Protokoll in einem Mastercycler Pro (Eppendorf, Hamburg) zur DNA-Amplifikation den angegebenen Zyklen ausgesetzt.
+Das Reaktionsgemisch wurde nach folgendem Protokoll in einem Mastercycler Pro (Eppendorf, Hamburg) zur DNA-Amplifikation den angegebenen Zyklen ausgesetzt.
 \begin{table}[htsb]
 \begin{tabularx}{\textwidth}{lllc}
 \toprule
@@ -212,7 +226,7 @@ Ein Ligationsansatz wurde folgendermaßen hergestellt:
 10x T4-Ligase Puffer			& 1,5\si{\micro\liter}\\
 T4 DNA-Ligase					& 1\si{\micro\liter}\\
 Vektor-DNA 						& 2,5\si{\micro\liter} $\equiv$ 100\si{\nano\gram}\\
-Insert-DNA 						& xx\si{\micro\liter}\\
+Insert-DNA 						& xx \si{\micro\liter}\\
 & \\
 ddH$_2$O						& ad 15\si{\micro\liter}\\
 \end{tabular}
@@ -220,11 +234,58 @@ ddH$_2$O						& ad 15\si{\micro\liter}\\
 
 Die Ligation erfolgte 30\si{\minute} -- 60\si{\minute} bei 22\si{\celsius} oder über Nacht bei 16\si{\celsius}. Anschließend wurden 3\si{\micro\liter} für die Transformation von DH10B-Bakterien verwendet (s. \ref{transformation}).
 
-\subsection{Messung der DNA-Konzentrationen}
-Die Bestimmung der Konzentration in Wasser gelöster DNA erfolgte mittels des Spektrophotometers ND-1000 (NanoDrop, Wilmington, USA) und der vom Hersteller mitgelieferten Software. Mithilfe der NanoDrop Software konnte über die Absorption bei 260\si{\nano\meter} die Konzentration der gelösten DNA und über den Quotienten der Absorption bei 260\si{\nano\meter} und 280\si{\nano\meter} die Reinheit der Probe bestimmt werden. Lag der Quotient über 1,8, konnte von einem hohen Reinheitsgrad, d.h. geringer Kontamination mit Proteinen, Phenol oder anderen Kontaminanten ausgegangen werden.
+\subsection{Klonierung mittels Gateway-Technologie}
+Die Gateway Technologie (Invitrogen, Karlsruhe) ist ein kommerziell verfügbares System zur effizienten Klonierung und Transfektion mittels gelieferter wohldefinierter Vektoren. Es wird dabei zwischen "`Entry-"' und Destinationsvektoren unterschieden. In dieser Arbeit wurde ein bestehender "`Entry-Vektor'" modifiziert und mit der LR-Reaktion in einen Destinations kloniert.
 
-\subsection{DNA-Sequenzierung}
-Die Sequenzierung von Plasmid-DNA und PCR-Produkten wurde durch Eurofins MWG Biotech (Ebersberg) durchgeführt. Dazu wurden 20\si{\micro\liter} in ddH$_2$O gelöster DNA der Konzentration 0,1\si{\micro\gram/\micro\liter} zur Sequenzierung gegeben und die Sequenz anschließend mit der Software MacVector (MacVector, Inc.) mit der erwarteten Basenfolge abgeglichen.
+\subsubsection{LR-Reaktion}
+Die im Kit enthaltenen Enzyme "`Excisionase"', "`Integration Host Factor"' und "`Integrase"' katalysieren die Rekombination zwischen der mit der \textit{attL}-Sequenz flankierten DNA im Entryvektor und dem mit der \textit{attR}-Sequenz flankiertem Abschnitt des Destinationsvektors (\textit{LR-Reaktion}).
+
+\begin{table}[htsb]
+\begin{tabular}{ll}
+pENTR (Entryvektor)				& 150\si{\nano\gram}\\
+pT-Rex DEST30					& 150\si{\nano\gram}\\
+TE-Puffer, pH 8					& ad 8\si{\micro\liter}\\
+LR-Clonase II					& 2\si{\micro\liter}\\
+\end{tabular}
+\end{table}
+Das so vorbereitete Reaktionsgemisch wurde 1\si{\hour} bei 25\si{\celsius} inkubiert. Darauf wurde 1\si{\micro\liter} Proteinase K zugegeben und die Reaktion so durch 10\si{\minute} Inkubation bei 37\si{\celsius} gestoppt. 1\si{\micro\liter} des DNA-Reaktionsgemisches wurde wie beschrieben in DH10B-Bakterien elektroporiert und so amplifiziert.
+
+\subsection{Mutagenese}
+Zur Generierung des dimerisierungsdefizienten Variante Tyr284 des \gls{beta2} und der Klonierung des SNAP-tags in den zweiten extrazellulären Loop des \gls{beta2} wurde der "`QuikChange Lightning Site-Directed Mutagenesis Kit"' (Agilent, Waldbronn) verwendet.  
+
+Die Mutagenese beruht auf einander komplementären "`Vorwärts-"' und "`Rückwärtsprimern"', die die gewünschte Mutation enthalten. Eine DNA-Polymerase katalysierte die Elongation der Plasmide. 
+Das Reaktionsgemisch wurde den nachfolgend beschriebenen Zyklen ausgesetzt. Dadurch wurden die gewünschte Mutation tragende Plasmide generiert.
+
+\begin{table}[htsb]
+\begin{tabular}{ll}
+10x Reaktionspuffer				& 5\si{\micro\liter}\\
+Ausgansplasmid					& 100\si{\nano\gram}\\
+Vorwärtsprimer					& 125\si{\nano\gram}\\
+Rückwärtsprimer					& 125\si{\nano\gram}\\
+dNTP-Mix						& 1\si{\micro\liter}\\
+QuikSolution-Reagenz			& 1,5\si{\micro\liter}\\
+ddH$_2$O						& ad 50\si{\micro\liter}\\
+DNA-Polymerase Quikchange Lightning		& 1\si{\micro\liter}
+\end{tabular}
+\end{table}
+
+\begin{table}[htsb]
+\begin{tabularx}{\textwidth}{clc}
+\toprule
+Temperatur 		& Dauer				& Zyklen\\
+\midrule
+95\si{\celsius}	& 120\si{\second}		& 1\\
+\midrule
+95\si{\celsius}	& 20\si{\second}		& \\
+60\si{\celsius}	& 10\si{\second}		& 18\\
+68\si{\celsius}	& 30\si{\second/kb}	& \\
+\midrule
+68\si{\celsius}	& 300\si{\second}		& 1\\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+Das Reaktionsgemisch wurde nachfolgend mit 2\si{\micro\liter} des DpnI-Enzyms 5\si{\minute} bei 37\si{\celsius} verdaut. Mittels dieses Enzyms wurde methylierte und hemimethylierte DNA -- damit das nicht mutierte Ausgangsplasmid -- degradiert. Anschließend wurden 2\si{\micro\liter} des so verdauten PCR-Produktes mittels Transformation durch Elektroporation in DH10B-Bakterien und Mini-DNA-Kultur und -aufreinigung amplifiziert und die Mutagenese über DNA-Sequenzierung verifiziert. 
 
 \subsection{Transformation elektrokompetenter DH10B-Bakterien} \label{transformation}
 
@@ -252,7 +313,6 @@ nach Resistenzgen des Plasmids:	& Ampicillin 100\si{\micro\gram/\milli\liter}&\\
 Zur DNA-Amplifikation von Plasmiden oder Ligationsprodukten wurden 0,5\si{\micro\liter} Plasmid-DNA bzw. 3\si{\micro\liter} Ligationsreaktion zu 50\si{\micro\liter} elektrokompetenten DH10B-Bakterien gegeben, in eine Küvette (Gene Pulser 0,1\si{\centi\meter} Cuvette, Bio-Rad GmbH, München) überführt und mit einem Elektroporationsgerät (MicroPulser, Bio-Rad GmbH, München) eine gepulste Spannung von initial 1,8\si{\kilo\volt} angelegt. Das Elektroporationsprodukt wurde sofort in ein 1,5\si{\milli\liter}-Reaktionsgefäß überführt und in einem Schüttelinkubator (Thermomixer, Eppendorf AG, Hamburg) für 1\si{\hour} bei 37\si{\celsius} und 350\si{rpm} inkubiert. 
 
 Bei Plasmid-Amplifikation wurden verschiedene Verdünnungen um 1:10, bei Ligation das vollständige Bakterienvolumen auf Agarplatten ausgestrichen, die über das dem Resistenzgen des Vektors entsprechende Antibiotikum verfügten. Die Agarplatten wurden über Nacht bei 37\si{\celsius} inkubiert.
-
 \subsection{Mini/Maxi-Kultur und Mini/Maxi-DNA-Aufreinigung}
 Zur weiteren DNA-Amplifikation im Rahmen einer Mini-Kultur wurde mittels einer sterilen Pipettenspitze eine einzelne Bakterienkolonie von einer Agarplatte aufgenommen und in ein Reaktionsgefäß mit 4\si{\milli\liter} LB-Medium und dem Vektor entsprechenden Antibiotikum (Ampicillin 100\si{\micro\gram/\milli\liter} bzw. Kanamycin 33\si{\micro\gram/\milli\liter}) abgeworfen.
 In einem Schüttelinkubator (Thermoschüttler, Adolf-Kühner AG, Birsfelden) wurde die Kultur mindestens 6\si{\hour} oder über Nacht bei 37\si{\celsius} und 170\si{rpm} inkubiert.
@@ -273,12 +333,18 @@ Nach Restriktionsverdau zur Integritätsprüfung der über Mini-Präparation amp
 
 \subsubsection{Maxi-DNA-Aufreinigung}
 Die Maxi-Kulturen wurden bei 6000g für 10\si{\minute} bei 4\si{\celsius} abzentrifugiert (Zentrifuge 5810R, Eppendorf, Hamburg), der Überstand verworfen.
-Die DNA-Aufreinigung der Maxi-Kultur erfolgte entsprechend den Vorgaben des Herstellers des  Plasmid Maxi Kits von Qiagen (Hilden). Dazu wurde nach Degradation der in der Bakterienkultur befindlichen RNAasen eine alkalische Zelllyse durchgeführt, der pH-Wert anschließend angepasst und in salzfreier Lösung bei passendem pH die negativ geladene DNA über eine Anionenaustauschersäule gebunden, eluiert und mit Isopropanol präzipitiert. Das luftgetrocknete DNA-Pellet wurde in 150\si{\micro\liter} ddH$_2$O gelöst und die Konzentration wie beschrieben bestimmt. 
+Die DNA-Aufreinigung der Maxi-Kultur erfolgte entsprechend den Vorgaben des Herstellers des Plasmid Maxi Kits von Qiagen (Hilden). Dazu wurde nach Degradation der in der Bakterienkultur befindlichen RNAasen eine alkalische Zelllyse durchgeführt, der pH-Wert anschließend angepasst und in salzfreier Lösung bei passendem pH die negativ geladene DNA über eine Anionenaustauschersäule gebunden, eluiert und mit Isopropanol präzipitiert. Das luftgetrocknete DNA-Pellet wurde in 150\si{\micro\liter} ddH$_2$O gelöst und die Konzentration wie beschrieben bestimmt. 
 
 \subsection{Enzymatische Deglykosylierung}
 N-Glykosidase F (PNGase F, New England Biolabs, Frankfurt am Main) ist ein Enzym, das N-Glykan-Ketten hydrolysiert. Es eignet sich damit zur Deglykosylierung von humanen Proteinen.
 
  In 384-well-Mikrotiterplatten wurden 7000 Zellen, die das zu deglykosylierende Protein exprimierten ausgesät und über Nacht inkubiert. Zur Deglykosylierung wurden 60U der des PNGase-Enzyms mit DMEM++ gemischt. Das Zellkulturmedium wurde durch dieses Medium ersetzt. Zur enzymatischen Deglykosylierung wurden die Mikrotiterplatten 1\si{\hour} bei 37\si{\celsius} und 5\%CO$_2$ inkubiert. Darauf wurden die Zellen für weitere fluoreszenzoptische Färbungen, wie in \ref{interaktion} beschrieben, verwendet.
+ 
+\subsection{Messung der DNA-Konzentrationen}
+Die Bestimmung der Konzentration in Wasser gelöster DNA erfolgte mittels des Spektrophotometers ND-1000 (NanoDrop, Wilmington, USA) und der vom Hersteller mitgelieferten Software. Mithilfe der NanoDrop Software konnte über die Absorption bei 260\si{\nano\meter} die Konzentration der gelösten DNA und über den Quotienten der Absorption bei 260\si{\nano\meter} und 280\si{\nano\meter} die Reinheit der Probe bestimmt werden. Lag der Quotient über 1,8, konnte von einem hohen Reinheitsgrad, d.h. geringer Kontamination mit Proteinen, Phenol oder anderen Kontaminanten ausgegangen werden.
+
+\subsection{DNA-Sequenzierung}
+Die Sequenzierung von Plasmid-DNA und PCR-Produkten wurde durch Eurofins MWG Biotech (Ebersberg) durchgeführt. Dazu wurden 20\si{\micro\liter} in ddH$_2$O gelöster DNA der Konzentration 0,1\si{\micro\gram/\micro\liter} zur Sequenzierung gegeben und die Sequenz anschließend mit der Software MacVector (MacVector, Inc.) mit der erwarteten Basenfolge abgeglichen.
 
 \section{Methoden der eukaryotischen Zellbiologie}
 \subsection{Kultivierung eukaryotischer Zelllinien} \label{Kultur}

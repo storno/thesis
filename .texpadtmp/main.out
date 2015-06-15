@@ -1,54 +1,63 @@
 \BOOKMARK [0][-]{Doc-Start}{Danksagung}{}% 1
 \BOOKMARK [0][-]{section*.1}{Verzeichnis der Abk\374rzungen}{}% 2
-\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 3
-\BOOKMARK [1][-]{section.1.1}{Firstsection}{chapter.1}% 4
-\BOOKMARK [2][-]{subsection.1.1.1}{Subsection}{section.1.1}% 5
-\BOOKMARK [1][-]{section.1.2}{Section}{chapter.1}% 6
-\BOOKMARK [0][-]{chapter.2}{Einleitung}{}% 7
-\BOOKMARK [0][-]{chapter.3}{Material \046 Methoden}{}% 8
-\BOOKMARK [1][-]{section.3.1}{Material}{chapter.3}% 9
-\BOOKMARK [2][-]{subsection.3.1.1}{Plasmide}{section.3.1}% 10
-\BOOKMARK [2][-]{subsection.3.1.2}{Bakterien}{section.3.1}% 11
-\BOOKMARK [2][-]{subsection.3.1.3}{Zelllinien \046 Zellkultur}{section.3.1}% 12
-\BOOKMARK [2][-]{subsection.3.1.4}{Chemikalien \046 Reagenzien}{section.3.1}% 13
-\BOOKMARK [2][-]{subsection.3.1.5}{SNAP-Substrate und fluoreszierende Liganden}{section.3.1}% 14
-\BOOKMARK [2][-]{subsection.3.1.6}{Enzyme}{section.3.1}% 15
-\BOOKMARK [2][-]{subsection.3.1.7}{Oligonukleotidprimer}{section.3.1}% 16
-\BOOKMARK [2][-]{subsection.3.1.8}{Pharmaka}{section.3.1}% 17
-\BOOKMARK [1][-]{section.3.2}{Molekularbiologische Methoden}{chapter.3}% 18
-\BOOKMARK [2][-]{subsection.3.2.1}{DNA-Amplifikation mittels Polymerasekettenreaktion \(PCR\)}{section.3.2}% 19
-\BOOKMARK [2][-]{subsection.3.2.2}{Agarose-Gelelektrophorese}{section.3.2}% 20
-\BOOKMARK [2][-]{subsection.3.2.3}{Extraktion von DNA aus Agarosegelen}{section.3.2}% 21
-\BOOKMARK [2][-]{subsection.3.2.4}{Restriktionsenzymverdau von PCR-Produkten und Plasmid-DNA}{section.3.2}% 22
-\BOOKMARK [2][-]{subsection.3.2.5}{Ligation von DNA-Fragmenten}{section.3.2}% 23
-\BOOKMARK [2][-]{subsection.3.2.6}{Messung der DNA-Konzentrationen}{section.3.2}% 24
-\BOOKMARK [2][-]{subsection.3.2.7}{DNA-Sequenzierung}{section.3.2}% 25
-\BOOKMARK [2][-]{subsection.3.2.8}{Transformation elektrokompetenter DH10B-Bakterien}{section.3.2}% 26
-\BOOKMARK [2][-]{subsection.3.2.9}{Mini/Maxi-Kultur und Mini/Maxi-DNA-Aufreinigung}{section.3.2}% 27
-\BOOKMARK [2][-]{subsection.3.2.10}{Enzymatische Deglykosylierung}{section.3.2}% 28
-\BOOKMARK [1][-]{section.3.3}{Methoden der eukaryotischen Zellbiologie}{chapter.3}% 29
-\BOOKMARK [2][-]{subsection.3.3.1}{Kultivierung eukaryotischer Zelllinien}{section.3.3}% 30
-\BOOKMARK [2][-]{subsection.3.3.2}{Auftauen und Einfrieren von Zellen}{section.3.3}% 31
-\BOOKMARK [2][-]{subsection.3.3.3}{Transiente Transfektion von HEK293- und HeLa-Zellen mit Effectene}{section.3.3}% 32
-\BOOKMARK [2][-]{subsection.3.3.4}{Generierung stabil exprimierender HEK293- und HeLa-Zelllinien}{section.3.3}% 33
-\BOOKMARK [1][-]{section.3.4}{Mikroskopische Methoden}{chapter.3}% 34
-\BOOKMARK [2][-]{subsection.3.4.1}{Fluoreszenzmikroskopische Aufnahmen}{section.3.4}% 35
-\BOOKMARK [2][-]{subsection.3.4.2}{Fluoreszenzf\344rbungen mit SNAP-Substraten}{section.3.4}% 36
-\BOOKMARK [2][-]{subsection.3.4.3}{F\344rbungen mit fluoreszierenden Liganden}{section.3.4}% 37
-\BOOKMARK [1][-]{section.3.5}{Fluoreszenzoptische Methoden}{chapter.3}% 38
-\BOOKMARK [2][-]{subsection.3.5.1}{trFRET mit SNAP-Substraten}{section.3.5}% 39
-\BOOKMARK [2][-]{subsection.3.5.2}{trFRET mit fluoreszierenden Liganden}{section.3.5}% 40
-\BOOKMARK [1][-]{section.3.6}{Statistische Methoden}{chapter.3}% 41
-\BOOKMARK [0][-]{chapter.4}{Ergebnisse}{}% 42
-\BOOKMARK [1][-]{section.4.1}{Generierung von 2-Adrenorezeptoren mit dem SNAP-tag}{chapter.4}% 43
-\BOOKMARK [1][-]{section.4.2}{Fluoreszenzmikroskopie des beta2 mit dem SNAP-tag}{chapter.4}% 44
-\BOOKMARK [1][-]{section.4.3}{Oligomerisierung des beta2}{chapter.4}% 45
-\BOOKMARK [2][-]{subsection.4.3.1}{trfret mit dem SNAP-Substraten}{section.4.3}% 46
-\BOOKMARK [1][-]{section.4.4}{Einfluss der Ligandenstimulation auf die Oligomerisierung des beta2}{chapter.4}% 47
-\BOOKMARK [1][-]{section.4.5}{Einfluss der Glycosylierung auf die Oligomerisierung des beta2}{chapter.4}% 48
-\BOOKMARK [1][-]{section.4.6}{trfret mit fluoreszierenden Liganden des beta2}{chapter.4}% 49
-\BOOKMARK [0][-]{chapter.5}{Diskussion}{}% 50
-\BOOKMARK [0][-]{chapter.6}{Zusammenfassung}{}% 51
-\BOOKMARK [0][-]{appendix*.26}{Abbildungsverzeichnis}{}% 52
-\BOOKMARK [0][-]{appendix*.27}{Tabellenverzeichnis}{}% 53
-\BOOKMARK [0][-]{appendix*.28}{Literatur}{}% 54
+\BOOKMARK [0][-]{chapter.1}{Einleitung}{}% 3
+\BOOKMARK [1][-]{section.1.1}{G-Protein-gekoppelte Rezeptoren \(GPCR\)}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{-adrenerge Rezeptoren}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.2.1}{Das -adrenerge System}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.2}{Polymorphismen der -adrenergen Rezeptoren}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.3}{Rezeptorinternalisierung}{section.1.2}% 8
+\BOOKMARK [1][-]{section.1.3}{Oligomerisierung G-Protein-gekoppelter Rezeptoren}{chapter.1}% 9
+\BOOKMARK [2][-]{subsection.1.3.1}{Homo- und Heterooligomerisierung G-Protein-gekoppelter Rezeptoren}{section.1.3}% 10
+\BOOKMARK [2][-]{subsection.1.3.2}{Pharmakologische Anwendung}{section.1.3}% 11
+\BOOKMARK [1][-]{section.1.4}{Methoden zur Untersuchung der Oligomerisierung von Rezeptoren}{chapter.1}% 12
+\BOOKMARK [2][-]{subsection.1.4.1}{time-resolved FRET}{section.1.4}% 13
+\BOOKMARK [1][-]{section.1.5}{Zielsetzung dieser Arbeit}{chapter.1}% 14
+\BOOKMARK [0][-]{chapter.2}{Material \046 Methoden}{}% 15
+\BOOKMARK [1][-]{section.2.1}{Material}{chapter.2}% 16
+\BOOKMARK [2][-]{subsection.2.1.1}{Plasmide}{section.2.1}% 17
+\BOOKMARK [2][-]{subsection.2.1.2}{Bakterien}{section.2.1}% 18
+\BOOKMARK [2][-]{subsection.2.1.3}{Zelllinien \046 Zellkultur}{section.2.1}% 19
+\BOOKMARK [2][-]{subsection.2.1.4}{Chemikalien \046 Reagenzien}{section.2.1}% 20
+\BOOKMARK [2][-]{subsection.2.1.5}{SNAP-Substrate und fluoreszierende Liganden}{section.2.1}% 21
+\BOOKMARK [2][-]{subsection.2.1.6}{Enzyme}{section.2.1}% 22
+\BOOKMARK [2][-]{subsection.2.1.7}{Oligonukleotidprimer}{section.2.1}% 23
+\BOOKMARK [2][-]{subsection.2.1.8}{Pharmaka}{section.2.1}% 24
+\BOOKMARK [1][-]{section.2.2}{Molekularbiologische Methoden}{chapter.2}% 25
+\BOOKMARK [2][-]{subsection.2.2.1}{DNA-Amplifikation mittels Polymerasekettenreaktion \(PCR\)}{section.2.2}% 26
+\BOOKMARK [2][-]{subsection.2.2.2}{Agarose-Gelelektrophorese}{section.2.2}% 27
+\BOOKMARK [2][-]{subsection.2.2.3}{Extraktion von DNA aus Agarosegelen}{section.2.2}% 28
+\BOOKMARK [2][-]{subsection.2.2.4}{Restriktionsenzymverdau von PCR-Produkten und Plasmid-DNA}{section.2.2}% 29
+\BOOKMARK [2][-]{subsection.2.2.5}{Ligation von DNA-Fragmenten}{section.2.2}% 30
+\BOOKMARK [2][-]{subsection.2.2.6}{Klonierung mittels Gateway-Technologie}{section.2.2}% 31
+\BOOKMARK [2][-]{subsection.2.2.7}{Mutagenese}{section.2.2}% 32
+\BOOKMARK [2][-]{subsection.2.2.8}{Transformation elektrokompetenter DH10B-Bakterien}{section.2.2}% 33
+\BOOKMARK [2][-]{subsection.2.2.9}{Mini/Maxi-Kultur und Mini/Maxi-DNA-Aufreinigung}{section.2.2}% 34
+\BOOKMARK [2][-]{subsection.2.2.10}{Enzymatische Deglykosylierung}{section.2.2}% 35
+\BOOKMARK [2][-]{subsection.2.2.11}{Messung der DNA-Konzentrationen}{section.2.2}% 36
+\BOOKMARK [2][-]{subsection.2.2.12}{DNA-Sequenzierung}{section.2.2}% 37
+\BOOKMARK [1][-]{section.2.3}{Methoden der eukaryotischen Zellbiologie}{chapter.2}% 38
+\BOOKMARK [2][-]{subsection.2.3.1}{Kultivierung eukaryotischer Zelllinien}{section.2.3}% 39
+\BOOKMARK [2][-]{subsection.2.3.2}{Auftauen und Einfrieren von Zellen}{section.2.3}% 40
+\BOOKMARK [2][-]{subsection.2.3.3}{Transiente Transfektion von HEK293- und HeLa-Zellen mit Effectene}{section.2.3}% 41
+\BOOKMARK [2][-]{subsection.2.3.4}{Generierung stabil exprimierender HEK293- und HeLa-Zelllinien}{section.2.3}% 42
+\BOOKMARK [1][-]{section.2.4}{Mikroskopische Methoden}{chapter.2}% 43
+\BOOKMARK [2][-]{subsection.2.4.1}{Fluoreszenzmikroskopische Aufnahmen}{section.2.4}% 44
+\BOOKMARK [2][-]{subsection.2.4.2}{Fluoreszenzf\344rbungen mit SNAP-Substraten}{section.2.4}% 45
+\BOOKMARK [2][-]{subsection.2.4.3}{F\344rbungen mit fluoreszierenden Liganden}{section.2.4}% 46
+\BOOKMARK [1][-]{section.2.5}{Fluoreszenzoptische Methoden}{chapter.2}% 47
+\BOOKMARK [2][-]{subsection.2.5.1}{trFRET mit SNAP-Substraten}{section.2.5}% 48
+\BOOKMARK [2][-]{subsection.2.5.2}{trFRET mit fluoreszierenden Liganden}{section.2.5}% 49
+\BOOKMARK [1][-]{section.2.6}{Statistische Methoden}{chapter.2}% 50
+\BOOKMARK [0][-]{chapter.3}{Ergebnisse}{}% 51
+\BOOKMARK [1][-]{section.3.1}{Generierung von 2-Adrenorezeptoren mit dem SNAP-tag}{chapter.3}% 52
+\BOOKMARK [1][-]{section.3.2}{Fluoreszenzmikroskopie des beta2 mit dem SNAP-tag}{chapter.3}% 53
+\BOOKMARK [1][-]{section.3.3}{Oligomerisierung des beta2 mit SNAP-tag}{chapter.3}% 54
+\BOOKMARK [2][-]{subsection.3.3.1}{trfret mit SNAP-Substraten}{section.3.3}% 55
+\BOOKMARK [2][-]{subsection.3.3.2}{Einfluss der Stimulation mit Liganden des beta2 auf seine Oligomerisierung}{section.3.3}% 56
+\BOOKMARK [2][-]{subsection.3.3.3}{Einfluss der Glycosylierung auf die Oligomerisierung des beta2}{section.3.3}% 57
+\BOOKMARK [1][-]{section.3.4}{trfret mit fluoreszierenden Liganden des beta2}{chapter.3}% 58
+\BOOKMARK [0][-]{chapter.4}{Diskussion}{}% 59
+\BOOKMARK [0][-]{chapter.5}{Zusammenfassung}{}% 60
+\BOOKMARK [0][-]{appendix*.36}{Abbildungsverzeichnis}{}% 61
+\BOOKMARK [0][-]{appendix*.37}{Tabellenverzeichnis}{}% 62
+\BOOKMARK [0][-]{appendix*.38}{Literatur}{}% 63

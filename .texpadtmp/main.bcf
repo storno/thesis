@@ -1968,7 +1968,8 @@
     <bcf:datasource type="file" datatype="bibtex">bibliography/library.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Ahles2011</bcf:citekey>
+    <bcf:citekey order="1">Gronemeyer2006</bcf:citekey>
+    <bcf:citekey order="2">Salahpour2004</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt" type="entry" sortscheme="nyt">
   <bcf:sorting>
