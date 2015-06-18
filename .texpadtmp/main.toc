@@ -63,15 +63,19 @@
 \contentsline {section}{\numberline {3.1}Generierung von $\beta _2$-Adrenorezeptoren mit dem SNAP-tag}{17}{section.3.1}
 \contentsline {section}{\numberline {3.2}Fluoreszenzmikroskopie des \gls {beta2} mit dem SNAP-tag}{19}{section.3.2}
 \contentsline {section}{\numberline {3.3}Oligomerisierung des \gls {beta2} mit SNAP-tag}{20}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}\gls {trfret} mit SNAP-Substraten}{20}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.1}trFRET mit SNAP-Substraten}{20}{subsection.3.3.1}
 \contentsline {subsubsection}{\nonumberline Bestimmung der S\IeC {\"a}ttigungskinetik der SNAP-Substrate}{20}{section*.31}
-\contentsline {subsubsection}{\nonumberline R\IeC {\"a}umliche Interaktion des SNAP-getaggten \gls {beta2}}{20}{section*.33}
-\contentsline {subsubsection}{\nonumberline Nachweis der spezifischen Interaktion zwischen Rezeptoroligomeren}{20}{section*.35}
-\contentsline {subsection}{\numberline {3.3.2}Einfluss der Stimulation mit Liganden des \gls {beta2} auf seine Oligomerisierung}{20}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Einfluss der Glycosylierung auf die Oligomerisierung des \gls {beta2}}{20}{subsection.3.3.3}
-\contentsline {section}{\numberline {3.4}\gls {trfret} mit fluoreszierenden Liganden des \gls {beta2}}{20}{section.3.4}
-\contentsline {chapter}{\numberline {4}Diskussion}{23}{chapter.4}
-\contentsline {chapter}{\numberline {5}Zusammenfassung}{25}{chapter.5}
-\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{27}{appendix*.36}
-\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{29}{appendix*.37}
-\contentsline {chapter}{\nonumberline Literatur}{31}{appendix*.38}
+\contentsline {subsubsection}{\nonumberline R\IeC {\"a}umliche Interaktion der SNAP-getaggten \gls {beta2}}{21}{section*.33}
+\contentsline {subsubsection}{\nonumberline Nachweis der spezifischen Interaktion zwischen Rezeptoroligomeren}{23}{section*.36}
+\contentsline {subsection}{\numberline {3.3.2}Einfluss der Stimulation mit Liganden des \gls {beta2} auf seine Oligomerisierung}{24}{subsection.3.3.2}
+\contentsline {subsubsection}{\nonumberline Die Stimulation mit Agonisten erh\IeC {\"o}ht signifikant das trFRET-Signal des SNAP-getaggten $\beta _2$AR}{24}{section*.38}
+\contentsline {subsubsection}{\nonumberline Agonistenstimulation ver\IeC {\"a}ndert nicht die Gr\IeC {\"o}\IeC {\ss }e der Rezeptoroligomere}{25}{section*.40}
+\contentsline {subsubsection}{\nonumberline Die \IeC {\"A}nderung des trFRET-Signals bei Stimulation ist zeitabh\IeC {\"a}ngig}{25}{section*.43}
+\contentsline {subsubsection}{\nonumberline Rezeptorinternalisierung bei Stimulation mit Agonisten}{25}{section*.45}
+\contentsline {subsection}{\numberline {3.3.3}Einfluss der Glycosylierung auf die Oligomerisierung des \gls {beta2}}{29}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}trFRET mit fluoreszierenden Liganden des \gls {beta2}}{29}{section.3.4}
+\contentsline {chapter}{\numberline {4}Diskussion}{31}{chapter.4}
+\contentsline {chapter}{\numberline {5}Zusammenfassung}{33}{chapter.5}
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{35}{appendix*.47}
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{37}{appendix*.48}
+\contentsline {chapter}{\nonumberline Literatur}{39}{appendix*.49}

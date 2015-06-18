@@ -19,6 +19,48 @@
 
 \refsection{0}
   \sortlist{nyt}{nyt}
+    \entry{Ahles2011}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=30f5bce5a067a09644d7a7f741c77cc9}{Ahles}{A\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d167f7a91ee7324160c05fe146f2cae3}{Rochais}{R\bibinitperiod}{Francesca}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=54fb9c3761e724a81a31f27e35e29d68}{Frambach}{F\bibinitperiod}{Torsten}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=92248c8444dd1286e9066cac61d9e823}{Bünemann}{B\bibinitperiod}{Moritz}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=acaea11c14b745fade9d24235dd48bae}{Engelhardt}{E\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=30f5bce5a067a09644d7a7f741c77cc9}{Ahles}{A\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d167f7a91ee7324160c05fe146f2cae3}{Rochais}{R\bibinitperiod}{Francesca}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=54fb9c3761e724a81a31f27e35e29d68}{Frambach}{F\bibinitperiod}{Torsten}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=92248c8444dd1286e9066cac61d9e823}{Bünemann}{B\bibinitperiod}{Moritz}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=acaea11c14b745fade9d24235dd48bae}{Engelhardt}{E\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5707c5b37190a9d4c271539c5feb077a}
+      \strng{fullhash}{5487864ea237f9429199d58a54d21913}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labelyear}{2011}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{A polymorphism-specific "memory" mechanism in the $\beta$(2)-adrenergic receptor.}}
+      \field{abstract}{Signaling through G protein (heterotrimeric guanosine triphosphate-binding protein)-coupled receptors is affected by polymorphisms in receptor-encoding genes. Using fluorescence resonance energy transfer, we found that the $\beta$(2)-adrenergic receptor ($\beta$(2)AR) responded to repeated activation with altered activation kinetics. Polymorphic variants of the $\beta$(2)AR displayed divergent changes of $\beta$(2)AR activation kinetics that closely mimicked their different efficacies to generate cyclic adenosine 3',5'-monophosphate. More efficacious variants became faster in their activation kinetics, whereas less efficacious variants became slower, compared to their initial activation. These differences depended on phosphorylation of the receptor by G protein-coupled receptor kinases. Our findings suggest an intrinsic, polymorphism-specific property of the $\beta$(2)AR that alters activation kinetics upon continued stimulation and that may account for individual drug responses.}
+      \field{issn}{1937-9145}
+      \field{journaltitle}{Sci Signal}
+      \field{month}{08}
+      \field{number}{185}
+      \field{title}{{A polymorphism-specific "memory" mechanism in the $\beta$(2)-adrenergic receptor.}}
+      \field{volume}{4}
+      \field{year}{2011}
+      \field{pages}{ra53}
+      \verb{doi}
+      \verb 10.1126/scisignal.2001681
+      \endverb
+      \verb{file}
+      \verb :Users/ska/Documents/thesis/literature/2011/Ahles et al/Ahles et al. - 2011 - A polymorphism-specific memory mechanism in the $\beta$(2)-adrenergic receptor.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://stke.sciencemag.org/cgi/doi/10.1126/scisignal.2001681%20http://www.ncbi.nlm.nih.gov/pubmed/21868359
+      \endverb
+    \endentry
     \entry{Gronemeyer2006}{article}{}
       \name{labelname}{5}{}{%
         {{uniquename=0,hash=ea849cec379edeec252ccf8c15e38a11}{Gronemeyer}{G\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
@@ -57,6 +99,62 @@
       \verb :Users/ska/Documents/thesis/literature/2006/Gronemeyer et al/Gronemeyer et al. - 2006 - Directed evolution of O6-alkylguanine-DNA alkyltransferase for applications in protein labeling.pdf:pdf
       \endverb
       \keyw{Directed evolution,O6-alkylguanine-DNA alkyltransferases,Phage display,Protein labeling}
+    \endentry
+    \entry{Koo2012}{article}{}
+      \name{labelname}{11}{}{%
+        {{uniquename=0,hash=07b4c3f1b9e66a01c71e45a580343299}{Koo}{K\bibinitperiod}{Bon-Kyoung}{B\bibinithyphendelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bfaad10b07c3a70955d99079a4c36fd1}{Spit}{S\bibinitperiod}{Maureen}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=38a8b7b3dc4b81d2ee5d00dc926f17da}{Jordens}{J\bibinitperiod}{Ingrid}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ba6ddf578f955ff2a0464e11996df01a}{Low}{L\bibinitperiod}{Teck\bibnamedelima Y.}{T\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7373b768690fbb02b1ae6a23384de275}{Stange}{S\bibinitperiod}{Daniel\bibnamedelima E.}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fa77136f81eb644e2236064f7f9cca53}{Wetering}{W\bibinitperiod}{Marc}{M\bibinitperiod}{van\bibnamedelima de}{v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}}%
+        {{uniquename=0,hash=709b67039a112ee5547c7914b2b4fddf}{Es}{E\bibinitperiod}{Johan\bibnamedelima H.}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+        {{uniquename=0,hash=faca32073973641228e4e0d06ecfb592}{Mohammed}{M\bibinitperiod}{Shabaz}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=78d9d8335874e16c3b880735002d59a5}{Heck}{H\bibinitperiod}{Albert\bibnamedelimb J.\bibnamedelimi R.}{A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4fe51bf4b4ae1872a229477a8206add2}{Maurice}{M\bibinitperiod}{Madelon\bibnamedelima M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=33c24f144adf9910fa9b0cf732e641a0}{Clevers}{C\bibinitperiod}{Hans}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{uniquename=0,hash=07b4c3f1b9e66a01c71e45a580343299}{Koo}{K\bibinitperiod}{Bon-Kyoung}{B\bibinithyphendelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bfaad10b07c3a70955d99079a4c36fd1}{Spit}{S\bibinitperiod}{Maureen}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=38a8b7b3dc4b81d2ee5d00dc926f17da}{Jordens}{J\bibinitperiod}{Ingrid}{I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ba6ddf578f955ff2a0464e11996df01a}{Low}{L\bibinitperiod}{Teck\bibnamedelima Y.}{T\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7373b768690fbb02b1ae6a23384de275}{Stange}{S\bibinitperiod}{Daniel\bibnamedelima E.}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fa77136f81eb644e2236064f7f9cca53}{Wetering}{W\bibinitperiod}{Marc}{M\bibinitperiod}{van\bibnamedelima de}{v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}}%
+        {{uniquename=0,hash=709b67039a112ee5547c7914b2b4fddf}{Es}{E\bibinitperiod}{Johan\bibnamedelima H.}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+        {{uniquename=0,hash=faca32073973641228e4e0d06ecfb592}{Mohammed}{M\bibinitperiod}{Shabaz}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=78d9d8335874e16c3b880735002d59a5}{Heck}{H\bibinitperiod}{Albert\bibnamedelimb J.\bibnamedelimi R.}{A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4fe51bf4b4ae1872a229477a8206add2}{Maurice}{M\bibinitperiod}{Madelon\bibnamedelima M.}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=33c24f144adf9910fa9b0cf732e641a0}{Clevers}{C\bibinitperiod}{Hans}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{86e830e86473314ab3a89da0d8d0f8ee}
+      \strng{fullhash}{672efbb901e3120f30ebf0062bc4d41d}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Tumour suppressor RNF43 is a stem-cell E3 ligase that induces endocytosis of Wnt receptors}}
+      \field{abstract}{LGR5+ stem cells reside at crypt bottoms, intermingled with Paneth cells that provide Wnt, Notch and epidermal growth factor signals. Here we find that the related RNF43 and ZNRF3 transmembrane E3 ubiquitin ligases are uniquely expressed in LGR5+ stem cells. Simultaneous deletion of the two genes encoding these proteins in the intestinal epithelium of mice induces rapidly growing adenomas containing high numbers of Paneth and LGR5+ stem cells. In vitro, growth of organoids derived from these adenomas is arrested when Wnt secretion is inhibited, indicating a dependence of the adenoma stem cells on Wnt produced by adenoma Paneth cells. In the HEK293T human cancer cell line, expression of RNF43 blocks Wnt responses and targets surface-expressed frizzled receptors to lysosomes. In the RNF43-mutant colorectal cancer cell line HCT116, reconstitution of RNF43 expression removes its response to exogenous Wnt. We conclude that RNF43 and ZNRF3 reduce Wnt signals by selectively ubiquitinating frizzled receptors, thereby targeting these Wnt receptors for degradation.}
+      \field{isbn}{1476-4687 (Electronic)$\backslash$r0028-0836 (Linking)}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{number}{7413}
+      \field{title}{{Tumour suppressor RNF43 is a stem-cell E3 ligase that induces endocytosis of Wnt receptors}}
+      \field{volume}{488}
+      \field{year}{2012}
+      \field{pages}{665\bibrangedash 669}
+      \verb{doi}
+      \verb 10.1038/nature11308
+      \endverb
+      \verb{file}
+      \verb :Users/ska/Documents/thesis/literature/2012/Koo et al/Koo et al. - 2012 - Tumour suppressor RNF43 is a stem-cell E3 ligase that induces endocytosis of Wnt receptors.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nature11308
+      \endverb
     \endentry
     \entry{Salahpour2004}{article}{}
       \name{labelname}{6}{}{%

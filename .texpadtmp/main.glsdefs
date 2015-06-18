@@ -268,3 +268,123 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{iso}{}%
+{%
+\gls@defglossaryentry{iso}%
+{%
+name={Iso},%
+sort={Iso},%
+type={acronym},%
+first={Isoproterenol\glsspace (Iso)},%
+firstplural={Isoproterenols\glsspace (Isos)},%
+text={Iso},%
+plural={Isos},%
+description={Isoproterenol},%
+descriptionplural={Isoproterenol\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Isoproterenol},%
+longplural={Isoproterenols},%
+short={Iso},%
+shortplural={Isos},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{epi}{}%
+{%
+\gls@defglossaryentry{epi}%
+{%
+name={Epi},%
+sort={Epi},%
+type={acronym},%
+first={Epinephrin\glsspace (Epi)},%
+firstplural={Epinephrins\glsspace (Epis)},%
+text={Epi},%
+plural={Epis},%
+description={Epinephrin},%
+descriptionplural={Epinephrin\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Epinephrin},%
+longplural={Epinephrins},%
+short={Epi},%
+shortplural={Epis},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{bg}{}%
+{%
+\gls@defglossaryentry{bg}%
+{%
+name={BG},%
+sort={BG},%
+type={acronym},%
+first={Benzyl-Guanin\glsspace (BG)},%
+firstplural={Benzyl-Guanins\glsspace (BGs)},%
+text={BG},%
+plural={BGs},%
+description={Benzyl-Guanin},%
+descriptionplural={Benzyl-Guanin\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Benzyl-Guanin},%
+longplural={Benzyl-Guanins},%
+short={BG},%
+shortplural={BGs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{lumi4}{}%
+{%
+\gls@defglossaryentry{lumi4}%
+{%
+name={Lumi4},%
+sort={Lumi4},%
+type={acronym},%
+first={Markenname des trFRET-kompatiblen Terbium-Cryptats, das in vorliegender Arbeit als Donorfluorophor verwendet wurde\glsspace (Lumi4)},%
+firstplural={Markenname des trFRET-kompatiblen Terbium-Cryptats, das in vorliegender Arbeit als Donorfluorophor verwendet wurdes\glsspace (Lumi4s)},%
+text={Lumi4},%
+plural={Lumi4s},%
+description={Markenname des trFRET-kompatiblen Terbium-Cryptats, das in vorliegender Arbeit als Donorfluorophor verwendet wurde},%
+descriptionplural={Markenname des trFRET-kompatiblen Terbium-Cryptats, das in vorliegender Arbeit als Donorfluorophor verwendet wurde\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Markenname des trFRET-kompatiblen Terbium-Cryptats, das in vorliegender Arbeit als Donorfluorophor verwendet wurde},%
+longplural={Markenname des trFRET-kompatiblen Terbium-Cryptats, das in vorliegender Arbeit als Donorfluorophor verwendet wurdes},%
+short={Lumi4},%
+shortplural={Lumi4s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
