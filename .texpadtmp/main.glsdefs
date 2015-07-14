@@ -1,33 +1,3 @@
-\ifglsentryexists{zb}{}%
-{%
-\gls@defglossaryentry{zb}%
-{%
-name={zB},%
-sort={zB},%
-type={acronym},%
-first={zum Beispiel (zB)},%
-firstplural={zum Beispiels(zBs)},%
-text={zB},%
-plural={zBs},%
-description={zum Beispiel},%
-descriptionplural={zum Beispiel\acrpluralsuffix },%
-symbol={\relax },%
-symbolplural={\relax },%
-user1={},%
-user2={},%
-user3={},%
-user4={},%
-user5={},%
-user6={},%
-long={zum Beispiel},%
-longplural={zum Beispiels},%
-short={zB},%
-shortplural={zBs},%
-counter={page},%
-parent={},%
-%
-}%
-}%
 \ifglsentryexists{dmso}{}%
 {%
 \gls@defglossaryentry{dmso}%
@@ -62,15 +32,15 @@ parent={},%
 {%
 \gls@defglossaryentry{beta2}%
 {%
-name={$\beta _2$AR},%
-sort={$\beta _2$AR},%
+name={ADRB2},%
+sort={ADRB2},%
 type={acronym},%
-first={$\beta _2$-Adrenorezeptor\glsspace ($\beta _2$AR)},%
-firstplural={$\beta _2$-Adrenorezeptors\glsspace ($\beta _2$ARs)},%
-text={$\beta _2$AR},%
-plural={$\beta _2$ARs},%
-description={$\beta _2$-Adrenorezeptor},%
-descriptionplural={$\beta _2$-Adrenorezeptor\acrpluralsuffix },%
+first={humaner $\beta _2$-Adrenozeptor\glsspace (ADRB2)},%
+firstplural={humaner $\beta _2$-Adrenozeptors\glsspace (ADRB2s)},%
+text={ADRB2},%
+plural={ADRB2s},%
+description={humaner $\beta _2$-Adrenozeptor},%
+descriptionplural={humaner $\beta _2$-Adrenozeptor\acrpluralsuffix },%
 symbol={\relax },%
 symbolplural={\relax },%
 user1={},%
@@ -79,10 +49,10 @@ user3={},%
 user4={},%
 user5={},%
 user6={},%
-long={$\beta _2$-Adrenorezeptor},%
-longplural={$\beta _2$-Adrenorezeptors},%
-short={$\beta _2$AR},%
-shortplural={$\beta _2$ARs},%
+long={humaner $\beta _2$-Adrenozeptor},%
+longplural={humaner $\beta _2$-Adrenozeptors},%
+short={ADRB2},%
+shortplural={ADRB2s},%
 counter={page},%
 parent={},%
 %
@@ -152,13 +122,13 @@ parent={},%
 {%
 \gls@defglossaryentry{trfret}%
 {%
-name={tr-FRET},%
-sort={tr-FRET},%
+name={trFRET},%
+sort={trFRET},%
 type={acronym},%
-first={time resolved Fluorescence Resonance Energy Transfer\glsspace (tr-FRET)},%
-firstplural={time resolved Fluorescence Resonance Energy Transfers\glsspace (tr-FRETs)},%
-text={tr-FRET},%
-plural={tr-FRETs},%
+first={time resolved Fluorescence Resonance Energy Transfer\glsspace (trFRET)},%
+firstplural={time resolved Fluorescence Resonance Energy Transfers\glsspace (trFRETs)},%
+text={trFRET},%
+plural={trFRETs},%
 description={time resolved Fluorescence Resonance Energy Transfer},%
 descriptionplural={time resolved Fluorescence Resonance Energy Transfer\acrpluralsuffix },%
 symbol={\relax },%
@@ -171,8 +141,68 @@ user5={},%
 user6={},%
 long={time resolved Fluorescence Resonance Energy Transfer},%
 longplural={time resolved Fluorescence Resonance Energy Transfers},%
-short={tr-FRET},%
-shortplural={tr-FRETs},%
+short={trFRET},%
+shortplural={trFRETs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fret}{}%
+{%
+\gls@defglossaryentry{fret}%
+{%
+name={FRET},%
+sort={FRET},%
+type={acronym},%
+first={Fluorescence Resonance Energy Transfer\glsspace (FRET)},%
+firstplural={Fluorescence Resonance Energy Transfers\glsspace (FRETs)},%
+text={FRET},%
+plural={FRETs},%
+description={Fluorescence Resonance Energy Transfer},%
+descriptionplural={Fluorescence Resonance Energy Transfer\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Fluorescence Resonance Energy Transfer},%
+longplural={Fluorescence Resonance Energy Transfers},%
+short={FRET},%
+shortplural={FRETs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{bret}{}%
+{%
+\gls@defglossaryentry{bret}%
+{%
+name={BRET},%
+sort={BRET},%
+type={acronym},%
+first={Bioluminescence Resonance Energy Transfer\glsspace (BRET)},%
+firstplural={Bioluminescence Resonance Energy Transfers\glsspace (BRETs)},%
+text={BRET},%
+plural={BRETs},%
+description={Bioluminescence Resonance Energy Transfer},%
+descriptionplural={Bioluminescence Resonance Energy Transfer\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Bioluminescence Resonance Energy Transfer},%
+longplural={Bioluminescence Resonance Energy Transfers},%
+short={BRET},%
+shortplural={BRETs},%
 counter={page},%
 parent={},%
 %
@@ -185,12 +215,12 @@ parent={},%
 name={SNAP-tag},%
 sort={SNAP-tag},%
 type={acronym},%
-first={Markenname des auf O\protect \textsuperscript {6}-Alkylguanin-DNA Alkyltransferase basierenden Proteinlabelingsystems\glsspace (SNAP-tag)},%
-firstplural={Markenname des auf O\protect \textsuperscript {6}-Alkylguanin-DNA Alkyltransferase basierenden Proteinlabelingsystemss\glsspace (SNAP-tags)},%
+first={Markenname des auf der O\protect \textsuperscript {6}-Alkylguanin-DNA-Alkyltransferase basierenden Proteinlabelingsystems\glsspace (SNAP-tag)},%
+firstplural={Markenname des auf der O\protect \textsuperscript {6}-Alkylguanin-DNA-Alkyltransferase basierenden Proteinlabelingsystemss\glsspace (SNAP-tags)},%
 text={SNAP-tag},%
 plural={SNAP-tags},%
-description={Markenname des auf O\textsuperscript {6}-Alkylguanin-DNA Alkyltransferase basierenden Proteinlabelingsystems},%
-descriptionplural={Markenname des auf O\textsuperscript {6}-Alkylguanin-DNA Alkyltransferase basierenden Proteinlabelingsystems\acrpluralsuffix },%
+description={Markenname des auf der O\textsuperscript {6}-Alkylguanin-DNA-Alkyltransferase basierenden Proteinlabelingsystems},%
+descriptionplural={Markenname des auf der O\textsuperscript {6}-Alkylguanin-DNA-Alkyltransferase basierenden Proteinlabelingsystems\acrpluralsuffix },%
 symbol={\relax },%
 symbolplural={\relax },%
 user1={},%
@@ -199,8 +229,8 @@ user3={},%
 user4={},%
 user5={},%
 user6={},%
-long={Markenname des auf O\protect \textsuperscript {6}-Alkylguanin-DNA Alkyltransferase basierenden Proteinlabelingsystems},%
-longplural={Markenname des auf O\protect \textsuperscript {6}-Alkylguanin-DNA Alkyltransferase basierenden Proteinlabelingsystemss},%
+long={Markenname des auf der O\protect \textsuperscript {6}-Alkylguanin-DNA-Alkyltransferase basierenden Proteinlabelingsystems},%
+longplural={Markenname des auf der O\protect \textsuperscript {6}-Alkylguanin-DNA-Alkyltransferase basierenden Proteinlabelingsystemss},%
 short={SNAP-tag},%
 shortplural={SNAP-tags},%
 counter={page},%
@@ -215,12 +245,12 @@ parent={},%
 name={CLIP-tag},%
 sort={CLIP-tag},%
 type={acronym},%
-first={s. SNAP-tag\glsspace (CLIP-tag)},%
-firstplural={s. SNAP-tags\glsspace (CLIP-tags)},%
+first={Markenname des auf einer Mutante des O\protect \textsuperscript {6}-Alkylguanin-DNA-Alkyltransferase basierenden Proteinlabelingsystems\glsspace (CLIP-tag)},%
+firstplural={Markenname des auf einer Mutante des O\protect \textsuperscript {6}-Alkylguanin-DNA-Alkyltransferase basierenden Proteinlabelingsystemss\glsspace (CLIP-tags)},%
 text={CLIP-tag},%
 plural={CLIP-tags},%
-description={s. SNAP-tag},%
-descriptionplural={s. SNAP-tag\acrpluralsuffix },%
+description={Markenname des auf einer Mutante des O\textsuperscript {6}-Alkylguanin-DNA-Alkyltransferase basierenden Proteinlabelingsystems},%
+descriptionplural={Markenname des auf einer Mutante des O\textsuperscript {6}-Alkylguanin-DNA-Alkyltransferase basierenden Proteinlabelingsystems\acrpluralsuffix },%
 symbol={\relax },%
 symbolplural={\relax },%
 user1={},%
@@ -229,8 +259,8 @@ user3={},%
 user4={},%
 user5={},%
 user6={},%
-long={s. SNAP-tag},%
-longplural={s. SNAP-tags},%
+long={Markenname des auf einer Mutante des O\protect \textsuperscript {6}-Alkylguanin-DNA-Alkyltransferase basierenden Proteinlabelingsystems},%
+longplural={Markenname des auf einer Mutante des O\protect \textsuperscript {6}-Alkylguanin-DNA-Alkyltransferase basierenden Proteinlabelingsystemss},%
 short={CLIP-tag},%
 shortplural={CLIP-tags},%
 counter={page},%
@@ -335,12 +365,12 @@ parent={},%
 name={BG},%
 sort={BG},%
 type={acronym},%
-first={Benzyl-Guanin\glsspace (BG)},%
-firstplural={Benzyl-Guanins\glsspace (BGs)},%
+first={O\protect \textsuperscript {6}-Benzyl-Guanin\glsspace (BG)},%
+firstplural={O\protect \textsuperscript {6}-Benzyl-Guanins\glsspace (BGs)},%
 text={BG},%
 plural={BGs},%
-description={Benzyl-Guanin},%
-descriptionplural={Benzyl-Guanin\acrpluralsuffix },%
+description={O\textsuperscript {6}-Benzyl-Guanin},%
+descriptionplural={O\textsuperscript {6}-Benzyl-Guanin\acrpluralsuffix },%
 symbol={\relax },%
 symbolplural={\relax },%
 user1={},%
@@ -349,10 +379,40 @@ user3={},%
 user4={},%
 user5={},%
 user6={},%
-long={Benzyl-Guanin},%
-longplural={Benzyl-Guanins},%
+long={O\protect \textsuperscript {6}-Benzyl-Guanin},%
+longplural={O\protect \textsuperscript {6}-Benzyl-Guanins},%
 short={BG},%
 shortplural={BGs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{bc}{}%
+{%
+\gls@defglossaryentry{bc}%
+{%
+name={BC},%
+sort={BC},%
+type={acronym},%
+first={O\protect \textsuperscript {2}-Benzyl-Cytosin\glsspace (BC)},%
+firstplural={O\protect \textsuperscript {2}-Benzyl-Cytosins\glsspace (BCs)},%
+text={BC},%
+plural={BCs},%
+description={O\textsuperscript {2}-Benzyl-Cytosin},%
+descriptionplural={O\textsuperscript {2}-Benzyl-Cytosin\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={O\protect \textsuperscript {2}-Benzyl-Cytosin},%
+longplural={O\protect \textsuperscript {2}-Benzyl-Cytosins},%
+short={BC},%
+shortplural={BCs},%
 counter={page},%
 parent={},%
 %
@@ -383,6 +443,126 @@ long={Markenname des trFRET-kompatiblen Terbium-Cryptats, das in vorliegender Ar
 longplural={Markenname des trFRET-kompatiblen Terbium-Cryptats, das in vorliegender Arbeit als Donorfluorophor verwendet wurdes},%
 short={Lumi4},%
 shortplural={Lumi4s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{gpcr}{}%
+{%
+\gls@defglossaryentry{gpcr}%
+{%
+name={GPCR},%
+sort={GPCR},%
+type={acronym},%
+first={G-Protein-gekoppelter-Rezeptor\glsspace (GPCR)},%
+firstplural={G-Protein-gekoppelter-Rezeptors\glsspace (GPCRs)},%
+text={GPCR},%
+plural={GPCRs},%
+description={G-Protein-gekoppelter-Rezeptor},%
+descriptionplural={G-Protein-gekoppelter-Rezeptor\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={G-Protein-gekoppelter-Rezeptor},%
+longplural={G-Protein-gekoppelter-Rezeptors},%
+short={GPCR},%
+shortplural={GPCRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{er}{}%
+{%
+\gls@defglossaryentry{er}%
+{%
+name={ER},%
+sort={ER},%
+type={acronym},%
+first={Endoplasmatisches Retikulum\glsspace (ER)},%
+firstplural={Endoplasmatisches Retikulums\glsspace (ERs)},%
+text={ER},%
+plural={ERs},%
+description={Endoplasmatisches Retikulum},%
+descriptionplural={Endoplasmatisches Retikulum\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Endoplasmatisches Retikulum},%
+longplural={Endoplasmatisches Retikulums},%
+short={ER},%
+shortplural={ERs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fcs}{}%
+{%
+\gls@defglossaryentry{fcs}%
+{%
+name={FCS},%
+sort={FCS},%
+type={acronym},%
+first={Fluorescence Correlation Spectroscopy\glsspace (FCS)},%
+firstplural={Fluorescence Correlation Spectroscopys\glsspace (FCSs)},%
+text={FCS},%
+plural={FCSs},%
+description={Fluorescence Correlation Spectroscopy},%
+descriptionplural={Fluorescence Correlation Spectroscopy\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Fluorescence Correlation Spectroscopy},%
+longplural={Fluorescence Correlation Spectroscopys},%
+short={FCS},%
+shortplural={FCSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ret}{}%
+{%
+\gls@defglossaryentry{ret}%
+{%
+name={RET},%
+sort={RET},%
+type={acronym},%
+first={Resonance Energy Transfer\glsspace (RET)},%
+firstplural={Resonance Energy Transfers\glsspace (RETs)},%
+text={RET},%
+plural={RETs},%
+description={Resonance Energy Transfer},%
+descriptionplural={Resonance Energy Transfer\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Resonance Energy Transfer},%
+longplural={Resonance Energy Transfers},%
+short={RET},%
+shortplural={RETs},%
 counter={page},%
 parent={},%
 %

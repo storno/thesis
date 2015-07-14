@@ -1,0 +1,27 @@
+
+1. Mol Pharmacol. 2000 Jul;58(1):120-8.
+
+Inhibition of cell surface expression by mutant receptors demonstrates that D2
+dopamine receptors exist as oligomers in the cell.
+
+Lee SP(1), O'Dowd BF, Ng GY, Varghese G, Akil H, Mansour A, Nguyen T, George SR.
+
+Author information: 
+(1)Department of Pharmacology, University of Toronto, Ontario, Canada.
+
+Numerous mutant G protein-coupled receptors with diminished or no function have
+been described that are naturally occurring or that are the product of gene
+manipulation. It has largely been assumed that receptor mutants do not affect the
+function of the wild-type receptor; however, the occurrence of G protein-coupled 
+receptor dimerization suggests the possibility that an intermolecular interaction
+between mutant and wild-type receptors can occur. We have shown previously that
+the D2 dopamine receptor (D2DR) exists as dimers in cell lines and brain tissue. 
+In this study, we demonstrated that mutant D2DR can modulate the function of the 
+wild-type D2DR. While attempting to elucidate the structure of the D2DR dimer, we
+demonstrated that nonfunctional D2DR substitution and truncation mutants
+antagonized wild-type D2DR function. Furthermore, from analyses of this
+interaction between the receptor mutants and the D2DR, using photoaffinity
+labeling, we provide evidence that the D2DR is oligomeric in the cell.
+
+PMID: 10860933  [PubMed - indexed for MEDLINE]
+
