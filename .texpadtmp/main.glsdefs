@@ -58,6 +58,36 @@ parent={},%
 %
 }%
 }%
+\ifglsentryexists{dmem}{}%
+{%
+\gls@defglossaryentry{dmem}%
+{%
+name={DMEM},%
+sort={DMEM},%
+type={acronym},%
+first={Dulbecco's Modified Eagle Medium\glsspace (DMEM)},%
+firstplural={Dulbecco's Modified Eagle Mediums\glsspace (DMEMs)},%
+text={DMEM},%
+plural={DMEMs},%
+description={Dulbecco's Modified Eagle Medium},%
+descriptionplural={Dulbecco's Modified Eagle Medium\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Dulbecco's Modified Eagle Medium},%
+longplural={Dulbecco's Modified Eagle Mediums},%
+short={DMEM},%
+shortplural={DMEMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
 \ifglsentryexists{ici}{}%
 {%
 \gls@defglossaryentry{ici}%
@@ -83,6 +113,96 @@ long={ICI-118,551},%
 longplural={ICI-118,551s},%
 short={ICI},%
 shortplural={ICIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ecoli}{}%
+{%
+\gls@defglossaryentry{ecoli}%
+{%
+name={E. coli},%
+sort={E. coli},%
+type={acronym},%
+first={Escherichia coli\glsspace (E. coli)},%
+firstplural={Escherichia colis\glsspace (E. colis)},%
+text={E. coli},%
+plural={E. colis},%
+description={Escherichia coli},%
+descriptionplural={Escherichia coli\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Escherichia coli},%
+longplural={Escherichia colis},%
+short={E. coli},%
+shortplural={E. colis},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{hek}{}%
+{%
+\gls@defglossaryentry{hek}%
+{%
+name={HEK},%
+sort={HEK},%
+type={acronym},%
+first={Human Embryonic Kidney-Zelllinie\glsspace (HEK)},%
+firstplural={Human Embryonic Kidney-Zelllinies\glsspace (HEKs)},%
+text={HEK},%
+plural={HEKs},%
+description={Human Embryonic Kidney-Zelllinie},%
+descriptionplural={Human Embryonic Kidney-Zelllinie\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Human Embryonic Kidney-Zelllinie},%
+longplural={Human Embryonic Kidney-Zelllinies},%
+short={HEK},%
+shortplural={HEKs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{hela}{}%
+{%
+\gls@defglossaryentry{hela}%
+{%
+name={HeLa},%
+sort={HeLa},%
+type={acronym},%
+first={HeLa-Zelllinie\glsspace (HeLa)},%
+firstplural={HeLa-Zelllinies\glsspace (HeLas)},%
+text={HeLa},%
+plural={HeLas},%
+description={HeLa-Zelllinie},%
+descriptionplural={HeLa-Zelllinie\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={HeLa-Zelllinie},%
+longplural={HeLa-Zelllinies},%
+short={HeLa},%
+shortplural={HeLas},%
 counter={page},%
 parent={},%
 %
@@ -563,6 +683,816 @@ long={Resonance Energy Transfer},%
 longplural={Resonance Energy Transfers},%
 short={RET},%
 shortplural={RETs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{or}{}%
+{%
+\gls@defglossaryentry{or}%
+{%
+name={OR},%
+sort={OR},%
+type={acronym},%
+first={Opioid-Rezeptor\glsspace (OR)},%
+firstplural={Opioid-Rezeptors\glsspace (ORs)},%
+text={OR},%
+plural={ORs},%
+description={Opioid-Rezeptor},%
+descriptionplural={Opioid-Rezeptor\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Opioid-Rezeptor},%
+longplural={Opioid-Rezeptors},%
+short={OR},%
+shortplural={ORs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{frap}{}%
+{%
+\gls@defglossaryentry{frap}%
+{%
+name={FRAP},%
+sort={FRAP},%
+type={acronym},%
+first={Fluorescence Recovery After Photobleaching\glsspace (FRAP)},%
+firstplural={Fluorescence Recovery After Photobleachings\glsspace (FRAPs)},%
+text={FRAP},%
+plural={FRAPs},%
+description={Fluorescence Recovery After Photobleaching},%
+descriptionplural={Fluorescence Recovery After Photobleaching\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Fluorescence Recovery After Photobleaching},%
+longplural={Fluorescence Recovery After Photobleachings},%
+short={FRAP},%
+shortplural={FRAPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ret}{}%
+{%
+\gls@defglossaryentry{ret}%
+{%
+name={RET},%
+sort={RET},%
+type={acronym},%
+first={Resonance Energy Transfer\glsspace (RET)},%
+firstplural={Resonance Energy Transfers\glsspace (RETs)},%
+text={RET},%
+plural={RETs},%
+description={Resonance Energy Transfer},%
+descriptionplural={Resonance Energy Transfer\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Resonance Energy Transfer},%
+longplural={Resonance Energy Transfers},%
+short={RET},%
+shortplural={RETs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{lret}{}%
+{%
+\gls@defglossaryentry{lret}%
+{%
+name={LRET},%
+sort={LRET},%
+type={acronym},%
+first={Lanthanid\glsspace (LRET)},%
+firstplural={Lanthanids\glsspace (LRETs)},%
+text={LRET},%
+plural={LRETs},%
+description={Lanthanid},%
+descriptionplural={Lanthanid\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Lanthanid},%
+longplural={Lanthanids},%
+short={LRET},%
+shortplural={LRETs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fcs}{}%
+{%
+\gls@defglossaryentry{fcs}%
+{%
+name={FCS},%
+sort={FCS},%
+type={acronym},%
+first={Fluorescence Correlation Spectroscopy\glsspace (FCS)},%
+firstplural={Fluorescence Correlation Spectroscopys\glsspace (FCSs)},%
+text={FCS},%
+plural={FCSs},%
+description={Fluorescence Correlation Spectroscopy},%
+descriptionplural={Fluorescence Correlation Spectroscopy\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Fluorescence Correlation Spectroscopy},%
+longplural={Fluorescence Correlation Spectroscopys},%
+short={FCS},%
+shortplural={FCSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pch}{}%
+{%
+\gls@defglossaryentry{pch}%
+{%
+name={PCH},%
+sort={PCH},%
+type={acronym},%
+first={Photon Counting Histogram\glsspace (PCH)},%
+firstplural={Photon Counting Histograms\glsspace (PCHs)},%
+text={PCH},%
+plural={PCHs},%
+description={Photon Counting Histogram},%
+descriptionplural={Photon Counting Histogram\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Photon Counting Histogram},%
+longplural={Photon Counting Histograms},%
+short={PCH},%
+shortplural={PCHs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pla}{}%
+{%
+\gls@defglossaryentry{pla}%
+{%
+name={PLA},%
+sort={PLA},%
+type={acronym},%
+first={Proximity Ligation Assay\glsspace (PLA)},%
+firstplural={Proximity Ligation Assays\glsspace (PLAs)},%
+text={PLA},%
+plural={PLAs},%
+description={Proximity Ligation Assay},%
+descriptionplural={Proximity Ligation Assay\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Proximity Ligation Assay},%
+longplural={Proximity Ligation Assays},%
+short={PLA},%
+shortplural={PLAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{gly}{}%
+{%
+\gls@defglossaryentry{gly}%
+{%
+name={Gly},%
+sort={Gly},%
+type={acronym},%
+first={Glycin\glsspace (Gly)},%
+firstplural={Glycins\glsspace (Glys)},%
+text={Gly},%
+plural={Glys},%
+description={Glycin},%
+descriptionplural={Glycin\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Glycin},%
+longplural={Glycins},%
+short={Gly},%
+shortplural={Glys},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{arg}{}%
+{%
+\gls@defglossaryentry{arg}%
+{%
+name={Arg},%
+sort={Arg},%
+type={acronym},%
+first={Arginin\glsspace (Arg)},%
+firstplural={Arginins\glsspace (Args)},%
+text={Arg},%
+plural={Args},%
+description={Arginin},%
+descriptionplural={Arginin\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Arginin},%
+longplural={Arginins},%
+short={Arg},%
+shortplural={Args},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{tyr}{}%
+{%
+\gls@defglossaryentry{tyr}%
+{%
+name={Tyr},%
+sort={Tyr},%
+type={acronym},%
+first={Tyrosin\glsspace (Tyr)},%
+firstplural={Tyrosins\glsspace (Tyrs)},%
+text={Tyr},%
+plural={Tyrs},%
+description={Tyrosin},%
+descriptionplural={Tyrosin\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Tyrosin},%
+longplural={Tyrosins},%
+short={Tyr},%
+shortplural={Tyrs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{gln}{}%
+{%
+\gls@defglossaryentry{gln}%
+{%
+name={Gln},%
+sort={Gln},%
+type={acronym},%
+first={Glutamin\glsspace (Gln)},%
+firstplural={Glutamins\glsspace (Glns)},%
+text={Gln},%
+plural={Glns},%
+description={Glutamin},%
+descriptionplural={Glutamin\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Glutamin},%
+longplural={Glutamins},%
+short={Gln},%
+shortplural={Glns},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cterm}{}%
+{%
+\gls@defglossaryentry{cterm}%
+{%
+name={C-Terminus},%
+sort={C-Terminus},%
+type={acronym},%
+first={Carboxyterminus\glsspace (C-Terminus)},%
+firstplural={Carboxyterminuss\glsspace (C-Terminuss)},%
+text={C-Terminus},%
+plural={C-Terminuss},%
+description={Carboxyterminus},%
+descriptionplural={Carboxyterminus\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Carboxyterminus},%
+longplural={Carboxyterminuss},%
+short={C-Terminus},%
+shortplural={C-Terminuss},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{nterm}{}%
+{%
+\gls@defglossaryentry{nterm}%
+{%
+name={N-Terminus},%
+sort={N-Terminus},%
+type={acronym},%
+first={Aminoterminus\glsspace (N-Terminus)},%
+firstplural={Aminoterminuss\glsspace (N-Terminuss)},%
+text={N-Terminus},%
+plural={N-Terminuss},%
+description={Aminoterminus},%
+descriptionplural={Aminoterminus\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Aminoterminus},%
+longplural={Aminoterminuss},%
+short={N-Terminus},%
+shortplural={N-Terminuss},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ddH20}{}%
+{%
+\gls@defglossaryentry{ddH20}%
+{%
+name={ddH},%
+sort={ddH},%
+type={acronym},%
+first={Glycin\glsspace (ddH)},%
+firstplural={Glycins\glsspace (ddHs)},%
+text={ddH},%
+plural={ddHs},%
+description={Glycin},%
+descriptionplural={Glycin\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Glycin},%
+longplural={Glycins},%
+short={ddH},%
+shortplural={ddHs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{dna}{}%
+{%
+\gls@defglossaryentry{dna}%
+{%
+name={DNA},%
+sort={DNA},%
+type={acronym},%
+first={Desoxyribonucleic Acid = Desoxyribonukleins\IeC {\"a}ure (DNS)\glsspace (DNA)},%
+firstplural={Desoxyribonucleic Acid = Desoxyribonukleins\IeC {\"a}ure (DNS)s\glsspace (DNAs)},%
+text={DNA},%
+plural={DNAs},%
+description={Desoxyribonucleic Acid = Desoxyribonukleinsäure (DNS)},%
+descriptionplural={Desoxyribonucleic Acid = Desoxyribonukleinsäure (DNS)\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Desoxyribonucleic Acid = Desoxyribonukleins\IeC {\"a}ure (DNS)},%
+longplural={Desoxyribonucleic Acid = Desoxyribonukleins\IeC {\"a}ure (DNS)s},%
+short={DNA},%
+shortplural={DNAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ecoli}{}%
+{%
+\gls@defglossaryentry{ecoli}%
+{%
+name={E. coli},%
+sort={E. coli},%
+type={acronym},%
+first={Escherichia coli\glsspace (E. coli)},%
+firstplural={Escherichia colis\glsspace (E. colis)},%
+text={E. coli},%
+plural={E. colis},%
+description={Escherichia coli},%
+descriptionplural={Escherichia coli\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Escherichia coli},%
+longplural={Escherichia colis},%
+short={E. coli},%
+shortplural={E. colis},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{gprotein}{}%
+{%
+\gls@defglossaryentry{gprotein}%
+{%
+name={G-Protein},%
+sort={G-Protein},%
+type={acronym},%
+first={Guanosintriphosphat-(GTP)-bindendes Protein\glsspace (G-Protein)},%
+firstplural={Guanosintriphosphat-(GTP)-bindendes Proteins\glsspace (G-Proteins)},%
+text={G-Protein},%
+plural={G-Proteins},%
+description={Guanosintriphosphat-(GTP)-bindendes Protein},%
+descriptionplural={Guanosintriphosphat-(GTP)-bindendes Protein\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Guanosintriphosphat-(GTP)-bindendes Protein},%
+longplural={Guanosintriphosphat-(GTP)-bindendes Proteins},%
+short={G-Protein},%
+shortplural={G-Proteins},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{m}{}%
+{%
+\gls@defglossaryentry{m}%
+{%
+name={M},%
+sort={M},%
+type={acronym},%
+first={Molar = \glsspace (M)},%
+firstplural={Molar = s\glsspace (Ms)},%
+text={M},%
+plural={Ms},%
+description={Molar =},%
+descriptionplural={Molar = \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Molar =},%
+longplural={Molar = s},%
+short={M},%
+shortplural={Ms},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{tyr}{}%
+{%
+\gls@defglossaryentry{tyr}%
+{%
+name={Tyr},%
+sort={Tyr},%
+type={acronym},%
+first={Tyrosin\glsspace (Tyr)},%
+firstplural={Tyrosins\glsspace (Tyrs)},%
+text={Tyr},%
+plural={Tyrs},%
+description={Tyrosin},%
+descriptionplural={Tyrosin\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Tyrosin},%
+longplural={Tyrosins},%
+short={Tyr},%
+shortplural={Tyrs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{snp}{}%
+{%
+\gls@defglossaryentry{snp}%
+{%
+name={SNP},%
+sort={SNP},%
+type={acronym},%
+first={Single Nucleotide Polymorphism\glsspace (SNP)},%
+firstplural={Single Nucleotide Polymorphisms\glsspace (SNPs)},%
+text={SNP},%
+plural={SNPs},%
+description={Single Nucleotide Polymorphism},%
+descriptionplural={Single Nucleotide Polymorphism\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Single Nucleotide Polymorphism},%
+longplural={Single Nucleotide Polymorphisms},%
+short={SNP},%
+shortplural={SNPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{lb}{}%
+{%
+\gls@defglossaryentry{lb}%
+{%
+name={LB},%
+sort={LB},%
+type={acronym},%
+first={Lysogeny Broth\glsspace (LB)},%
+firstplural={Lysogeny Broths\glsspace (LBs)},%
+text={LB},%
+plural={LBs},%
+description={Lysogeny Broth},%
+descriptionplural={Lysogeny Broth\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Lysogeny Broth},%
+longplural={Lysogeny Broths},%
+short={LB},%
+shortplural={LBs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{u}{}%
+{%
+\gls@defglossaryentry{u}%
+{%
+name={U},%
+sort={U},%
+type={acronym},%
+first={Unit\glsspace (U)},%
+firstplural={Units\glsspace (Us)},%
+text={U},%
+plural={Us},%
+description={Unit},%
+descriptionplural={Unit\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Unit},%
+longplural={Units},%
+short={U},%
+shortplural={Us},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{tris}{}%
+{%
+\gls@defglossaryentry{tris}%
+{%
+name={TRIS},%
+sort={TRIS},%
+type={acronym},%
+first={Dimethylsulfoxid\glsspace (TRIS)},%
+firstplural={Dimethylsulfoxids\glsspace (TRISs)},%
+text={TRIS},%
+plural={TRISs},%
+description={Dimethylsulfoxid},%
+descriptionplural={Dimethylsulfoxid\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Dimethylsulfoxid},%
+longplural={Dimethylsulfoxids},%
+short={TRIS},%
+shortplural={TRISs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{edta}{}%
+{%
+\gls@defglossaryentry{edta}%
+{%
+name={EDTA},%
+sort={EDTA},%
+type={acronym},%
+first={Dimethylsulfoxid\glsspace (EDTA)},%
+firstplural={Dimethylsulfoxids\glsspace (EDTAs)},%
+text={EDTA},%
+plural={EDTAs},%
+description={Dimethylsulfoxid},%
+descriptionplural={Dimethylsulfoxid\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Dimethylsulfoxid},%
+longplural={Dimethylsulfoxids},%
+short={EDTA},%
+shortplural={EDTAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{uv}{}%
+{%
+\gls@defglossaryentry{uv}%
+{%
+name={UV},%
+sort={UV},%
+type={acronym},%
+first={Ultraviolett\glsspace (UV)},%
+firstplural={Ultravioletts\glsspace (UVs)},%
+text={UV},%
+plural={UVs},%
+description={Ultraviolett},%
+descriptionplural={Ultraviolett\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Ultraviolett},%
+longplural={Ultravioletts},%
+short={UV},%
+shortplural={UVs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pcr}{}%
+{%
+\gls@defglossaryentry{pcr}%
+{%
+name={PCR},%
+sort={PCR},%
+type={acronym},%
+first={Polymerase Ketten Reaktion\glsspace (PCR)},%
+firstplural={Polymerase Ketten Reaktions\glsspace (PCRs)},%
+text={PCR},%
+plural={PCRs},%
+description={Polymerase Ketten Reaktion},%
+descriptionplural={Polymerase Ketten Reaktion\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Polymerase Ketten Reaktion},%
+longplural={Polymerase Ketten Reaktions},%
+short={PCR},%
+shortplural={PCRs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{anova}{}%
+{%
+\gls@defglossaryentry{anova}%
+{%
+name={ANOVA},%
+sort={ANOVA},%
+type={acronym},%
+first={Dimethylsulfoxid\glsspace (ANOVA)},%
+firstplural={Dimethylsulfoxids\glsspace (ANOVAs)},%
+text={ANOVA},%
+plural={ANOVAs},%
+description={Dimethylsulfoxid},%
+descriptionplural={Dimethylsulfoxid\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Dimethylsulfoxid},%
+longplural={Dimethylsulfoxids},%
+short={ANOVA},%
+shortplural={ANOVAs},%
 counter={page},%
 parent={},%
 %

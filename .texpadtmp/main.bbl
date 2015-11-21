@@ -80,7 +80,7 @@
       \field{labelmonth}{05}
       \field{datelabelsource}{}
       \field{labeltitle}{{Expression of functional beta2-adrenergic receptors in the lung epithelial cell lines 16HBE14o(-), Calu-3 and A549.}}
-      \field{abstract}{Adrenergic drugs acting through the beta(2)-adrenoceptor (beta(2)-AR) adenylate cyclase (AC) signal transduction system elicit a variety of responses within the mammalian airway epithelium; however, its composition of multiple phenotypically differentiated cell types complicates the understanding of the regulation cascades within this tissue. The present study evaluates beta(2)-AR mRNA level, number, subtype and the cyclic adenosine-3',5'-monophosphate (cyclic AMP) response to isoproterenol (iso) in the human airway epithelial cell lines 16HBE14o(-), Calu-3 and A549, using reverse transcriptase polymerase chain reaction (RT-PCR), radioligand binding studies, [(3)H]-radioimmunoassay and immunocytochemical staining. After 4-5 days in culture, all three cell types produced beta(2)-AR mRNA and protein at a magnitude of gene expression levels Calu-3>or=16HBE14o(-)>A549, whereas control cells Cos-1 and Caco-2 were negative. The beta(2)-AR adenylate cyclase system was highly expressed and functional in the human airway epithelial cells Calu-3 and 16HBE14o(-). The mean beta(2)-AR density (B(max)), equilibrium dissociation constant (K(D)), and the percentage of beta-AR subtypes assessed by radioligand binding were approximately 9908+/-1127 and 6423+/-895 binding sites/cell, 32+/-2.7 pM and 25+/-1.1 pM, and approximately 100\% in Calu-3 and 16HBE14o(-)cells, respectively. However, in the alveolar cell type A549 the cell surface beta(2)-AR was virtually undetectable by (-)-[(125)I]-iodocyanopindolol (ICYP) binding. Stimulation of cultured cells with (-)-isoproterenol enhanced the basal cyclic AMP accumulation only in Calu-3 and 16HBE14o(-) cells, which was blocked by the beta(2)-selective antagonist ICI 118,551, but not by the beta(1)-selective antagonist CGP 20712A, confirming functional coupling of the beta(2)-AR to adenylate cyclase in these cells. Immunocytochemical staining localised the receptor on the cell membrane and the cytoplasm in Calu-3 and 16HBE14o(-) cells, while it was confined to the cytoplasm only in A549 cells. In conclusion, the beta(2)-AR expression and its functional coupling to adenylyl cyclase was very high in the human airway epithelial cells Calu-3 and 16HBE14o(-), but not in A549, suggesting that the cell lines Calu-3 and 16HBE14o(-) present suitable models to study function and regulation of the beta-adrenoceptor signalling in the respiratory system.}
+      \field{abstract}{Adrenergic drugs acting through the beta(2)-adrenoceptor (beta(2)-AR) adenylate cyclase (AC) signal transduction system elicit a variety of responses within the mammalian airway epithelium; however, its composition of multiple phenotypically differentiated cell types complicates the understanding of the regulation cascades within this tissue. The present study evaluates beta(2)-AR mRNA level, number, subtype and the cyclic adenosine-3',5'-monophosphate (cyclic AMP) response to isoproterenol (iso) in the human airway epithelial cell lines 16HBE14o(-), Calu-3 and A549, using reverse transcriptase polymerase chain reaction (RT-PCR), radioligand binding studies, [(3)H]-radioimmunoassay and immunocytochemical staining. After 4-5 days in culture, all three cell types produced beta(2)-AR mRNA and protein at a magnitude of gene expression levels Calu-3>or=16HBE14o(-)>A549, whereas control cells Cos-1 and Caco-2 were negative. The beta(2)-AR adenylate cyclase system was highly expressed and functional in the human airway epithelial cells Calu-3 and 16HBE14o(-). The mean beta(2)-AR density (B(max)), equilibrium dissociation constant (K(D)), and the percentage of beta-AR subtypes assessed by radioligand binding were approximately 9908+/-1127 and 6423+/-895 binding sites/cell, 32+/-2.7 pM and 25+/-1.1 pM, and approximately 100{\%} in Calu-3 and 16HBE14o(-)cells, respectively. However, in the alveolar cell type A549 the cell surface beta(2)-AR was virtually undetectable by (-)-[(125)I]-iodocyanopindolol (ICYP) binding. Stimulation of cultured cells with (-)-isoproterenol enhanced the basal cyclic AMP accumulation only in Calu-3 and 16HBE14o(-) cells, which was blocked by the beta(2)-selective antagonist ICI 118,551, but not by the beta(1)-selective antagonist CGP 20712A, confirming functional coupling of the beta(2)-AR to adenylate cyclase in these cells. Immunocytochemical staining localised the receptor on the cell membrane and the cytoplasm in Calu-3 and 16HBE14o(-) cells, while it was confined to the cytoplasm only in A549 cells. In conclusion, the beta(2)-AR expression and its functional coupling to adenylyl cyclase was very high in the human airway epithelial cells Calu-3 and 16HBE14o(-), but not in A549, suggesting that the cell lines Calu-3 and 16HBE14o(-) present suitable models to study function and regulation of the beta-adrenoceptor signalling in the respiratory system.}
       \field{issn}{0006-3002}
       \field{journaltitle}{Biochim Biophys Acta}
       \field{month}{05}
@@ -105,18 +105,18 @@
         {{uniquename=0,hash=30f5bce5a067a09644d7a7f741c77cc9}{Ahles}{A\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=d167f7a91ee7324160c05fe146f2cae3}{Rochais}{R\bibinitperiod}{Francesca}{F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=54fb9c3761e724a81a31f27e35e29d68}{Frambach}{F\bibinitperiod}{Torsten}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=92248c8444dd1286e9066cac61d9e823}{Bünemann}{B\bibinitperiod}{Moritz}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f39e29f598b25bb1d3ead141b888bdd0}{B{ü}nemann}{B\bibinitperiod}{Moritz}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=acaea11c14b745fade9d24235dd48bae}{Engelhardt}{E\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{5}{}{%
         {{uniquename=0,hash=30f5bce5a067a09644d7a7f741c77cc9}{Ahles}{A\bibinitperiod}{Andrea}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=d167f7a91ee7324160c05fe146f2cae3}{Rochais}{R\bibinitperiod}{Francesca}{F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=54fb9c3761e724a81a31f27e35e29d68}{Frambach}{F\bibinitperiod}{Torsten}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=92248c8444dd1286e9066cac61d9e823}{Bünemann}{B\bibinitperiod}{Moritz}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f39e29f598b25bb1d3ead141b888bdd0}{B{ü}nemann}{B\bibinitperiod}{Moritz}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=acaea11c14b745fade9d24235dd48bae}{Engelhardt}{E\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{5707c5b37190a9d4c271539c5feb077a}
-      \strng{fullhash}{5487864ea237f9429199d58a54d21913}
+      \strng{fullhash}{a63b800e7de2780618b16bd270075415}
       \field{sortinit}{A}
       \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
       \field{labelyear}{2011}
@@ -148,10 +148,10 @@
         {{uniquename=0,hash=6c3b851874e0dcad28edb2db00d78d7f}{Cottet}{C\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=f9d7adf43d2920a0c4a24ca38ae56761}{Kralikova}{K\bibinitperiod}{Michaela}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=9edc6b8c9047344bebe1c42e68819fe2}{Stoev}{S\bibinitperiod}{Stoytcho}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=6cf0283fc3ead834ed28e4e81dca0cc6}{Seyer}{S\bibinitperiod}{René}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=84620f81c65f21110259928d45b6d6d3}{Seyer}{S\bibinitperiod}{Ren{é}}{R\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b97fc98363be580247e5c6576487a574}{Brabet}{B\bibinitperiod}{Isabelle}{I\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b8e5d1a171939e8cda64e24c38e6c849}{Roux}{R\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9668d405b0eaeca7bfc7d52c016d7c76}{Bazin}{B\bibinitperiod}{Hervé}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9501218f1053c238e5c2da3a94f50383}{Bazin}{B\bibinitperiod}{Herv{é}}{H\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=6c342792fc270b296facafd4add2ee26}{Bourrier}{B\bibinitperiod}{Emmanuel}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=72fb7cd45e5626359e483f4760c86fb5}{Lamarque}{L\bibinitperiod}{Laurent}{L\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=4f7c56f85db286a868a76861c29e7ded}{Breton}{B\bibinitperiod}{Christophe}{C\bibinitperiod}{}{}{}{}}%
@@ -169,10 +169,10 @@
         {{uniquename=0,hash=6c3b851874e0dcad28edb2db00d78d7f}{Cottet}{C\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=f9d7adf43d2920a0c4a24ca38ae56761}{Kralikova}{K\bibinitperiod}{Michaela}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=9edc6b8c9047344bebe1c42e68819fe2}{Stoev}{S\bibinitperiod}{Stoytcho}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=6cf0283fc3ead834ed28e4e81dca0cc6}{Seyer}{S\bibinitperiod}{René}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=84620f81c65f21110259928d45b6d6d3}{Seyer}{S\bibinitperiod}{Ren{é}}{R\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b97fc98363be580247e5c6576487a574}{Brabet}{B\bibinitperiod}{Isabelle}{I\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b8e5d1a171939e8cda64e24c38e6c849}{Roux}{R\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9668d405b0eaeca7bfc7d52c016d7c76}{Bazin}{B\bibinitperiod}{Hervé}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9501218f1053c238e5c2da3a94f50383}{Bazin}{B\bibinitperiod}{Herv{é}}{H\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=6c342792fc270b296facafd4add2ee26}{Bourrier}{B\bibinitperiod}{Emmanuel}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=72fb7cd45e5626359e483f4760c86fb5}{Lamarque}{L\bibinitperiod}{Laurent}{L\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=4f7c56f85db286a868a76861c29e7ded}{Breton}{B\bibinitperiod}{Christophe}{C\bibinitperiod}{}{}{}{}}%
@@ -186,7 +186,7 @@
         {{uniquename=0,hash=b176a802ab7b11c217ab95a7ad84d820}{Durroux}{D\bibinitperiod}{Thierry}{T\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{d763eaccc333dd4184b6b0e6300d3ac9}
-      \strng{fullhash}{5bb919bc35d5963ab5f1c18ce4a6e580}
+      \strng{fullhash}{423b5bc80db08f4f40888f1406c20e96}
       \field{sortinit}{A}
       \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
       \field{labelyear}{2010}
@@ -211,7 +211,7 @@
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pubmed/20622858
       \endverb
-      \keyw{Algorithms,Animal,Animal: metabolism,Animals,COS Cells,Cell Line,Cercopithecus aethiops,Dimerization,Dopamine D2,Dopamine D2: agonists,Dopamine D2: antagonists \& inhibitors,Dopamine D2: metabolism,Female,Fluorescence Resonance Energy Transfer,Fluorescence Resonance Energy Transfer: methods,Fluorescent Dyes,G-Protein-Coupled,G-Protein-Coupled: agonists,G-Protein-Coupled: antagonists \& inhibi,G-Protein-Coupled: metabolism,Ligands,Mammary Glands,Models,Molecular,Oligopeptides,Oligopeptides: chemistry,Oligopeptides: metabolism,Oxytocin,Oxytocin: agonists,Oxytocin: antagonists \& inhibitors,Oxytocin: metabolism,Radioligand Assay,Rats,Receptors,Vasopressin,Vasopressin: agonists,Vasopressin: antagonists \& inhibitors,Vasopressin: metabolism}
+      \keyw{Algorithms,Animal,Animal: metabolism,Animals,COS Cells,Cell Line,Cercopithecus aethiops,Dimerization,Dopamine D2,Dopamine D2: agonists,Dopamine D2: antagonists {\&} inhibitors,Dopamine D2: metabolism,Female,Fluorescence Resonance Energy Transfer,Fluorescence Resonance Energy Transfer: methods,Fluorescent Dyes,G-Protein-Coupled,G-Protein-Coupled: agonists,G-Protein-Coupled: antagonists {\&} inhibi,G-Protein-Coupled: metabolism,Ligands,Mammary Glands,Models,Molecular,Oligopeptides,Oligopeptides: chemistry,Oligopeptides: metabolism,Oxytocin,Oxytocin: agonists,Oxytocin: antagonists {\&} inhibitors,Oxytocin: metabolism,Radioligand Assay,Rats,Receptors,Vasopressin,Vasopressin: agonists,Vasopressin: antagonists {\&} inhibitors,Vasopressin: metabolism}
     \endentry
     \entry{Angers2000}{article}{}
       \name{labelname}{7}{}{%
@@ -256,9 +256,56 @@
       \verb :Users/ska/Documents/thesis/literature/2000/Angers et al/Angers et al. - 2000 - Detection of beta 2-adrenergic receptor dimerization in living cells using bioluminescence resonance energy trans.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=16300%5C&tool=pmcentrez%5C&rendertype=abstract
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=16300%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
       \keyw{Animals,Arrestins,Arrestins: metabolism,Cell Line,Cell Membrane,Cell Membrane: metabolism,Dimerization,Energy Transfer,Genetic Vectors,Humans,Luminescent Measurements,Protein Binding,Rats,Receptors,Adrenergic,beta-2,Receptors,Adrenergic,beta-2: chemistry,Receptors,Adrenergic,beta-2: genetics,Receptors,Adrenergic,beta-2: metabolism,Recombinant Fusion Proteins,Recombinant Fusion Proteins: chemistry,Recombinant Fusion Proteins: genetics,Recombinant Fusion Proteins: metabolism}
+    \endentry
+    \entry{Burford2014}{misc}{}
+      \name{labelname}{7}{}{%
+        {{uniquename=0,hash=1c7f7cd2847f8695d4dd03b3e6a15b41}{Burford}{B\bibinitperiod}{Neil\bibnamedelima T}{N\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b0e50d0b782f9815ebdb911573d49cdf}{Wehrman}{W\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1a5577789c36428ca2dea67757dd5087}{Bassoni}{B\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=36a81363727209d46e3f4b25efc57324}{O'Connell}{O\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=df6ed51414597ff3ce382a0bbf01538f}{Banks}{B\bibinitperiod}{Martyn}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ea7349be151fa420c4890073aadc1f6f}{Zhang}{Z\bibinitperiod}{Litao}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=da0bd7a4f39a035b88a58350358a7484}{Alt}{A\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{uniquename=0,hash=1c7f7cd2847f8695d4dd03b3e6a15b41}{Burford}{B\bibinitperiod}{Neil\bibnamedelima T}{N\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b0e50d0b782f9815ebdb911573d49cdf}{Wehrman}{W\bibinitperiod}{Tom}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1a5577789c36428ca2dea67757dd5087}{Bassoni}{B\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=36a81363727209d46e3f4b25efc57324}{O'Connell}{O\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=df6ed51414597ff3ce382a0bbf01538f}{Banks}{B\bibinitperiod}{Martyn}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ea7349be151fa420c4890073aadc1f6f}{Zhang}{Z\bibinitperiod}{Litao}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=da0bd7a4f39a035b88a58350358a7484}{Alt}{A\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{22cec0f07a129397f9d78c4183d107ca}
+      \strng{fullhash}{b7dbe9a5670c7f035d347b0b133d1997}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labelyear}{2014}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Identification of Selective Agonists and Positive Allosteric Modulators for $\mu$- and $\delta$-Opioid Receptors from a Single High-Throughput Screen.}}
+      \field{abstract}{Hetero-oligomeric complexes of G protein-coupled receptors (GPCRs) may represent novel therapeutic targets exhibiting different pharmacology and tissue- or cell-specific site of action compared with receptor monomers or homo-oligomers. An ideal tool for validating this concept pharmacologically would be a hetero-oligomer selective ligand. We set out to develop and execute a 1536-well high-throughput screen of over 1 million compounds to detect potential hetero-oligomer selective ligands using a $\beta$-arrestin recruitment assay in U2OS cells coexpressing recombinant µ- and $\delta$-opioid receptors. Hetero-oligomer selective ligands may bind to orthosteric or allosteric sites, and we might anticipate that the formation of hetero-oligomers may provide novel allosteric binding pockets for ligand binding. Therefore, our goal was to execute the screen in such a way as to identify positive allosteric modulators (PAMs) as well as agonists for µ, $\delta$, and hetero-oligomeric receptors. While no hetero-oligomer selective ligands were identified (based on our selection criteria), this single screen did identify numerous µ- and $\delta$-selective agonists and PAMs as well as nonselective agonists and PAMs. To our knowledge, these are the first µ- and $\delta$-opioid receptor PAMs described in the literature.}
+      \field{booktitle}{J Biomol Screen}
+      \field{issn}{1552-454X}
+      \field{month}{10}
+      \field{number}{9}
+      \field{title}{{Identification of Selective Agonists and Positive Allosteric Modulators for $\mu$- and $\delta$-Opioid Receptors from a Single High-Throughput Screen.}}
+      \field{volume}{19}
+      \field{year}{2014}
+      \field{pages}{1255\bibrangedash 1265}
+      \verb{doi}
+      \verb 10.1177/1087057114542975
+      \endverb
+      \verb{file}
+      \verb :Users/ska/Documents/thesis/literature/2014/Burford et al/Burford et al. - 2014 - Identification of Selective Agonists and Positive Allosteric Modulators for $\mu$- and $\delta$-Opioid Receptors from a S.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/25047277%20http://jbx.sagepub.com/cgi/doi/10.1177/1087057114542975
+      \endverb
+      \keyw{gpcr,high-throughput screen,opioid receptor,positive allosteric modulator,$\beta$ -arrestin}
     \endentry
     \entry{Calebiro2013}{article}{}
       \name{labelname}{9}{}{%
@@ -269,7 +316,7 @@
         {{uniquename=0,hash=e2709161f8851160110892248516d588}{Zabel}{Z\bibinitperiod}{Ulrike}{U\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=486770f3e6716a6beff966d17af7d32b}{Borzi}{B\bibinitperiod}{Alfio}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=a94e31231f050ca8e2cd57d23213054f}{Cocucci}{C\bibinitperiod}{Emanuele}{E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=8fb277dd88baf232d8923ba4e2e1aaf6}{Zürn}{Z\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ae2ec2044902581c1376ce0c9328524b}{Z{ü}rn}{Z\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=4d94e05a851b38dd515d071b4d96a08e}{Lohse}{L\bibinitperiod}{Martin\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{9}{}{%
@@ -280,11 +327,11 @@
         {{uniquename=0,hash=e2709161f8851160110892248516d588}{Zabel}{Z\bibinitperiod}{Ulrike}{U\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=486770f3e6716a6beff966d17af7d32b}{Borzi}{B\bibinitperiod}{Alfio}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=a94e31231f050ca8e2cd57d23213054f}{Cocucci}{C\bibinitperiod}{Emanuele}{E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=8fb277dd88baf232d8923ba4e2e1aaf6}{Zürn}{Z\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ae2ec2044902581c1376ce0c9328524b}{Z{ü}rn}{Z\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=4d94e05a851b38dd515d071b4d96a08e}{Lohse}{L\bibinitperiod}{Martin\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{82c0f3d50a9823654b326ec34a8e72a5}
-      \strng{fullhash}{e0f558dae9fd2e3d6fd0d97e79847f08}
+      \strng{fullhash}{1d94c0c76d7873018aa68c0bedd4a221}
       \field{sortinit}{C}
       \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
       \field{labelyear}{2013}
@@ -310,7 +357,7 @@
       \verb :Users/ska/Documents/thesis/literature/2013/Calebiro et al/Calebiro et al. - 2013 - Single-molecule analysis of fluorescently labeled G-protein-coupled receptors reveals complexes with distinct d.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3545784%5C&tool=pmcentrez%5C&rendertype=abstract
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3545784%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
       \keyw{Algorithms,Animals,Bicyclo Compounds,Heterocyclic,CHO Cells,Carbocyanines,Cricetinae,Cricetulus,Cyclic AMP,Cyclic AMP: metabolism,HEK293 Cells,Humans,Lipids,Microscopy,Fluorescence,Models,Chemical,Molecular Dynamics Simulation,Multiprotein Complexes,Multiprotein Complexes: chemistry,Plasmids,Plasmids: genetics,Radioligand Assay,Receptors,Adrenergic,beta-1,Receptors,Adrenergic,beta-1: chemistry,Receptors,Adrenergic,beta-2,Receptors,Adrenergic,beta-2: chemistry,Receptors,GABA,Receptors,GABA: chemistry,Thiazolidines}
     \endentry
@@ -319,7 +366,7 @@
         {{uniquename=0,hash=1a3634310c3b2b06eb166770ab5dda0e}{Cherezov}{C\bibinitperiod}{Vadim}{V\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=0828d953129b55f1f04d368185bc4a7d}{Rosenbaum}{R\bibinitperiod}{Daniel\bibnamedelima M}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=ca3775064a137451b30b4c99003f4a53}{Hanson}{H\bibinitperiod}{Michael\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=fa9629b465a2fdd1e087cca8c5522b0c}{Rasmussen}{R\bibinitperiod}{Søren\bibnamedelimb G\bibnamedelima F}{S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a3b965d18a54a31cb9e31c3c946397ab}{Rasmussen}{R\bibinitperiod}{S{ø}ren\bibnamedelimb G\bibnamedelima F}{S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=a17351cabe32fd8450fc95c8c3f42f30}{Thian}{T\bibinitperiod}{Foon\bibnamedelima Sun}{F\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=2bcba851193b37d5c2cddd70bf1f8763}{Kobilka}{K\bibinitperiod}{Tong\bibnamedelima Sun}{T\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=262005b69cd9f862ac5a6bbeefb45c14}{Choi}{C\bibinitperiod}{Hee-Jung}{H\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
@@ -332,7 +379,7 @@
         {{uniquename=0,hash=1a3634310c3b2b06eb166770ab5dda0e}{Cherezov}{C\bibinitperiod}{Vadim}{V\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=0828d953129b55f1f04d368185bc4a7d}{Rosenbaum}{R\bibinitperiod}{Daniel\bibnamedelima M}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=ca3775064a137451b30b4c99003f4a53}{Hanson}{H\bibinitperiod}{Michael\bibnamedelima a}{M\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=fa9629b465a2fdd1e087cca8c5522b0c}{Rasmussen}{R\bibinitperiod}{Søren\bibnamedelimb G\bibnamedelima F}{S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a3b965d18a54a31cb9e31c3c946397ab}{Rasmussen}{R\bibinitperiod}{S{ø}ren\bibnamedelimb G\bibnamedelima F}{S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=a17351cabe32fd8450fc95c8c3f42f30}{Thian}{T\bibinitperiod}{Foon\bibnamedelima Sun}{F\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=2bcba851193b37d5c2cddd70bf1f8763}{Kobilka}{K\bibinitperiod}{Tong\bibnamedelima Sun}{T\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=262005b69cd9f862ac5a6bbeefb45c14}{Choi}{C\bibinitperiod}{Hee-Jung}{H\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
@@ -342,7 +389,7 @@
         {{uniquename=0,hash=5e870ddd905b49881f1c106759b7acfc}{Stevens}{S\bibinitperiod}{Raymond\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{def005f6b6e73b6545fbe03dfa484e8f}
-      \strng{fullhash}{c463f437f0df1f89cb6b1077bdd75162}
+      \strng{fullhash}{201365a24cbe5c169626e935f0b14b4b}
       \field{sortinit}{C}
       \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
       \field{labelyear}{2007}
@@ -365,7 +412,7 @@
       \verb :Users/ska/Documents/thesis/literature/2007/Cherezov et al/Cherezov et al. - 2007 - High-resolution crystal structure of an engineered human beta2-adrenergic G protein-coupled receptor.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2583103%5C&tool=pmcentrez%5C&rendertype=abstract
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2583103%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
       \keyw{Bacteriophage T4,Bacteriophage T4: enzymology,Binding Sites,Cell Membrane,Cell Membrane: chemistry,Cell Membrane: metabolism,Cholesterol,Cholesterol: chemistry,Cholesterol: metabolism,Crystallization,Crystallography,X-Ray,Drug Inverse Agonism,Humans,Ligands,Models,Molecular,Muramidase,Muramidase: chemistry,Muramidase: metabolism,Propanolamines,Propanolamines: chemistry,Propanolamines: metabolism,Protein Conformation,Protein Folding,Protein Structure,Secondary,Receptors,Adrenergic,beta-2,Receptors,Adrenergic,beta-2: chemistry,Receptors,Adrenergic,beta-2: metabolism,Recombinant Fusion Proteins,Recombinant Fusion Proteins: chemistry,Recombinant Fusion Proteins: metabolism,Rhodopsin,Rhodopsin: chemistry,Rhodopsin: metabolism,Static Electricity}
     \endentry
@@ -400,22 +447,58 @@
       \verb :Users/ska/Documents/thesis/literature/1979/Chuang, Costa/Chuang, Costa - 1979 - Evidence for internalization of the recognition site of beta-adrenergic receptors during receptor subsensitivity.pdf:pdf
       \endverb
     \endentry
+    \entry{Chung2011}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=717128206aa5937c55a02a8af40fe05a}{Chung}{C\bibinitperiod}{L\bibnamedelima P}{L\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0cb42bc27040f57cfade081c3474f3fb}{Waterer}{W\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f80afc32463fabbf65b510dfbc90b735}{Thompson}{T\bibinitperiod}{P\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=717128206aa5937c55a02a8af40fe05a}{Chung}{C\bibinitperiod}{L\bibnamedelima P}{L\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0cb42bc27040f57cfade081c3474f3fb}{Waterer}{W\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f80afc32463fabbf65b510dfbc90b735}{Thompson}{T\bibinitperiod}{P\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ddc39fdda68acd710adbeecf4eaa2ce1}
+      \strng{fullhash}{bb7b8e12433cb1b9aaedde8801cb0df4}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labelyear}{2011}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Pharmacogenetics of $\beta$2 adrenergic receptor gene polymorphisms, long-acting $\beta$-agonists and asthma.}}
+      \field{abstract}{Adrenergic $\beta$2 receptor (ADR$\beta$2) agonists are widely used in asthma. Approximately 10{\%} of patients have severe, poorly controlled disease despite extensive use of ADR$\beta$2 agonists. Variations in responses to ADR$\beta$2 agonists can, in part, be attributed to genetic variation, with 49 different polymorphisms having been identified for the ADR$\beta$2 gene. Although clear associations exist between ADR$\beta$2 gene polymorphisms, such as +46G>A, and patient response, the importance of these polymorphisms remains controversial. Patient selection, the number of polymorphisms analysed, differences in the type/dose of ADR$\beta$2 agonist, use of inhaled corticosteroids and population sizes have all varied. Most studies were limited to mild or moderate asthmatics using ADR$\beta$2 agonists sparingly. It is difficult to extrapolate from these studies to individual patients who have severe asthma, use a variety of ADR$\beta$2 agonists and do so frequently. The extent to which ADR$\beta$2 gene polymorphisms are relevant to asthma management needs further review, both clinically and at the molecular level. In vitro studies have helped to define the functional changes induced by specific ADR$\beta$2 gene polymorphisms, including 3'-untranslated region poly-C repeat. The resulting ADR$\beta$2 gene haplotypes (rather than genotypes), the interactions among ADR$\beta$2 gene haplotypes and variations in the chemistry of different agonists deserve more detailed assessment. Responses to ADR$\beta$2 agonists depend on effective downstream signalling following ADR$\beta$2 activation and also on receptor regulation. Studies on other regulators of ADR$\beta$2 receptor signalling and trafficking may be equally important in understanding the functional role of ADR$\beta$2 gene polymorphisms. The role of ADR$\beta$2 gene polymorphisms in the pathogenesis and management of severe asthma cannot be clearly defined until more specific and targeted research studies are performed.}
+      \field{issn}{1365-2222}
+      \field{journaltitle}{Clin Exp Allergy}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{{Pharmacogenetics of $\beta$2 adrenergic receptor gene polymorphisms, long-acting $\beta$-agonists and asthma.}}
+      \field{volume}{41}
+      \field{year}{2011}
+      \field{pages}{312\bibrangedash 26}
+      \verb{doi}
+      \verb 10.1111/j.1365-2222.2011.03696.x
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/21294785
+      \endverb
+      \keyw{Adrenergic beta-Agonists,Adrenergic beta-Agonists: therapeutic use,Asthma,Asthma: drug therapy,Delayed-Action Preparations,Drug Resistance,Drug Resistance: genetics,Humans,Pharmacogenetics,Polymorphism,Genetic,Receptors,Adrenergic,beta-2,Receptors,Adrenergic,beta-2: genetics}
+    \endentry
     \entry{Comps-agrar2011}{book}{}
       \name{labelname}{6}{}{%
-        {{uniquename=0,hash=a4e1d1d600eb8d964c4ebd4b09a256f2}{Comps-agrar}{C\bibinithyphendelim a\bibinitperiod}{Laëtitia}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=de70b63fa77dce8cac6ed2caf22698d3}{Comps-agrar}{C\bibinithyphendelim a\bibinitperiod}{La{ë}titia}{L\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=be172cd935205c533b6f658671a141ab}{Maurel}{M\bibinitperiod}{Damien}{D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=7edd3e215e6aff59da58e36b965e2c82}{Rondard}{R\bibinitperiod}{Philippe}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=5a4b0a532a1a475298c7646b0a04a0ba}{Pin}{P\bibinitperiod}{Jean-philippe}{J\bibinithyphendelim p\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=2256344e7e48a51afd66ddff0072d45b}{Trinquet}{T\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4010d16223d0a92d43f5e962c4adc60c}{Prézeau}{P\bibinitperiod}{Laurent}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d695a6e475955e242cf20983bdd77264}{Pr{é}zeau}{P\bibinitperiod}{Laurent}{L\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{6}{}{%
-        {{uniquename=0,hash=a4e1d1d600eb8d964c4ebd4b09a256f2}{Comps-agrar}{C\bibinithyphendelim a\bibinitperiod}{Laëtitia}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=de70b63fa77dce8cac6ed2caf22698d3}{Comps-agrar}{C\bibinithyphendelim a\bibinitperiod}{La{ë}titia}{L\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=be172cd935205c533b6f658671a141ab}{Maurel}{M\bibinitperiod}{Damien}{D\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=7edd3e215e6aff59da58e36b965e2c82}{Rondard}{R\bibinitperiod}{Philippe}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=5a4b0a532a1a475298c7646b0a04a0ba}{Pin}{P\bibinitperiod}{Jean-philippe}{J\bibinithyphendelim p\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=2256344e7e48a51afd66ddff0072d45b}{Trinquet}{T\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4010d16223d0a92d43f5e962c4adc60c}{Prézeau}{P\bibinitperiod}{Laurent}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d695a6e475955e242cf20983bdd77264}{Pr{é}zeau}{P\bibinitperiod}{Laurent}{L\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{2}{}{%
         {{hash=0b5b89b74eae1f2945a8e00f8c6e07a7}{Luttrell}{L\bibinitperiod}{Louis\bibnamedelima M.}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
@@ -427,8 +510,8 @@
       \list{publisher}{1}{%
         {Humana Press}%
       }
-      \strng{namehash}{dcca13087859c7a45803185f0378488f}
-      \strng{fullhash}{249f0ccfebb52fc0cfd9bdacf9e3d114}
+      \strng{namehash}{1dbbcf97e2d544f93d1405be9cdf9f57}
+      \strng{fullhash}{81302bc6b0422062979643105efa539a}
       \field{sortinit}{C}
       \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
       \field{labelyear}{2011}
@@ -496,7 +579,7 @@
       \verb :Users/ska/Documents/thesis/literature/2012/Cottet et al/Cottet et al. - 2012 - BRET and Time-resolved FRET strategy to study GPCR oligomerization from cell lines toward native tissues.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3401989%5C&tool=pmcentrez%5C&rendertype=abstract
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3401989%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
       \keyw{bret,fluorescence,fluorescent ligand,fret,g protein-coupled receptor,oligomer,time-resolved fret}
     \endentry
@@ -541,9 +624,9 @@
       \verb :Users/ska/Documents/thesis/literature/2005/Daniels et al/Daniels et al. - 2005 - Opioid-induced tolerance and dependence in mice is modulated by the distance between pharmacophores in a bivalen.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1323165%5C&tool=pmcentrez%5C&rendertype=abstract
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1323165%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
-      \keyw{Analgesics,Analgesics: pharmacology,Animals,Chemical,Chemistry,Dose-Response Relationship,Drug,Inbred ICR,Ligands,Male,Mice,Models,Morphine,Morphine: pharmacology,Naltrexone,Naltrexone: analogs \& derivatives,Naltrexone: pharmacology,Narcotic Antagonists,Narcotic Antagonists: pharmacology,Narcotics,Narcotics: metabolism,Opioid,Opioid: pharmacology,Pharmaceutical,Pharmaceutical: methods,Receptors,Statistical,Time Factors,delta,delta: chemistry,mu,mu: chemistry}
+      \keyw{Analgesics,Analgesics: pharmacology,Animals,Chemical,Chemistry,Dose-Response Relationship,Drug,Inbred ICR,Ligands,Male,Mice,Models,Morphine,Morphine: pharmacology,Naltrexone,Naltrexone: analogs {\&} derivatives,Naltrexone: pharmacology,Narcotic Antagonists,Narcotic Antagonists: pharmacology,Narcotics,Narcotics: metabolism,Opioid,Opioid: pharmacology,Pharmaceutical,Pharmaceutical: methods,Receptors,Statistical,Time Factors,delta,delta: chemistry,mu,mu: chemistry}
     \endentry
     \entry{DeJong2005}{article}{}
       \name{labelname}{4}{}{%
@@ -588,20 +671,20 @@
         {{uniquename=0,hash=1486253e620677e4d13ef08981045d87}{Klotz}{K\bibinitperiod}{Karl-Norbert}{K\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=acaea11c14b745fade9d24235dd48bae}{Engelhardt}{E\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=4d94e05a851b38dd515d071b4d96a08e}{Lohse}{L\bibinitperiod}{Martin\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=92248c8444dd1286e9066cac61d9e823}{Bünemann}{B\bibinitperiod}{Moritz}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f39e29f598b25bb1d3ead141b888bdd0}{B{ü}nemann}{B\bibinitperiod}{Moritz}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{5}{}{%
         {{uniquename=0,hash=8ed927b27a0386e937d4a344325c33c1}{Dorsch}{D\bibinitperiod}{Sandra}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=1486253e620677e4d13ef08981045d87}{Klotz}{K\bibinitperiod}{Karl-Norbert}{K\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=acaea11c14b745fade9d24235dd48bae}{Engelhardt}{E\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=4d94e05a851b38dd515d071b4d96a08e}{Lohse}{L\bibinitperiod}{Martin\bibnamedelima J}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=92248c8444dd1286e9066cac61d9e823}{Bünemann}{B\bibinitperiod}{Moritz}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f39e29f598b25bb1d3ead141b888bdd0}{B{ü}nemann}{B\bibinitperiod}{Moritz}{M\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Nature Publishing Group}%
       }
       \strng{namehash}{3af95e849f8868f142218f9d095647f7}
-      \strng{fullhash}{49405ae55a9517e4d53e1e046d7fbc18}
+      \strng{fullhash}{fc82225c62dcac686c832bc07ab41384}
       \field{sortinit}{D}
       \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
       \field{labelyear}{2009}
@@ -716,12 +799,12 @@
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pubmed/23764938
       \endverb
-      \keyw{Fluorescence Resonance Energy Transfer,Fluorescence Resonance Energy Transfer: methods,Fluorescent Dyes,Fluorescent Dyes: chemistry,G-Protein-Coupled,G-Protein-Coupled: analysis,G-Protein-Coupled: metabolism,Ligands,Peptide Fragments,Peptide Fragments: chemistry,Peptide Fragments: metabolism,Receptors,Terbium,Terbium: chemistry,Teriparatide,Teriparatide: analogs \& derivatives,Teriparatide: chemistry,Teriparatide: metabolism,Time Factors}
+      \keyw{Fluorescence Resonance Energy Transfer,Fluorescence Resonance Energy Transfer: methods,Fluorescent Dyes,Fluorescent Dyes: chemistry,G-Protein-Coupled,G-Protein-Coupled: analysis,G-Protein-Coupled: metabolism,Ligands,Peptide Fragments,Peptide Fragments: chemistry,Peptide Fragments: metabolism,Receptors,Terbium,Terbium: chemistry,Teriparatide,Teriparatide: analogs {\&} derivatives,Teriparatide: chemistry,Teriparatide: metabolism,Time Factors}
     \endentry
     \entry{Ferre2014}{article}{}
       \name{labelname}{9}{}{%
-        {{uniquename=0,hash=67b931796e648e2ffe2f30c9e6fec974}{Ferré}{F\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9963699fc7a7cd9ef7fbe90fd2b5f2fd}{Casadó}{C\bibinitperiod}{Vicent}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4cf7b2a170b143f30a95815bd1120011}{Ferr{é}}{F\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8c52ca5c3745e829bb3b3648bd297648}{Casad{ó}}{C\bibinitperiod}{Vicent}{V\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=e087092cccd54f956e674d1e2c3b44a3}{Devi}{D\bibinitperiod}{Lakshmi\bibnamedelima a}{L\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=caa7ad34df0c6628c95c1dbbf147fe90}{Filizola}{F\bibinitperiod}{Marta}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=9dcc8785b9d21dddb5fbe97848b4e63e}{Jockers}{J\bibinitperiod}{Ralf}{R\bibinitperiod}{}{}{}{}}%
@@ -731,8 +814,8 @@
         {{uniquename=0,hash=0ab16eece503b085769f674c2e9f793d}{Guitart}{G\bibinitperiod}{Xavier}{X\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{9}{}{%
-        {{uniquename=0,hash=67b931796e648e2ffe2f30c9e6fec974}{Ferré}{F\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9963699fc7a7cd9ef7fbe90fd2b5f2fd}{Casadó}{C\bibinitperiod}{Vicent}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4cf7b2a170b143f30a95815bd1120011}{Ferr{é}}{F\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8c52ca5c3745e829bb3b3648bd297648}{Casad{ó}}{C\bibinitperiod}{Vicent}{V\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=e087092cccd54f956e674d1e2c3b44a3}{Devi}{D\bibinitperiod}{Lakshmi\bibnamedelima a}{L\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=caa7ad34df0c6628c95c1dbbf147fe90}{Filizola}{F\bibinitperiod}{Marta}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=9dcc8785b9d21dddb5fbe97848b4e63e}{Jockers}{J\bibinitperiod}{Ralf}{R\bibinitperiod}{}{}{}{}}%
@@ -741,8 +824,8 @@
         {{uniquename=0,hash=47e7de63efb23799ddebc7633df7863a}{Pin}{P\bibinitperiod}{Jean-Philippe}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=0ab16eece503b085769f674c2e9f793d}{Guitart}{G\bibinitperiod}{Xavier}{X\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{b64115770237b015c780dddb8137b8b1}
-      \strng{fullhash}{8874cc2e100d02d1d697f51ca35b7404}
+      \strng{namehash}{a582df33bfe1acd7be0400d5926a23b9}
+      \strng{fullhash}{6c3168e841cf8677e0eea7b6cc206a97}
       \field{sortinit}{F}
       \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
       \field{labelyear}{2014}
@@ -761,10 +844,10 @@
       \verb 10.1124/pr.113.008052
       \endverb
       \verb{file}
-      \verb :Users/ska/Documents/thesis/literature/2014/Ferré et al/Ferré et al. - 2014 - G protein-coupled receptor oligomerization revisited functional and pharmacological perspectives.pdf:pdf
+      \verb :Users/ska/Documents/thesis/literature/2014/Ferr{é} et al/Ferr{é} et al. - 2014 - G protein-coupled receptor oligomerization revisited functional and pharmacological perspectives.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3973609%5C&tool=pmcentrez%5C&rendertype=abstract
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3973609%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
     \endentry
     \entry{Floyd2003}{article}{}
@@ -806,21 +889,49 @@
       \verb :Users/ska/Documents/thesis/literature/2003/Floyd et al/Floyd et al. - 2003 - C5a receptor oligomerization. II. Fluorescence resonance energy transfer studies of a human G protein-coupled rece.pdf:pdf
       \endverb
     \endentry
+    \entry{Forster1948}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=f9c30ba769fede083735572055748a93}{F{ö}rster}{F\bibinitperiod}{Th.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f9c30ba769fede083735572055748a93}{F{ö}rster}{F\bibinitperiod}{Th.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f9c30ba769fede083735572055748a93}
+      \strng{fullhash}{f9c30ba769fede083735572055748a93}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labelyear}{1948}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Zwischenmolekulare Energiewanderung und Fluoreszenz}}
+      \field{issn}{00033804}
+      \field{journaltitle}{Ann Phys}
+      \field{number}{1-2}
+      \field{title}{{Zwischenmolekulare Energiewanderung und Fluoreszenz}}
+      \field{volume}{437}
+      \field{year}{1948}
+      \field{pages}{55\bibrangedash 75}
+      \verb{doi}
+      \verb 10.1002/andp.19484370105
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/andp.19484370105
+      \endverb
+    \endentry
     \entry{Fredriksson2003}{article}{}
       \name{labelname}{4}{}{%
         {{uniquename=0,hash=9b83f491ff3f27404628c94dcecceef7}{Fredriksson}{F\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4518fe8eb5e062a97fdf0ac62b5072a8}{Lagerström}{L\bibinitperiod}{Malin\bibnamedelima C}{M\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7fbb37a2403148a68c980ab0748bdc9b}{Lagerstr{ö}m}{L\bibinitperiod}{Malin\bibnamedelima C}{M\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=3b2cdea7b9370d89f1cb0548a9cddf83}{Lundin}{L\bibinitperiod}{Lars-Gustav}{L\bibinithyphendelim G\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=e2fd4075183556cf1f0903bc1e957124}{Schiöth}{S\bibinitperiod}{Helgi\bibnamedelima B}{H\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f3aaa97742c4057fd56f8c2c7a264462}{Schi{ö}th}{S\bibinitperiod}{Helgi\bibnamedelima B}{H\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
         {{uniquename=0,hash=9b83f491ff3f27404628c94dcecceef7}{Fredriksson}{F\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4518fe8eb5e062a97fdf0ac62b5072a8}{Lagerström}{L\bibinitperiod}{Malin\bibnamedelima C}{M\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7fbb37a2403148a68c980ab0748bdc9b}{Lagerstr{ö}m}{L\bibinitperiod}{Malin\bibnamedelima C}{M\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=3b2cdea7b9370d89f1cb0548a9cddf83}{Lundin}{L\bibinitperiod}{Lars-Gustav}{L\bibinithyphendelim G\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=e2fd4075183556cf1f0903bc1e957124}{Schiöth}{S\bibinitperiod}{Helgi\bibnamedelima B}{H\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f3aaa97742c4057fd56f8c2c7a264462}{Schi{ö}th}{S\bibinitperiod}{Helgi\bibnamedelima B}{H\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{ecf7fafd7fcb1f6cec2d319ef007f695}
-      \strng{fullhash}{7f42adab5cf7f503944b55730eb26e89}
+      \strng{fullhash}{9705496006498511ae20c92511bf38a1}
       \field{sortinit}{F}
       \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
       \field{labelyear}{2003}
@@ -842,9 +953,84 @@
       \verb :Users/ska/Documents/thesis/literature/2003/Fredriksson et al/Fredriksson et al. - 2003 - The G-protein-coupled receptors in the human genome form five main families. Phylogenetic analysis, paralogo.pdf:pdf
       \endverb
     \endentry
+    \entry{Fribourg2011a}{article}{}
+      \name{labelname}{22}{}{%
+        {{uniquename=0,hash=3fdabaf2a6761389cb87972dc3135ceb}{Fribourg}{F\bibinitperiod}{Miguel}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=137fe6d617d41c24ef6c7145f0106670}{Moreno}{M\bibinitperiod}{Jos{é}\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fba2de7070bfbb26b4137d7bc62b102c}{Holloway}{H\bibinitperiod}{Terrell}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=34982c1c650e8b504180d99b1fe6c8cf}{Provasi}{P\bibinitperiod}{Davide}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=222bc8e4368da4cd313a4794c668dfac}{Baki}{B\bibinitperiod}{Lia}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3a400eac5907d7bdd36e9cc45749ec4d}{Mahajan}{M\bibinitperiod}{Rahul}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=814479f1bf844da8a36dad4c835c1489}{Park}{P\bibinitperiod}{Gyu}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1ac3699c06d3ce6edb724d08c720099c}{Adney}{A\bibinitperiod}{Scott\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8b2f75dc61cda5f8e9ff73e1ec9cc5f5}{Hatcher}{H\bibinitperiod}{Candice}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f13a7f0cc22bee2298a6c51527f38bfd}{Eltit}{E\bibinitperiod}{Jos{é}\bibnamedelima M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=88631aa9de641a20ea7820cd6f002232}{Ruta}{R\bibinitperiod}{Jeffrey\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d0c53dc31e957130274b15205768df98}{Albizu}{A\bibinitperiod}{Laura}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=80c88b1c7cc92f9bcb33605a25e00dab}{Li}{L\bibinitperiod}{Zheng}{Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=43668724c855ccee3bf70e8169756499}{Umali}{U\bibinitperiod}{Adrienne}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6b7275af22b1a6379172191bfeaeebe0}{Shim}{S\bibinitperiod}{Jihyun}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=da4cc897808b434d7e8154b053008dfe}{Fabiato}{F\bibinitperiod}{Alexandre}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2c566668065920587f28e9543e220b38}{MacKerell}{M\bibinitperiod}{Alexander\bibnamedelima D.}{A\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f3661157a2936f0f103e1d729bca6721}{Brezina}{B\bibinitperiod}{Vladimir}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e1effe9cb7f07efd170d06a1a965c22f}{Sealfon}{S\bibinitperiod}{Stuart\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=caa7ad34df0c6628c95c1dbbf147fe90}{Filizola}{F\bibinitperiod}{Marta}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ec54ad048e6b6f51cc2c9cb075818a2e}{Gonz{á}lez-Maeso}{G\bibinithyphendelim M\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c5f78cdc5eed20f47b1e49861fd5c724}{Logothetis}{L\bibinitperiod}{Diomedes\bibnamedelima E.}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{22}{}{%
+        {{uniquename=0,hash=3fdabaf2a6761389cb87972dc3135ceb}{Fribourg}{F\bibinitperiod}{Miguel}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=137fe6d617d41c24ef6c7145f0106670}{Moreno}{M\bibinitperiod}{Jos{é}\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fba2de7070bfbb26b4137d7bc62b102c}{Holloway}{H\bibinitperiod}{Terrell}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=34982c1c650e8b504180d99b1fe6c8cf}{Provasi}{P\bibinitperiod}{Davide}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=222bc8e4368da4cd313a4794c668dfac}{Baki}{B\bibinitperiod}{Lia}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3a400eac5907d7bdd36e9cc45749ec4d}{Mahajan}{M\bibinitperiod}{Rahul}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=814479f1bf844da8a36dad4c835c1489}{Park}{P\bibinitperiod}{Gyu}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1ac3699c06d3ce6edb724d08c720099c}{Adney}{A\bibinitperiod}{Scott\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8b2f75dc61cda5f8e9ff73e1ec9cc5f5}{Hatcher}{H\bibinitperiod}{Candice}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f13a7f0cc22bee2298a6c51527f38bfd}{Eltit}{E\bibinitperiod}{Jos{é}\bibnamedelima M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=88631aa9de641a20ea7820cd6f002232}{Ruta}{R\bibinitperiod}{Jeffrey\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d0c53dc31e957130274b15205768df98}{Albizu}{A\bibinitperiod}{Laura}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=80c88b1c7cc92f9bcb33605a25e00dab}{Li}{L\bibinitperiod}{Zheng}{Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=43668724c855ccee3bf70e8169756499}{Umali}{U\bibinitperiod}{Adrienne}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6b7275af22b1a6379172191bfeaeebe0}{Shim}{S\bibinitperiod}{Jihyun}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=da4cc897808b434d7e8154b053008dfe}{Fabiato}{F\bibinitperiod}{Alexandre}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2c566668065920587f28e9543e220b38}{MacKerell}{M\bibinitperiod}{Alexander\bibnamedelima D.}{A\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f3661157a2936f0f103e1d729bca6721}{Brezina}{B\bibinitperiod}{Vladimir}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e1effe9cb7f07efd170d06a1a965c22f}{Sealfon}{S\bibinitperiod}{Stuart\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=caa7ad34df0c6628c95c1dbbf147fe90}{Filizola}{F\bibinitperiod}{Marta}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ec54ad048e6b6f51cc2c9cb075818a2e}{Gonz{á}lez-Maeso}{G\bibinithyphendelim M\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c5f78cdc5eed20f47b1e49861fd5c724}{Logothetis}{L\bibinitperiod}{Diomedes\bibnamedelima E.}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{04494e7e4823f86f500141d4ee8a1efb}
+      \strng{fullhash}{679258c2739f36f0cf6eab3e9b943dae}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labelyear}{2011}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Decoding the Signaling of a GPCR Heteromeric Complex Reveals a Unifying Mechanism of Action of Antipsychotic Drugs}}
+      \field{issn}{00928674}
+      \field{journaltitle}{Cell}
+      \field{month}{11}
+      \field{number}{5}
+      \field{title}{{Decoding the Signaling of a GPCR Heteromeric Complex Reveals a Unifying Mechanism of Action of Antipsychotic Drugs}}
+      \field{volume}{147}
+      \field{year}{2011}
+      \field{pages}{1011\bibrangedash 1023}
+      \verb{doi}
+      \verb 10.1016/j.cell.2011.09.055
+      \endverb
+      \verb{file}
+      \verb :Users/ska/Documents/thesis/literature/2011/Fribourg et al/Fribourg et al. - 2011 - Decoding the Signaling of a GPCR Heteromeric Complex Reveals a Unifying Mechanism of Action of Antipsychotic(2).pdf:pdf;:Users/ska/Documents/thesis/literature/2011/Fribourg et al/Fribourg et al. - 2011 - Decoding the Signaling of a GPCR Heteromeric Complex Reveals a Unifying Mechanism of Action of Antipsychotic(3).pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S0092867411012724
+      \endverb
+    \endentry
     \entry{Fung2009}{article}{}
       \name{labelname}{8}{}{%
-        {{uniquename=0,hash=5bbaa42230227154283f3b391840ff72}{Fung}{F\bibinitperiod}{Juan\bibnamedelima José}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d09bdcff5079c37920614cdb726cb1a4}{Fung}{F\bibinitperiod}{Juan\bibnamedelima Jos{é}}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=a128c61e0bfd8a3756411d1233dcd583}{Deupi}{D\bibinitperiod}{Xavier}{X\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=def1cdb974af3ecdde6ccd24e44e5ca5}{Pardo}{P\bibinitperiod}{Leonardo}{L\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=63c57315703db012bfd2be6f7938e4be}{Yao}{Y\bibinitperiod}{Xiao\bibnamedelima Jie}{X\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
@@ -854,7 +1040,7 @@
         {{uniquename=0,hash=decc5062cdeca8b403aad00dc8d4ce14}{Kobilka}{K\bibinitperiod}{Brian\bibnamedelima K}{B\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{8}{}{%
-        {{uniquename=0,hash=5bbaa42230227154283f3b391840ff72}{Fung}{F\bibinitperiod}{Juan\bibnamedelima José}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d09bdcff5079c37920614cdb726cb1a4}{Fung}{F\bibinitperiod}{Juan\bibnamedelima Jos{é}}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=a128c61e0bfd8a3756411d1233dcd583}{Deupi}{D\bibinitperiod}{Xavier}{X\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=def1cdb974af3ecdde6ccd24e44e5ca5}{Pardo}{P\bibinitperiod}{Leonardo}{L\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=63c57315703db012bfd2be6f7938e4be}{Yao}{Y\bibinitperiod}{Xiao\bibnamedelima Jie}{X\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
@@ -863,8 +1049,8 @@
         {{uniquename=0,hash=f7e147d808035020d8efae131779b1ce}{Sunahara}{S\bibinitperiod}{Roger\bibnamedelima K}{R\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=decc5062cdeca8b403aad00dc8d4ce14}{Kobilka}{K\bibinitperiod}{Brian\bibnamedelima K}{B\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{86b95852f85336da0fb5bffa1b47bdd9}
-      \strng{fullhash}{5dab433528c1221e0f6b2221dcac695c}
+      \strng{namehash}{61930d3df148b06e047b8cb6b52807f1}
+      \strng{fullhash}{0c55618eaa7076c5e33f20f75f0ce121}
       \field{sortinit}{F}
       \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
       \field{labelyear}{2009}
@@ -887,7 +1073,7 @@
       \verb :Users/ska/Documents/thesis/literature/2009/Fung et al/Fung et al. - 2009 - Ligand-regulated oligomerization of beta(2)-adrenoceptors in a model lipid bilayer.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2748299%5C&tool=pmcentrez%5C&rendertype=abstract
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2748299%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
       \keyw{Cysteine,Cysteine: genetics,Fluorescence Resonance Energy Transfer,GTP-Binding Proteins,GTP-Binding Proteins: metabolism,Humans,Ligands,Lipid Bilayers,Lipid Bilayers: metabolism,Liposomes,Liposomes: metabolism,Models,Molecular,Point Mutation,Protein Binding,Protein Multimerization,Receptors,Adrenergic,beta-2,Receptors,Adrenergic,beta-2: analysis,Receptors,Adrenergic,beta-2: genetics,Receptors,Adrenergic,beta-2: metabolism}
     \endentry
@@ -909,7 +1095,7 @@
         {{uniquename=0,hash=b06cb33c196c7e78c5f5831e435dbaed}{Lluis}{L\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=a3ced928768305b68c0ed171a7adc975}{Ciruela}{C\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=db704d82e661984cef0d9b49bdd55bc4}{Franco}{F\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=b97e415907092f9b5b04ee1b0e6e6949}{Ferré}{F\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3f744a63ca07411116ce3244dbbb696a}{Ferr{é}}{F\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{17}{uniquelist=2}{%
         {{uniquename=0,hash=c4b48e7715b5e6a77fb44f8c0dabaf97}{Fuxe}{F\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
@@ -928,10 +1114,10 @@
         {{uniquename=0,hash=b06cb33c196c7e78c5f5831e435dbaed}{Lluis}{L\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=a3ced928768305b68c0ed171a7adc975}{Ciruela}{C\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=db704d82e661984cef0d9b49bdd55bc4}{Franco}{F\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=b97e415907092f9b5b04ee1b0e6e6949}{Ferré}{F\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3f744a63ca07411116ce3244dbbb696a}{Ferr{é}}{F\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{bdc7547cee519e8c71a89f46066828d7}
-      \strng{fullhash}{18f025343e2e75181445fddebb380bf7}
+      \strng{fullhash}{d45f661dbe90c61ead055088e652d5a1}
       \field{sortinit}{F}
       \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
       \field{labelyear}{2003}
@@ -955,7 +1141,7 @@
     \entry{Fuxe2005}{article}{}
       \name{labelname}{13}{uniquelist=2}{%
         {{uniquename=0,hash=6043dcc976ab16e0954f1c2f851bccde}{Fuxe}{F\bibinitperiod}{Kjell}{K\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=67b931796e648e2ffe2f30c9e6fec974}{Ferré}{F\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4cf7b2a170b143f30a95815bd1120011}{Ferr{é}}{F\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=1d5d31e7190d53a48db76e82381f1954}{Canals}{C\bibinitperiod}{Meritxell}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=e500d37ea5d8b0f6a6962f97dac6e428}{Torvinen}{T\bibinitperiod}{Maria}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=e83d933519ddc80a8e87ba74882ebde1}{Terasmaa}{T\bibinitperiod}{Anton}{A\bibinitperiod}{}{}{}{}}%
@@ -970,7 +1156,7 @@
       }
       \name{author}{13}{uniquelist=2}{%
         {{uniquename=0,hash=6043dcc976ab16e0954f1c2f851bccde}{Fuxe}{F\bibinitperiod}{Kjell}{K\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=67b931796e648e2ffe2f30c9e6fec974}{Ferré}{F\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4cf7b2a170b143f30a95815bd1120011}{Ferr{é}}{F\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=1d5d31e7190d53a48db76e82381f1954}{Canals}{C\bibinitperiod}{Meritxell}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=e500d37ea5d8b0f6a6962f97dac6e428}{Torvinen}{T\bibinitperiod}{Maria}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=e83d933519ddc80a8e87ba74882ebde1}{Terasmaa}{T\bibinitperiod}{Anton}{A\bibinitperiod}{}{}{}{}}%
@@ -983,8 +1169,8 @@
         {{uniquename=0,hash=014bfe300b84cb2a84fc336ea005aeed}{Agnati}{A\bibinitperiod}{Luigi\bibnamedelima F}{L\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=f319c58242417e6551e0dc6058fdd4f3}{Franco}{F\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{f0aa14982e90cbfa6a0774895f773239}
-      \strng{fullhash}{0a855901d0877671a8317c69e16a621d}
+      \strng{namehash}{70163fd997b01c5afc4feb7245847fe5}
+      \strng{fullhash}{e4480166494fcf09c69349105bb2d582}
       \field{sortinit}{F}
       \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
       \field{labelyear}{2005}
@@ -1046,7 +1232,7 @@
         {{uniquename=0,hash=3996ebdbf561cabd95e300be227c239f}{Gautier}{G\bibinitperiod}{Arnaud}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=e9c47c4b727032b6b7b3d499445f42b0}{Juillerat}{J\bibinitperiod}{Alexandre}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=17d8535e58377e118cc26c2956c98c61}{Heinis}{H\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=c3503982517bb6b4e05fc091e7c1175c}{Corrêa}{C\bibinitperiod}{Ivan\bibnamedelima Reis}{I\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1c20bbbca7c8322841e1316513f5c381}{Corr{ê}a}{C\bibinitperiod}{Ivan\bibnamedelima Reis}{I\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=8e84a89ef1d4087b5452d257cde3e4f4}{Kindermann}{K\bibinitperiod}{Maik}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b8aa38c28225adaee89d3da1110c5099}{Beaufils}{B\bibinitperiod}{Florent}{F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=4baba1a7076efa3570b3ef15b073806e}{Johnsson}{J\bibinitperiod}{Kai}{K\bibinitperiod}{}{}{}{}}%
@@ -1055,13 +1241,13 @@
         {{uniquename=0,hash=3996ebdbf561cabd95e300be227c239f}{Gautier}{G\bibinitperiod}{Arnaud}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=e9c47c4b727032b6b7b3d499445f42b0}{Juillerat}{J\bibinitperiod}{Alexandre}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=17d8535e58377e118cc26c2956c98c61}{Heinis}{H\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=c3503982517bb6b4e05fc091e7c1175c}{Corrêa}{C\bibinitperiod}{Ivan\bibnamedelima Reis}{I\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1c20bbbca7c8322841e1316513f5c381}{Corr{ê}a}{C\bibinitperiod}{Ivan\bibnamedelima Reis}{I\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=8e84a89ef1d4087b5452d257cde3e4f4}{Kindermann}{K\bibinitperiod}{Maik}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b8aa38c28225adaee89d3da1110c5099}{Beaufils}{B\bibinitperiod}{Florent}{F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=4baba1a7076efa3570b3ef15b073806e}{Johnsson}{J\bibinitperiod}{Kai}{K\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{8b8655b452b702b866d61e2c187dc946}
-      \strng{fullhash}{f283518bde4992a98dfc071d5b5352a7}
+      \strng{fullhash}{1250fa3f6ea196f9ac9fe9b374d2df3c}
       \field{sortinit}{G}
       \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
       \field{labelyear}{2008}
@@ -1086,7 +1272,7 @@
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pubmed/18291317
       \endverb
-      \keyw{Animals,Binding Sites,CHO Cells,Cell Survival,Cricetinae,Cricetulus,Cytosine,Cytosine: analogs \& derivatives,Cytosine: metabolism,Fluorescent Dyes,Fluorescent Dyes: chemical synthesis,Fluorescent Dyes: chemistry,Fluorescent Dyes: metabolism,Models,Molecular,Mutation,O(6)-Methylguanine-DNA Methyltransferase,O(6)-Methylguanine-DNA Methyltransferase: genetics,O(6)-Methylguanine-DNA Methyltransferase: metaboli,Protein Conformation,Proteins,Proteins: metabolism,Staining and Labeling,Staining and Labeling: methods,Substrate Specificity}
+      \keyw{Animals,Binding Sites,CHO Cells,Cell Survival,Cricetinae,Cricetulus,Cytosine,Cytosine: analogs {\&} derivatives,Cytosine: metabolism,Fluorescent Dyes,Fluorescent Dyes: chemical synthesis,Fluorescent Dyes: chemistry,Fluorescent Dyes: metabolism,Models,Molecular,Mutation,O(6)-Methylguanine-DNA Methyltransferase,O(6)-Methylguanine-DNA Methyltransferase: genetics,O(6)-Methylguanine-DNA Methyltransferase: metaboli,Protein Conformation,Proteins,Proteins: metabolism,Staining and Labeling,Staining and Labeling: methods,Substrate Specificity}
     \endentry
     \entry{George2002}{article}{}
       \name{labelname}{3}{}{%
@@ -1167,6 +1353,41 @@
       \verb :Users/ska/Documents/thesis/literature/2004/Gomes et al/Gomes et al. - 2004 - A role for heterodimerization of mu and delta opiate receptors in enhancing morphine analgesia.pdf:pdf
       \endverb
     \endentry
+    \entry{Green1994}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=95c97e8d887a3e8247c54b4df2977f1c}{Green}{G\bibinitperiod}{S\bibnamedelima A}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=58df66f16ccdc3f04fcc0233834561a0}{Turki}{T\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bed6ae5d5b879109e52ecfca99fa9b7a}{Innis}{I\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=335cdc65554fce0d30d68c34c3e6f775}{Liggett}{L\bibinitperiod}{S\bibnamedelima B}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=95c97e8d887a3e8247c54b4df2977f1c}{Green}{G\bibinitperiod}{S\bibnamedelima A}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=58df66f16ccdc3f04fcc0233834561a0}{Turki}{T\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bed6ae5d5b879109e52ecfca99fa9b7a}{Innis}{I\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=335cdc65554fce0d30d68c34c3e6f775}{Liggett}{L\bibinitperiod}{S\bibnamedelima B}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8e2ffd156a70dbcafaa4e9ffe9964692}
+      \strng{fullhash}{b9adc8e471f4f0cd38a5d131d6fb0d34}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labelyear}{1994}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Amino-terminal polymorphisms of the human beta 2-adrenergic receptor impart distinct agonist-promoted regulatory properties.}}
+      \field{abstract}{We have recently delineated three naturally occurring polymorphisms of the human beta 2-adrenergic receptor caused by missense mutations encoding for amino acids 16 and 27 of the extracellular N-terminus of the receptor. We have studied the functional consequences of these polymorphisms by site-directed mutagenesis and the recombinant expression of these receptors in Chinese hamster fibroblasts. The polymorphisms consist of substitutions of Gly for Arg at amino acid 16 (Arg16-->Gly), Glu for Gln at amino acid 27 (Gln27-->Glu), and a combination of both substitutions. All three mutated receptors displayed normal agonist binding and functional coupling to Gs, resulting in the stimulation of adenylyl cyclase activity. However, these mutations markedly altered the degree of agonist-promoted downregulation of receptor expression. After 24-h exposure to 10 microM isoproterenol, wild-type beta 2AR underwent a 26 +/- 3{\%} reduction in receptor density. In contrast, Arg16-->Gly underwent a 41 +/- 3{\%} reduction. Gln27-->Glu, on the other hand, was found to be completely resistant to downregulation. Arg16-->Gly+Gln27-->Glu also underwent an increased downregulation compared to wild-type beta 2AR (39 +/- 4{\%}). The rates of new receptor synthesis after irreversible alkylation were not different between these receptors, nor were the rates of agonist-promoted receptor internalization to the intracellular pool. Gln27-->Glu cellular mRNA minimally increased during agonist exposure, and wild-type beta 2AR and the other mutated receptor mRNAs did not change, which infer that the aberrant downregulation patterns of these polymorphisms may be due to the altered degradation of receptor protein.(ABSTRACT TRUNCATED AT 250 WORDS)}
+      \field{issn}{0006-2960}
+      \field{journaltitle}{Biochemistry}
+      \field{month}{08}
+      \field{number}{32}
+      \field{title}{{Amino-terminal polymorphisms of the human beta 2-adrenergic receptor impart distinct agonist-promoted regulatory properties.}}
+      \field{volume}{33}
+      \field{year}{1994}
+      \field{pages}{9414\bibrangedash 9}
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/7915137
+      \endverb
+      \keyw{Adenylate Cyclase,Adenylate Cyclase: analysis,Adrenergic beta-Agonists,Adrenergic beta-Agonists: metabolism,Amino Acid Sequence,Animals,CHO Cells,Cell Compartmentation,Cricetinae,Down-Regulation,Humans,Molecular Sequence Data,Mutagenesis,Site-Directed,Polymorphism,Genetic,Protein Conformation,Radioligand Assay,Receptors,Adrenergic,beta-2,Receptors,Adrenergic,beta-2: genetics,Receptors,Adrenergic,beta-2: metabolism,Recombinant Proteins,Recombinant Proteins: metabolism,Signal Transduction,Structure-Activity Relationship}
+    \endentry
     \entry{Gronemeyer2006}{article}{}
       \name{labelname}{5}{}{%
         {{uniquename=0,hash=ea849cec379edeec252ccf8c15e38a11}{Gronemeyer}{G\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
@@ -1205,6 +1426,60 @@
       \verb :Users/ska/Documents/thesis/literature/2006/Gronemeyer et al/Gronemeyer et al. - 2006 - Directed evolution of O6-alkylguanine-DNA alkyltransferase for applications in protein labeling.pdf:pdf
       \endverb
       \keyw{Directed evolution,O6-alkylguanine-DNA alkyltransferases,Phage display,Protein labeling}
+    \endentry
+    \entry{Hawkins2006}{article}{}
+      \name{labelname}{10}{}{%
+        {{uniquename=0,hash=35fdf44d02f837b742eb59bb70fe992f}{Hawkins}{H\bibinitperiod}{Gregory\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d634c93d35fcd626d9d470ae6ff8f4e1}{Tantisira}{T\bibinitperiod}{Kelan}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=653247ad4af0a5b9f29af56c7cf7533a}{Meyers}{M\bibinitperiod}{Deborah\bibnamedelima A.}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=749b23654f66976640c67f4372ec9756}{Ampleford}{A\bibinitperiod}{Elizabeth\bibnamedelima J.}{E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=08a75ca66343e52da2a89cf20f942477}{Moore}{M\bibinitperiod}{Wendy\bibnamedelima C.}{W\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c258005fd96a6cce918a4fb7e2641980}{Klanderman}{K\bibinitperiod}{Barbara}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a890fd6581a1638f957649d76c3828ad}{Liggett}{L\bibinitperiod}{Stephen\bibnamedelima B.}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8dcfdca3dc2134e15bab37c648418ad5}{Peters}{P\bibinitperiod}{Stephen\bibnamedelima P.}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=86cf1afaba24a052fbfcbe6185fd3585}{Weiss}{W\bibinitperiod}{Scott\bibnamedelima T.}{S\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=572e0cd8fd641050201f116ef47c6c1a}{Bleecker}{B\bibinitperiod}{Eugene\bibnamedelima R.}{E\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{10}{}{%
+        {{uniquename=0,hash=35fdf44d02f837b742eb59bb70fe992f}{Hawkins}{H\bibinitperiod}{Gregory\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d634c93d35fcd626d9d470ae6ff8f4e1}{Tantisira}{T\bibinitperiod}{Kelan}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=653247ad4af0a5b9f29af56c7cf7533a}{Meyers}{M\bibinitperiod}{Deborah\bibnamedelima A.}{D\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=749b23654f66976640c67f4372ec9756}{Ampleford}{A\bibinitperiod}{Elizabeth\bibnamedelima J.}{E\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=08a75ca66343e52da2a89cf20f942477}{Moore}{M\bibinitperiod}{Wendy\bibnamedelima C.}{W\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c258005fd96a6cce918a4fb7e2641980}{Klanderman}{K\bibinitperiod}{Barbara}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a890fd6581a1638f957649d76c3828ad}{Liggett}{L\bibinitperiod}{Stephen\bibnamedelima B.}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8dcfdca3dc2134e15bab37c648418ad5}{Peters}{P\bibinitperiod}{Stephen\bibnamedelima P.}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=86cf1afaba24a052fbfcbe6185fd3585}{Weiss}{W\bibinitperiod}{Scott\bibnamedelima T.}{S\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=572e0cd8fd641050201f116ef47c6c1a}{Bleecker}{B\bibinitperiod}{Eugene\bibnamedelima R.}{E\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7891ca0f52748862d75cf69c524e59a3}
+      \strng{fullhash}{a84b3ebaa2641476d762389e1dfc5fa3}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labelyear}{2006}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Sequence, haplotype, and association analysis of ADRbeta2 in a multiethnic asthma case-control study.}}
+      \field{abstract}{RATIONALE The comprehensive evaluation of gene variation, haplotype structure, and linkage disequilibrium is important in understanding the function of beta2-adrenergic receptor gene (ADRbeta2) on disease susceptibility, pulmonary function, and therapeutic responses in different ethnic groups with asthma. OBJECTIVES To identify ADRbeta2 polymorphisms and haplotype structure in white and African American subjects and to test for genotype and haplotype association with asthma phenotypes. METHODS A 5.3-kb region of ADRbeta2 was resequenced in 669 individuals from 429 whites and 240 African Americans. A total of 12 polymorphisms, representing an optimal haplotype tagging set, were genotyped in whites (338 patients and 326 control subjects) and African Americans (222 patients and 299 control subjects). RESULTS A total of 49 polymorphisms were identified, 21 of which are novel; 31 polymorphisms (frequency > 0.03) were used to identify 24 haplotypes (frequency > 0.01) and assess linkage disequilibrium. Association with ratio (FEV1/FVC)2 for single-nucleotide polymorphism +79 (p < 0.05) was observed in African Americans. Significant haplotype association for (FEV1/FVC)2 was also observed in African Americans. CONCLUSIONS There are additional genetic variants besides +46 (Gly16Arg) that are important in determining asthma phenotypes. These data suggest that the length of a poly-C repeat (+1269) in the 3' untranslated region of ADRbeta2 may influence lung function, and may be important in delineating variation in beta-agonist responses, especially in African Americans.}
+      \field{isbn}{2005091405}
+      \field{issn}{1073-449X}
+      \field{journaltitle}{Am J Respir Crit Care Med}
+      \field{month}{11}
+      \field{number}{10}
+      \field{title}{{Sequence, haplotype, and association analysis of ADRbeta2 in a multiethnic asthma case-control study.}}
+      \field{volume}{174}
+      \field{year}{2006}
+      \field{pages}{1101\bibrangedash 9}
+      \verb{doi}
+      \verb 10.1164/rccm.200509-1405OC
+      \endverb
+      \verb{file}
+      \verb :Users/ska/Documents/thesis/literature/2006/Hawkins et al/Hawkins et al. - 2006 - Sequence, haplotype, and association analysis of ADRbeta2 in a multiethnic asthma case-control study.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/16931635%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2648111
+      \endverb
+      \keyw{Asthma,Dna polymorphisms,Pharmacogenomics,$\beta$-agonist therapy,$\beta$2-adrenergic receptor}
     \endentry
     \entry{He2011}{article}{}
       \name{labelname}{14}{}{%
@@ -1262,7 +1537,7 @@
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pubmed/21220103
       \endverb
-      \keyw{Analgesia,Analgesia: methods,Analgesics,Opioid,Analgesics,Opioid: administration \& dosage,Analgesics,Opioid: pharmacology,Animals,Disease Models,Animal,Endocytosis,HEK293 Cells,Humans,Immunoblotting,In Situ Hybridization,Lysosomes,Lysosomes: metabolism,Male,Mice,Mice,Inbred Strains,Microscopy,Electron,Morphine,Morphine: administration \& dosage,Morphine: pharmacology,Pain,Pain Measurement,Pain Measurement: methods,Pain: drug therapy,Peptides,Peptides: pharmacology,Plasmids,Receptors,Opioid,delta,Receptors,Opioid,delta: metabolism,Receptors,Opioid,mu,Receptors,Opioid,mu: metabolism,Signal Transduction,Signal Transduction: drug effects,Spinal Cord,Spinal Cord: drug effects,Spinal Cord: metabolism,Transfection,Ubiquitination}
+      \keyw{Analgesia,Analgesia: methods,Analgesics,Opioid,Analgesics,Opioid: administration {\&} dosage,Analgesics,Opioid: pharmacology,Animals,Disease Models,Animal,Endocytosis,HEK293 Cells,Humans,Immunoblotting,In Situ Hybridization,Lysosomes,Lysosomes: metabolism,Male,Mice,Mice,Inbred Strains,Microscopy,Electron,Morphine,Morphine: administration {\&} dosage,Morphine: pharmacology,Pain,Pain Measurement,Pain Measurement: methods,Pain: drug therapy,Peptides,Peptides: pharmacology,Plasmids,Receptors,Opioid,delta,Receptors,Opioid,delta: metabolism,Receptors,Opioid,mu,Receptors,Opioid,mu: metabolism,Signal Transduction,Signal Transduction: drug effects,Spinal Cord,Spinal Cord: drug effects,Spinal Cord: metabolism,Transfection,Ubiquitination}
     \endentry
     \entry{Hebert1996}{article}{}
       \name{labelname}{7}{}{%
@@ -1306,7 +1581,35 @@
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pubmed/8663163
       \endverb
-      \keyw{Adenylate Cyclase,Adenylate Cyclase: metabolism,Amino Acid Sequence,Animals,Baculoviridae,Cell Line,Cercopithecus aethiops,Chromatography,Affinity,Cricetinae,Cricetulus,Humans,Isoproterenol,Isoproterenol: pharmacology,Macromolecular Substances,Molecular Sequence Data,Peptide Fragments,Peptide Fragments: pharmacology,Proto-Oncogene Proteins c-myc,Proto-Oncogene Proteins c-myc: biosynthesis,Receptor,Muscarinic M2,Receptors,Adrenergic,beta-2,Receptors,Adrenergic,beta-2: chemistry,Receptors,Adrenergic,beta-2: isolation \& purific,Receptors,Adrenergic,beta-2: physiology,Receptors,Dopamine D2,Receptors,Dopamine D2: chemistry,Receptors,Dopamine D2: physiology,Receptors,Muscarinic,Receptors,Muscarinic: biosynthesis,Receptors,Vasopressin,Receptors,Vasopressin: biosynthesis,Receptors,Vasopressin: chemistry,Recombinant Fusion Proteins,Recombinant Fusion Proteins: biosynthesis,Recombinant Proteins,Recombinant Proteins: biosynthesis,Recombinant Proteins: chemistry,Recombinant Proteins: isolation \& purification,Sequence Tagged Sites,Spodoptera,Transfection}
+      \keyw{Adenylate Cyclase,Adenylate Cyclase: metabolism,Amino Acid Sequence,Animals,Baculoviridae,Cell Line,Cercopithecus aethiops,Chromatography,Affinity,Cricetinae,Cricetulus,Humans,Isoproterenol,Isoproterenol: pharmacology,Macromolecular Substances,Molecular Sequence Data,Peptide Fragments,Peptide Fragments: pharmacology,Proto-Oncogene Proteins c-myc,Proto-Oncogene Proteins c-myc: biosynthesis,Receptor,Muscarinic M2,Receptors,Adrenergic,beta-2,Receptors,Adrenergic,beta-2: chemistry,Receptors,Adrenergic,beta-2: isolation {\&} purific,Receptors,Adrenergic,beta-2: physiology,Receptors,Dopamine D2,Receptors,Dopamine D2: chemistry,Receptors,Dopamine D2: physiology,Receptors,Muscarinic,Receptors,Muscarinic: biosynthesis,Receptors,Vasopressin,Receptors,Vasopressin: biosynthesis,Receptors,Vasopressin: chemistry,Recombinant Fusion Proteins,Recombinant Fusion Proteins: biosynthesis,Recombinant Proteins,Recombinant Proteins: biosynthesis,Recombinant Proteins: chemistry,Recombinant Proteins: isolation {\&} purification,Sequence Tagged Sites,Spodoptera,Transfection}
+    \endentry
+    \entry{Heldin1995}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=0b6e98e1e5ec320a9d04783df7c3ccbd}{Heldin}{H\bibinitperiod}{C\bibnamedelima H}{C\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0b6e98e1e5ec320a9d04783df7c3ccbd}{Heldin}{H\bibinitperiod}{C\bibnamedelima H}{C\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0b6e98e1e5ec320a9d04783df7c3ccbd}
+      \strng{fullhash}{0b6e98e1e5ec320a9d04783df7c3ccbd}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labelyear}{1995}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Dimerization of cell surface receptors in signal transduction.}}
+      \field{issn}{0092-8674}
+      \field{journaltitle}{Cell}
+      \field{month}{01}
+      \field{number}{2}
+      \field{title}{{Dimerization of cell surface receptors in signal transduction.}}
+      \field{volume}{80}
+      \field{year}{1995}
+      \field{pages}{213\bibrangedash 23}
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/7834741
+      \endverb
+      \keyw{Animals,Humans,Macromolecular Substances,Phosphorylation,Protein-Serine-Threonine Kinases,Protein-Serine-Threonine Kinases: metabolism,Protein-Tyrosine Kinases,Protein-Tyrosine Kinases: metabolism,Receptor Protein-Tyrosine Kinases,Receptor Protein-Tyrosine Kinases: metabolism,Receptors,Antigen,Receptors,Antigen: metabolism,Receptors,Cell Surface,Receptors,Cell Surface: chemistry,Receptors,Cell Surface: metabolism,Receptors,Cytokine,Receptors,Cytokine: metabolism,Receptors,Tumor Necrosis Factor,Receptors,Tumor Necrosis Factor: metabolism,Signal Transduction}
     \endentry
     \entry{Herrick-Davis2013}{article}{}
       \name{labelname}{4}{}{%
@@ -1330,6 +1633,7 @@
       \field{datelabelsource}{}
       \field{labeltitle}{{Fluorescence Correlation Spectroscopy Analysis of Serotonin, Adrenergic, Muscarinic, and Dopamine Receptor Dimerization: The Oligomer Number Puzzle}}
       \field{abstract}{The issue of G protein-coupled receptor (GPCR) oligomer status has not been resolved. Although many studies have provided evidence in favor of receptor-receptor interactions, there is no consensus as to the exact oligomer size of class A GPCRs. Previous studies have reported monomers, dimers, tetramers, and higher-order oligomers. In the present study, this issue was examined using fluorescence correlation spectroscopy (FCS) with photon counting histogram (PCH) analysis, a sensitive method for monitoring diffusion and oligomer size of plasma membrane proteins. Six different class A GPCRs were selected from the serotonin (5-HT2A), adrenergic ($\alpha$1b-AR and $\beta$2-AR), muscarinic (M1 and M2), and dopamine (D1) receptor families. Each GPCR was C-terminally labeled with green fluorescent protein (GFP) or yellow fluorescent protein (YFP) and expressed in human embryonic kidney 293 cells. FCS provided plasma membrane diffusion coefficients on the order of 7.5 × 10(-9) cm(2)/s. PCH molecular brightness analysis was used to determine the GPCR oligomer size. Known monomeric (CD-86) and dimeric (CD-28) receptors with GFP and YFP tags were used as controls to determine the molecular brightness of monomers and dimers. PCH analysis of fluorescence-tagged GPCRs revealed molecular brightness values that were twice the monomeric controls and similar to the dimeric controls. Reduced $\chi$(2) analyses of the PCH data best fit a model for a homogeneous population of homodimers, without tetramers or higher-order oligomers. The homodimer configuration was unaltered by agonist treatment and was stable over a 10-fold range of receptor expression level. The results of this study demonstrate that biogenic amine receptors freely diffusing within the plasma membrane are predominantly homodimers.}
+      \field{annotation}{incorporate!}
       \field{issn}{1521-0111}
       \field{journaltitle}{Mol Pharmacol}
       \field{month}{10}
@@ -1342,7 +1646,7 @@
       \verb 10.1124/mol.113.087072
       \endverb
       \verb{file}
-      \verb :Users/ska/Documents/thesis/literature/2013/Herrick-Davis et al/Herrick-Davis et al. - 2013 - Fluorescence correlation spectroscopy analysis of serotonin, adrenergic, muscarinic, and dopamine receptor.pdf:pdf
+      \verb :Users/ska/Documents/thesis/literature/2013/Herrick-Davis et al/Herrick-Davis et al. - 2013 - Fluorescence Correlation Spectroscopy Analysis of Serotonin, Adrenergic, Muscarinic, and Dopamine Receptor.pdf:pdf
       \endverb
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pubmed/23907214%20http://molpharm.aspetjournals.org/cgi/doi/10.1124/mol.113.087072
@@ -1352,16 +1656,16 @@
     \entry{Hiller2013}{article}{}
       \name{labelname}{3}{}{%
         {{uniquename=0,hash=04d52487dc485e01373cb28c16778883}{Hiller}{H\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=fbf9a0ea2bb5b90765b00ae48573f4c7}{Kühhorn}{K\bibinitperiod}{Julia}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5fc546ff37722133742d9ea1a4b42827}{K{ü}hhorn}{K\bibinitperiod}{Julia}{J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=82ff0839aea9373651903358e94c549d}{Gmeiner}{G\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
         {{uniquename=0,hash=04d52487dc485e01373cb28c16778883}{Hiller}{H\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=fbf9a0ea2bb5b90765b00ae48573f4c7}{Kühhorn}{K\bibinitperiod}{Julia}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5fc546ff37722133742d9ea1a4b42827}{K{ü}hhorn}{K\bibinitperiod}{Julia}{J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=82ff0839aea9373651903358e94c549d}{Gmeiner}{G\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{df01714e71b354735a633ad17feb5550}
-      \strng{fullhash}{78cf696fc091685cecdedb6818e7e4c4}
+      \strng{fullhash}{c566ea09d92478043c5017476be19923}
       \field{sortinit}{H}
       \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
       \field{labelyear}{2013}
@@ -1380,15 +1684,15 @@
       \verb 10.1021/jm4004335
       \endverb
       \verb{file}
-      \verb :Users/ska/Documents/thesis/literature/2013/Hiller, Kühhorn, Gmeiner/Hiller, Kühhorn, Gmeiner - 2013 - Class A G-protein-coupled receptor (GPCR) dimers and bivalent ligands.pdf:pdf
+      \verb :Users/ska/Documents/thesis/literature/2013/Hiller, K{ü}hhorn, Gmeiner/Hiller, K{ü}hhorn, Gmeiner - 2013 - Class A G-protein-coupled receptor (GPCR) dimers and bivalent ligands.pdf:pdf
       \endverb
     \endentry
     \entry{Hillion2002}{article}{}
       \name{labelname}{18}{}{%
-        {{uniquename=0,hash=d60258ebfc08ad4cd88628230e4a13ec}{Hillion}{H\bibinitperiod}{Joëlle}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=81bf224fd8770d8f7e2c71ceec3e70dc}{Hillion}{H\bibinitperiod}{Jo{ë}lle}{J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=1d5d31e7190d53a48db76e82381f1954}{Canals}{C\bibinitperiod}{Meritxell}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=e500d37ea5d8b0f6a6962f97dac6e428}{Torvinen}{T\bibinitperiod}{Maria}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9963699fc7a7cd9ef7fbe90fd2b5f2fd}{Casadó}{C\bibinitperiod}{Vicent}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8c52ca5c3745e829bb3b3648bd297648}{Casad{ó}}{C\bibinitperiod}{Vicent}{V\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=ac997537ee13db13c18ed99d99145e83}{Scott}{S\bibinitperiod}{Rizaldy}{R\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=e83d933519ddc80a8e87ba74882ebde1}{Terasmaa}{T\bibinitperiod}{Anton}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=41b75ea2c31d4274c41bc37473d57784}{Hansson}{H\bibinitperiod}{Anita}{A\bibinitperiod}{}{}{}{}}%
@@ -1398,17 +1702,17 @@
         {{uniquename=0,hash=1e1eb96b815231fc369f0805a8715fda}{Canela}{C\bibinitperiod}{Enric\bibnamedelima I.}{E\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=dbdb49c5b24ba27b9570be22404a4409}{Zoli}{Z\bibinitperiod}{Michele}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=cd3a86e3210921be5b05fd90ab593906}{Agnati}{A\bibinitperiod}{Luigi\bibnamedelima F.}{L\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4b43169f21a78cd024c2b8a4d5403f53}{Ibáñez}{I\bibinitperiod}{Carlos\bibnamedelima F.}{C\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=06f0d71069ac00bb54b0cb69848d738c}{Ib{á}{ñ}ez}{I\bibinitperiod}{Carlos\bibnamedelima F.}{C\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=ad2b9ec304a8b6e1c80f0b87b6f7e702}{Lluis}{L\bibinitperiod}{Carme}{C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=f319c58242417e6551e0dc6058fdd4f3}{Franco}{F\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=67b931796e648e2ffe2f30c9e6fec974}{Ferré}{F\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4cf7b2a170b143f30a95815bd1120011}{Ferr{é}}{F\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=6043dcc976ab16e0954f1c2f851bccde}{Fuxe}{F\bibinitperiod}{Kjell}{K\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{18}{}{%
-        {{uniquename=0,hash=d60258ebfc08ad4cd88628230e4a13ec}{Hillion}{H\bibinitperiod}{Joëlle}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=81bf224fd8770d8f7e2c71ceec3e70dc}{Hillion}{H\bibinitperiod}{Jo{ë}lle}{J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=1d5d31e7190d53a48db76e82381f1954}{Canals}{C\bibinitperiod}{Meritxell}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=e500d37ea5d8b0f6a6962f97dac6e428}{Torvinen}{T\bibinitperiod}{Maria}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9963699fc7a7cd9ef7fbe90fd2b5f2fd}{Casadó}{C\bibinitperiod}{Vicent}{V\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8c52ca5c3745e829bb3b3648bd297648}{Casad{ó}}{C\bibinitperiod}{Vicent}{V\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=ac997537ee13db13c18ed99d99145e83}{Scott}{S\bibinitperiod}{Rizaldy}{R\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=e83d933519ddc80a8e87ba74882ebde1}{Terasmaa}{T\bibinitperiod}{Anton}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=41b75ea2c31d4274c41bc37473d57784}{Hansson}{H\bibinitperiod}{Anita}{A\bibinitperiod}{}{}{}{}}%
@@ -1418,14 +1722,14 @@
         {{uniquename=0,hash=1e1eb96b815231fc369f0805a8715fda}{Canela}{C\bibinitperiod}{Enric\bibnamedelima I.}{E\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=dbdb49c5b24ba27b9570be22404a4409}{Zoli}{Z\bibinitperiod}{Michele}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=cd3a86e3210921be5b05fd90ab593906}{Agnati}{A\bibinitperiod}{Luigi\bibnamedelima F.}{L\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4b43169f21a78cd024c2b8a4d5403f53}{Ibáñez}{I\bibinitperiod}{Carlos\bibnamedelima F.}{C\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=06f0d71069ac00bb54b0cb69848d738c}{Ib{á}{ñ}ez}{I\bibinitperiod}{Carlos\bibnamedelima F.}{C\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=ad2b9ec304a8b6e1c80f0b87b6f7e702}{Lluis}{L\bibinitperiod}{Carme}{C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=f319c58242417e6551e0dc6058fdd4f3}{Franco}{F\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=67b931796e648e2ffe2f30c9e6fec974}{Ferré}{F\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4cf7b2a170b143f30a95815bd1120011}{Ferr{é}}{F\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=6043dcc976ab16e0954f1c2f851bccde}{Fuxe}{F\bibinitperiod}{Kjell}{K\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{7fe6f8731874f411b067c50728c702c0}
-      \strng{fullhash}{04f1f9a7ad8df8d5114fff8771c6511f}
+      \strng{namehash}{cc9e09e5ee06692c146f5c5f1406ea1a}
+      \strng{fullhash}{0277ed2e70782a316bd3b71caea81def}
       \field{sortinit}{H}
       \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
       \field{labelyear}{2002}
@@ -1485,26 +1789,26 @@
     \entry{Issafras2002}{article}{}
       \name{labelname}{8}{}{%
         {{uniquename=0,hash=a9d98db133b0e2b223648ce30fe5a106}{Issafras}{I\bibinitperiod}{Hassan}{H\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=be79da2114b81142d5fd7920533a3205}{Angers}{A\bibinitperiod}{Stéphane}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=3d69eb8f7f4d873b4cb51bc2a64903e9}{Bulenger}{B\bibinitperiod}{Sébastien}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=8894a346e70ad2885a8e1f96015da63c}{Blanpain}{B\bibinitperiod}{Cédric}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9d32033589c02cfef3725bc02c4165d5}{Angers}{A\bibinitperiod}{St{é}phane}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=974e091bdd314bb024fc2858fc6544a4}{Bulenger}{B\bibinitperiod}{S{é}bastien}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=83a84f2ccfa69bd8ffaa0170e32c3e4f}{Blanpain}{B\bibinitperiod}{C{é}dric}{C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=30e885bad4cfa3a6da5ab1d66d31a1e8}{Parmentier}{P\bibinitperiod}{Marc}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=61704d2d04c35bf4f81f610e2ca882f5}{Labbé-Jullié}{L\bibinithyphendelim J\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=820a5f4b93645e7dd2503b2cea1fdb44}{Labb{é}-Julli{é}}{L\bibinithyphendelim J\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=7ea48095889361f5fa9410c51a3acfa2}{Bouvier}{B\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=bc5ddd1bd419c9c57f7e3dd80489a3a3}{Marullo}{M\bibinitperiod}{Stefano}{S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{8}{}{%
         {{uniquename=0,hash=a9d98db133b0e2b223648ce30fe5a106}{Issafras}{I\bibinitperiod}{Hassan}{H\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=be79da2114b81142d5fd7920533a3205}{Angers}{A\bibinitperiod}{Stéphane}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=3d69eb8f7f4d873b4cb51bc2a64903e9}{Bulenger}{B\bibinitperiod}{Sébastien}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=8894a346e70ad2885a8e1f96015da63c}{Blanpain}{B\bibinitperiod}{Cédric}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9d32033589c02cfef3725bc02c4165d5}{Angers}{A\bibinitperiod}{St{é}phane}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=974e091bdd314bb024fc2858fc6544a4}{Bulenger}{B\bibinitperiod}{S{é}bastien}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=83a84f2ccfa69bd8ffaa0170e32c3e4f}{Blanpain}{B\bibinitperiod}{C{é}dric}{C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=30e885bad4cfa3a6da5ab1d66d31a1e8}{Parmentier}{P\bibinitperiod}{Marc}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=61704d2d04c35bf4f81f610e2ca882f5}{Labbé-Jullié}{L\bibinithyphendelim J\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=820a5f4b93645e7dd2503b2cea1fdb44}{Labb{é}-Julli{é}}{L\bibinithyphendelim J\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=7ea48095889361f5fa9410c51a3acfa2}{Bouvier}{B\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=bc5ddd1bd419c9c57f7e3dd80489a3a3}{Marullo}{M\bibinitperiod}{Stefano}{S\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{aced76a7d229ed112956d9076f7c92e5}
-      \strng{fullhash}{f74a886eec2fa86df79eece33efe5f4a}
+      \strng{fullhash}{8769fbb2cf91b664834b2f2df6bc39b8}
       \field{sortinit}{I}
       \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
       \field{labelyear}{2002}
@@ -1661,7 +1965,7 @@
       \verb :Users/ska/Documents/thesis/literature/2010/Khelashvili et al/Khelashvili et al. - 2010 - GPCR-OKB the G Protein Coupled Receptor Oligomer Knowledge Base.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2894509%5C&tool=pmcentrez%5C&rendertype=abstract
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2894509%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
       \keyw{Databases,Factual,Internet,Knowledge Bases,Receptors,G-Protein-Coupled,Receptors,G-Protein-Coupled: chemistry,Software}
     \endentry
@@ -1756,7 +2060,7 @@
       \verb :Users/ska/Documents/thesis/literature/2011/Lan, Kuravi, Lambert/Lan, Kuravi, Lambert - 2011 - Internalization dissociates $\beta$2-adrenergic receptors.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3043075%5C&tool=pmcentrez%5C&rendertype=abstract
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3043075%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
       \keyw{Adrenergic,Animals,Biological,Cells,Cultured,Endocytosis,Endocytosis: genetics,Endocytosis: physiology,Energy Transfer,Energy Transfer: genetics,Energy Transfer: physiology,Humans,Models,Protein Binding,Protein Binding: genetics,Protein Binding: physiology,Protein Multimerization,Protein Multimerization: genetics,Protein Multimerization: physiology,Protein Transport,Protein Transport: genetics,Protein Transport: physiology,Receptors,Transfection,beta-2,beta-2: genetics,beta-2: metabolism}
     \endentry
@@ -1778,7 +2082,7 @@
       \field{labelyear}{2002}
       \field{datelabelsource}{}
       \field{labeltitle}{{Ligand-dependent inhibition of oligomerization at the human thyrotropin receptor}}
-      \field{abstract}{Recently, several studies have reported oligomerization of G protein-coupled receptors, although the functional implications of this phenomenon are still unclear. Using fluorescence resonance energy transfer (FRET) and coimmunoprecipitation (COIP), we previously reported that the human thyrotropin (TSH) receptor tagged with green fluorescent protein (TSHR(GFP)) and expressed in a heterologous system was present as oligomeric complexes on the cell surface. Here, we have extended this biophysical and biochemical approach to study the regulation of such oligomeric complexes. Co-expression of TSHR(GFP) and TSHR(Myc) constructs in Chinese hamster ovary cells resulted in FRET-positive cells. The specificity of the FRET signal was verified by the absence of energy transfer in individually transfected TSHR(GFP) and TSHR(Myc):Cy3 cells cultured together and also by acceptor photobleaching. Occupation of the receptor molecule by the ligand (TSH) resulted in a dose-dependent decrease in the FRET index from 20\% in the absence of TSH to <1\% with 10(3) microunits/ml of TSH. Such reduction in oligomeric forms was also confirmed by coimmunoprecipitation. Exposure of TSHR(GFP/Myc) cells to forskolin or cytochalasin D caused no change in the FRET index, confirming that the decrease in the oligomeric complexes was a receptor-dependent phenomenon and free of energy or microtuble requirements. The TSH-induced decrease in TSHR oligomers was found to be secondary to dissociation of the TSHR complexes as evidenced by an increase in fluorescent intensity of photobleached spots of GFP fluorescence with 10(3) microunits/ml of TSH. These data indicated that the less active conformation of the TSHR was comprised of receptor complexes and that such complexes were dissociated on the binding of ligand. Such observations support the concept of a constitutively active TSHR dimer or monomer that is naturally inhibited by the formation of higher order complexes. Inhibition of these oligomeric forms by ligand binding returns the TSHR to an activated state.}
+      \field{abstract}{Recently, several studies have reported oligomerization of G protein-coupled receptors, although the functional implications of this phenomenon are still unclear. Using fluorescence resonance energy transfer (FRET) and coimmunoprecipitation (COIP), we previously reported that the human thyrotropin (TSH) receptor tagged with green fluorescent protein (TSHR(GFP)) and expressed in a heterologous system was present as oligomeric complexes on the cell surface. Here, we have extended this biophysical and biochemical approach to study the regulation of such oligomeric complexes. Co-expression of TSHR(GFP) and TSHR(Myc) constructs in Chinese hamster ovary cells resulted in FRET-positive cells. The specificity of the FRET signal was verified by the absence of energy transfer in individually transfected TSHR(GFP) and TSHR(Myc):Cy3 cells cultured together and also by acceptor photobleaching. Occupation of the receptor molecule by the ligand (TSH) resulted in a dose-dependent decrease in the FRET index from 20{\%} in the absence of TSH to <1{\%} with 10(3) microunits/ml of TSH. Such reduction in oligomeric forms was also confirmed by coimmunoprecipitation. Exposure of TSHR(GFP/Myc) cells to forskolin or cytochalasin D caused no change in the FRET index, confirming that the decrease in the oligomeric complexes was a receptor-dependent phenomenon and free of energy or microtuble requirements. The TSH-induced decrease in TSHR oligomers was found to be secondary to dissociation of the TSHR complexes as evidenced by an increase in fluorescent intensity of photobleached spots of GFP fluorescence with 10(3) microunits/ml of TSH. These data indicated that the less active conformation of the TSHR was comprised of receptor complexes and that such complexes were dissociated on the binding of ligand. Such observations support the concept of a constitutively active TSHR dimer or monomer that is naturally inhibited by the formation of higher order complexes. Inhibition of these oligomeric forms by ligand binding returns the TSHR to an activated state.}
       \field{isbn}{0021-9258 (Print)$\backslash$n0021-9258 (Linking)}
       \field{issn}{00219258}
       \field{journaltitle}{J Biol Chem}
@@ -1858,7 +2162,7 @@
       \field{labelmonth}{07}
       \field{datelabelsource}{}
       \field{labeltitle}{{Absence of conditioned place preference or reinstatement with bivalent ligands containing mu-opioid receptor agonist and delta-opioid receptor antagonist pharmacophores.}}
-      \field{abstract}{Treatment of pain with opioids is limited by their potential abuse liability. In an effort to develop analgesics without this side effect, a series of bivalent ligands containing a mu-opioid receptor agonist pharmacophore connected to a delta-opioid receptor antagonist pharmacophore through variable-length spacers (16-21 atoms) was synthesized. Members of this series [mu-opioid receptor (M)-delta-opioid receptor (D)-agonist (A)-antagonists (N): MDANs] are antinociceptive in the tail flick assay, but antinociceptive tolerance and physical dependence do not develop to ligands having spacers with 19-21 atoms. The current studies compared the rewarding properties of three bivalent ligands (MDAN-16, -19 and -21) and a mu-opioid receptor agonist (MA-19) to those of morphine in the conditioned place preference assay in mice after i.v. administration. Place preference developed to morphine and to MA-19, but not to the MDANs. The responses to MDAN-16 were highly variable, although place preference of borderline significance appeared to develop. Reinstatement was also evaluated after extinguishing morphine conditioned place preference; morphine and MA-19, but not the MDANs, reinstated morphine conditioned place preference. Taken together, these results suggest that the bivalents are less rewarding compared to morphine in opioid-naïve mice and do not induce reinstatement in previously morphine-preferring mice. The lack of a conditioned place preference response for MDAN-19 and -21, compared to the equivocal results with MDAN-16, suggests a minimum distance requirement between mu-opioid receptor and delta-opioid receptor recognition sites. This requirement may reflect the binding of MDAN-19 and -21 to mu-opioid receptor-delta-opioid receptor heterodimeric receptors that block reward but not antinociception.}
+      \field{abstract}{Treatment of pain with opioids is limited by their potential abuse liability. In an effort to develop analgesics without this side effect, a series of bivalent ligands containing a mu-opioid receptor agonist pharmacophore connected to a delta-opioid receptor antagonist pharmacophore through variable-length spacers (16-21 atoms) was synthesized. Members of this series [mu-opioid receptor (M)-delta-opioid receptor (D)-agonist (A)-antagonists (N): MDANs] are antinociceptive in the tail flick assay, but antinociceptive tolerance and physical dependence do not develop to ligands having spacers with 19-21 atoms. The current studies compared the rewarding properties of three bivalent ligands (MDAN-16, -19 and -21) and a mu-opioid receptor agonist (MA-19) to those of morphine in the conditioned place preference assay in mice after i.v. administration. Place preference developed to morphine and to MA-19, but not to the MDANs. The responses to MDAN-16 were highly variable, although place preference of borderline significance appeared to develop. Reinstatement was also evaluated after extinguishing morphine conditioned place preference; morphine and MA-19, but not the MDANs, reinstated morphine conditioned place preference. Taken together, these results suggest that the bivalents are less rewarding compared to morphine in opioid-na{ï}ve mice and do not induce reinstatement in previously morphine-preferring mice. The lack of a conditioned place preference response for MDAN-19 and -21, compared to the equivocal results with MDAN-16, suggests a minimum distance requirement between mu-opioid receptor and delta-opioid receptor recognition sites. This requirement may reflect the binding of MDAN-19 and -21 to mu-opioid receptor-delta-opioid receptor heterodimeric receptors that block reward but not antinociception.}
       \field{issn}{0014-2999}
       \field{journaltitle}{Eur J Pharmacol}
       \field{month}{07}
@@ -1873,7 +2177,7 @@
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pubmed/17383633
       \endverb
-      \keyw{Analgesics,Opioid,Analgesics,Opioid: pharmacology,Animals,Behavior,Animal,Behavior,Animal: drug effects,Conditioning (Psychology),Conditioning (Psychology): physiology,Ligands,Male,Mice,Mice,Inbred ICR,Morphine,Morphine: pharmacology,Naltrexone,Naltrexone: analogs \& derivatives,Naltrexone: pharmacology,Narcotic Antagonists,Narcotic Antagonists: pharmacology,Oxymorphone,Oxymorphone: analogs \& derivatives,Oxymorphone: pharmacology,Pain,Pain: drug therapy,Pain: physiopathology,Receptors,Opioid,delta,Receptors,Opioid,delta: antagonists \& inhibitors,Receptors,Opioid,mu,Receptors,Opioid,mu: agonists}
+      \keyw{Analgesics,Opioid,Analgesics,Opioid: pharmacology,Animals,Behavior,Animal,Behavior,Animal: drug effects,Conditioning (Psychology),Conditioning (Psychology): physiology,Ligands,Male,Mice,Mice,Inbred ICR,Morphine,Morphine: pharmacology,Naltrexone,Naltrexone: analogs {\&} derivatives,Naltrexone: pharmacology,Narcotic Antagonists,Narcotic Antagonists: pharmacology,Oxymorphone,Oxymorphone: analogs {\&} derivatives,Oxymorphone: pharmacology,Pain,Pain: drug therapy,Pain: physiopathology,Receptors,Opioid,delta,Receptors,Opioid,delta: antagonists {\&} inhibitors,Receptors,Opioid,mu,Receptors,Opioid,mu: agonists}
     \endentry
     \entry{Manglik2012}{article}{}
       \name{labelname}{10}{}{%
@@ -1921,40 +2225,40 @@
       \field{year}{2012}
       \field{pages}{321\bibrangedash 326}
       \verb{url}
-      \verb http://dx.doi.org/10.1038/nature10954%20http://www.nature.com/nature/journal/v485/n7398/abs/nature10954.html%5C#supplementary-information
+      \verb http://dx.doi.org/10.1038/nature10954%20http://www.nature.com/nature/journal/v485/n7398/abs/nature10954.html%7B%5C#%7Dsupplementary-information
       \endverb
     \endentry
     \entry{Maurel2008}{article}{}
       \name{labelname}{12}{}{%
         {{uniquename=0,hash=be172cd935205c533b6f658671a141ab}{Maurel}{M\bibinitperiod}{Damien}{D\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=3db273e011787653bf7109a830584cca}{Comps-Agrar}{C\bibinithyphendelim A\bibinitperiod}{Laëtitia}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6af7927e996619691d51df4eab030f50}{Comps-Agrar}{C\bibinithyphendelim A\bibinitperiod}{La{ë}titia}{L\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=18d268e6ae75c280a47df2db95046c64}{Brock}{B\bibinitperiod}{Carsten}{C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=a66f38c88cd97a14944cb68a112f397a}{Rives}{R\bibinitperiod}{Marie-laure}{M\bibinithyphendelim l\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=6c342792fc270b296facafd4add2ee26}{Bourrier}{B\bibinitperiod}{Emmanuel}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=4c82a8dbb934deea9c1e7f835ef671e9}{Ayoub}{A\bibinitperiod}{Mohammed\bibnamedelima Akli}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9668d405b0eaeca7bfc7d52c016d7c76}{Bazin}{B\bibinitperiod}{Hervé}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9501218f1053c238e5c2da3a94f50383}{Bazin}{B\bibinitperiod}{Herv{é}}{H\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=df8f63f06f4e82215e0283d1a49a3aaf}{Tinel}{T\bibinitperiod}{Norbert}{N\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b176a802ab7b11c217ab95a7ad84d820}{Durroux}{D\bibinitperiod}{Thierry}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4010d16223d0a92d43f5e962c4adc60c}{Prézeau}{P\bibinitperiod}{Laurent}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d695a6e475955e242cf20983bdd77264}{Pr{é}zeau}{P\bibinitperiod}{Laurent}{L\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=2256344e7e48a51afd66ddff0072d45b}{Trinquet}{T\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=47e7de63efb23799ddebc7633df7863a}{Pin}{P\bibinitperiod}{Jean-Philippe}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{12}{}{%
         {{uniquename=0,hash=be172cd935205c533b6f658671a141ab}{Maurel}{M\bibinitperiod}{Damien}{D\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=3db273e011787653bf7109a830584cca}{Comps-Agrar}{C\bibinithyphendelim A\bibinitperiod}{Laëtitia}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6af7927e996619691d51df4eab030f50}{Comps-Agrar}{C\bibinithyphendelim A\bibinitperiod}{La{ë}titia}{L\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=18d268e6ae75c280a47df2db95046c64}{Brock}{B\bibinitperiod}{Carsten}{C\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=a66f38c88cd97a14944cb68a112f397a}{Rives}{R\bibinitperiod}{Marie-laure}{M\bibinithyphendelim l\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=6c342792fc270b296facafd4add2ee26}{Bourrier}{B\bibinitperiod}{Emmanuel}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=4c82a8dbb934deea9c1e7f835ef671e9}{Ayoub}{A\bibinitperiod}{Mohammed\bibnamedelima Akli}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9668d405b0eaeca7bfc7d52c016d7c76}{Bazin}{B\bibinitperiod}{Hervé}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9501218f1053c238e5c2da3a94f50383}{Bazin}{B\bibinitperiod}{Herv{é}}{H\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=df8f63f06f4e82215e0283d1a49a3aaf}{Tinel}{T\bibinitperiod}{Norbert}{N\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b176a802ab7b11c217ab95a7ad84d820}{Durroux}{D\bibinitperiod}{Thierry}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4010d16223d0a92d43f5e962c4adc60c}{Prézeau}{P\bibinitperiod}{Laurent}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d695a6e475955e242cf20983bdd77264}{Pr{é}zeau}{P\bibinitperiod}{Laurent}{L\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=2256344e7e48a51afd66ddff0072d45b}{Trinquet}{T\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=47e7de63efb23799ddebc7633df7863a}{Pin}{P\bibinitperiod}{Jean-Philippe}{J\bibinithyphendelim P\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{fb7c516e707f6f8bcee41400f675e08d}
-      \strng{fullhash}{6e6780ebb997f03fa17ece293e18ca3a}
+      \strng{fullhash}{1bdf57b5f3758f472e8b65fac5c1c9bd}
       \field{sortinit}{M}
       \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
       \field{labelyear}{2008}
@@ -1977,31 +2281,31 @@
       \verb :Users/ska/Documents/thesis/literature/2008/Maurel et al/Maurel et al. - 2008 - Cell-surface protein-protein interaction analysis with time-resolved FRET and snap-tag technologies application t.pdf:pdf;:Users/ska/Documents/thesis/literature/2008/Maurel et al/Maurel et al. - 2008 - Cell-surface protein-protein interaction analysis with time-resolved FRET and snap-tag technologies applicatio(2).pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2642604%5C&tool=pmcentrez%5C&rendertype=abstract
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2642604%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
       \keyw{Animals,Biological,Biophysics,Biophysics: methods,COS Cells,Cell Membrane,Cell Membrane: metabolism,Cercopithecus aethiops,Dimerization,Fluorescence Resonance Energy Transfer,Fluorescence Resonance Energy Transfer: methods,G-Protein-Coupled,G-Protein-Coupled: metabolism,GABA-B,GABA-B: chemistry,Humans,Models,Protein Interaction Mapping,Protein Interaction Mapping: methods,Protein Structure,Quaternary,Receptors,Surface Properties,gamma-Aminobutyric Acid}
     \endentry
     \entry{Mauriege1988}{article}{}
       \name{labelname}{4}{}{%
-        {{uniquename=0,hash=b2eb66c02c887433bfc157c81cb20661}{Mauriège}{M\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2a271aa46b7b44cb0b30d58d7de8520a}{Mauri{è}ge}{M\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=49cead20d535d0a9eb0d01ed5a39f5ed}{{De\bibnamedelimb Pergola}}{D\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=3557ef91c1dc90c963b704a291870885}{Berlan}{B\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=4dc216a7a3da99bfc6f4cecb61e15b74}{Lafontan}{L\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
-        {{uniquename=0,hash=b2eb66c02c887433bfc157c81cb20661}{Mauriège}{M\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2a271aa46b7b44cb0b30d58d7de8520a}{Mauri{è}ge}{M\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=49cead20d535d0a9eb0d01ed5a39f5ed}{{De\bibnamedelimb Pergola}}{D\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=3557ef91c1dc90c963b704a291870885}{Berlan}{B\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=4dc216a7a3da99bfc6f4cecb61e15b74}{Lafontan}{L\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{b9b3ebe0dc4ca8990082e06d313936ba}
-      \strng{fullhash}{8cb40dfe6d6563513ce008f034563d5f}
+      \strng{namehash}{489e80d1f48cc755e840ca5b19f11adf}
+      \strng{fullhash}{366eddd95d95aa26e8b23c1ab3c9126a}
       \field{sortinit}{M}
       \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
       \field{labelyear}{1988}
       \field{datelabelsource}{}
       \field{labeltitle}{{Human fat cell beta-adrenergic receptors: beta-agonist-dependent lipolytic responses and characterization of beta-adrenergic binding sites on human fat cell membranes with highly selective beta 1-antagonists.}}
-      \field{abstract}{Beta-adrenergic receptors were characterized in human fat cell membranes using 125I-labeled cyanopindolol (125I-labeled CYP) and highly selective beta 1-antagonists. The iodinated radioligand bound saturably and specifically to a single class of high affinity binding sites. The number of binding sites determined with 125I-labeled CYP closely agreed with that determined with two other tritiated radioligands: [3H]dihydroalprenolol and [3H]CGP-12,177. Since 125I-labeled CYP does not discriminate between beta 1- and beta 2-adrenoceptors, the densities of the two receptor subtypes were determined from the competition curves of 125I-labeled CYP by highly selective beta 1-antagonists (bisoprolol, ICI-89,406, CGP-20,712A, and LK-204,545). Moreover, in order to enable correlation with binding data, the regulation of adenylate cyclase activity and of lipolysis was tested with various beta-agonist and antagonist compounds. The results obtained on fat cell membranes from abdominal subcutaneous adipose tissue demonstrated the following. 1) 125I-labeled CYP represents a valuable tool for the quantification and the delineation of beta-receptor subtypes. 2) The presence of sodium ions in binding buffers causes a modification of the affinity of beta-sites for some beta-antagonists. 3) The human fat cell beta adrenergic receptor population defined by nonselective radioligands is composed of two subtypes that can be interpreted in terms of classic beta 1- and beta 2-adrenergic receptor subtypes as assessed by competition studies with highly selective antagonists; beta 2-sites are predominant (60-70\% of 125I-labeled CYP sites) in the adipocytes of slightly overweight women. 4) Results support the idea that beta 1- as well as beta 2-adrenergic receptors are coupled with adenylate cyclase and involved in the induction of lipolysis. 5) The results focus on the interest in some beta 2-agonist drugs (zinterol, clenbuterol) as partial inductors of lipolysis, with the lipolytic efficacies of these compounds being well correlated with their efficacies at 125I-labeled CYP sites.}
+      \field{abstract}{Beta-adrenergic receptors were characterized in human fat cell membranes using 125I-labeled cyanopindolol (125I-labeled CYP) and highly selective beta 1-antagonists. The iodinated radioligand bound saturably and specifically to a single class of high affinity binding sites. The number of binding sites determined with 125I-labeled CYP closely agreed with that determined with two other tritiated radioligands: [3H]dihydroalprenolol and [3H]CGP-12,177. Since 125I-labeled CYP does not discriminate between beta 1- and beta 2-adrenoceptors, the densities of the two receptor subtypes were determined from the competition curves of 125I-labeled CYP by highly selective beta 1-antagonists (bisoprolol, ICI-89,406, CGP-20,712A, and LK-204,545). Moreover, in order to enable correlation with binding data, the regulation of adenylate cyclase activity and of lipolysis was tested with various beta-agonist and antagonist compounds. The results obtained on fat cell membranes from abdominal subcutaneous adipose tissue demonstrated the following. 1) 125I-labeled CYP represents a valuable tool for the quantification and the delineation of beta-receptor subtypes. 2) The presence of sodium ions in binding buffers causes a modification of the affinity of beta-sites for some beta-antagonists. 3) The human fat cell beta adrenergic receptor population defined by nonselective radioligands is composed of two subtypes that can be interpreted in terms of classic beta 1- and beta 2-adrenergic receptor subtypes as assessed by competition studies with highly selective antagonists; beta 2-sites are predominant (60-70{\%} of 125I-labeled CYP sites) in the adipocytes of slightly overweight women. 4) Results support the idea that beta 1- as well as beta 2-adrenergic receptors are coupled with adenylate cyclase and involved in the induction of lipolysis. 5) The results focus on the interest in some beta 2-agonist drugs (zinterol, clenbuterol) as partial inductors of lipolysis, with the lipolytic efficacies of these compounds being well correlated with their efficacies at 125I-labeled CYP sites.}
       \field{isbn}{0022-2275 (Print)$\backslash$r0022-2275 (Linking)}
       \field{issn}{0022-2275}
       \field{journaltitle}{J Lipid Res}
@@ -2011,7 +2315,7 @@
       \field{year}{1988}
       \field{pages}{587\bibrangedash 601}
       \verb{file}
-      \verb :Users/ska/Documents/thesis/literature/1988/Mauriège et al/Mauriège et al. - 1988 - Human fat cell beta-adrenergic receptors beta-agonist-dependent lipolytic responses and characterization of be.pdf:pdf
+      \verb :Users/ska/Documents/thesis/literature/1988/Mauri{è}ge et al/Mauri{è}ge et al. - 1988 - Human fat cell beta-adrenergic receptors beta-agonist-dependent lipolytic responses and characterization of be.pdf:pdf
       \endverb
     \endentry
     \entry{McGraw2006}{article}{}
@@ -2057,7 +2361,7 @@
       \verb :Users/ska/Documents/thesis/literature/2006/McGraw et al/McGraw et al. - 2006 - Airway smooth muscle prostaglandin-EP1 receptors directly modulate beta2-adrenergic receptors within a unique het.pdf:pdf
       \endverb
       \verb{url}
-      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1451203%5C&tool=pmcentrez%5C&rendertype=abstract
+      \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1451203%7B%5C&%7Dtool=pmcentrez%7B%5C&%7Drendertype=abstract
       \endverb
       \keyw{Adrenergic,Animals,COS Cells,Cell Line,Cercopithecus aethiops,Dimerization,EP1 Subtype,Forskolin,Forskolin: metabolism,Guanosine 5'-O-(3-Thiotriphosphate),Guanosine 5'-O-(3-Thiotriphosphate): metabolism,Humans,Mice,Muscle,Prostaglandin E,Prostaglandin E: physiology,Receptors,Signal Transduction,Smooth,Smooth: metabolism,Trachea,Trachea: cytology,beta-2,beta-2: metabolism,beta-2: physiology}
     \endentry
@@ -2095,6 +2399,47 @@
       \verb{url}
       \verb http://linkinghub.elsevier.com/retrieve/pii/S1471489209001581
       \endverb
+    \endentry
+    \entry{Ortega2007}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=ee182188e42280298cf4077fe9fac68c}{Ortega}{O\bibinitperiod}{Victor\bibnamedelima E}{V\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2a842b898cd2b761c6387c9a132e82c4}{Hawkins}{H\bibinitperiod}{Gregory\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=04dd2c2a0619ef173ed26aaf1d391437}{Peters}{P\bibinitperiod}{Stephen\bibnamedelima P}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=39063dd898a4e849ce5e8965bc77fbe9}{Bleecker}{B\bibinitperiod}{Eugene\bibnamedelima R}{E\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=ee182188e42280298cf4077fe9fac68c}{Ortega}{O\bibinitperiod}{Victor\bibnamedelima E}{V\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2a842b898cd2b761c6387c9a132e82c4}{Hawkins}{H\bibinitperiod}{Gregory\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=04dd2c2a0619ef173ed26aaf1d391437}{Peters}{P\bibinitperiod}{Stephen\bibnamedelima P}{S\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=39063dd898a4e849ce5e8965bc77fbe9}{Bleecker}{B\bibinitperiod}{Eugene\bibnamedelima R}{E\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{76a53ce2c1d8660be4b7aea56f4b7744}
+      \strng{fullhash}{2540bbb015ca40b226845815d973f080}
+      \field{sortinit}{O}
+      \field{sortinithash}{59512cfd31be1dcef4def024230bdc1d}
+      \field{labelyear}{2007}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Pharmacogenetics of the beta 2-adrenergic receptor gene.}}
+      \field{abstract}{Asthma is a complex genetic disease with multiple genetic and environmental determinants contributing to the observed variability in response to common antiasthma therapies. One focus of asthma pharmacogenetic research has been the beta2-adrenergic receptor gene (ADR beta 2) and its effect on individual responses to beta agonist therapy. Knowledge about the effects of ADR beta 2 variation on therapeutic responses is evolving and should not alter current Asthma Guideline approaches, which consist of the use of short-acting beta agonists (SABAs) for as-needed symptom-based therapy and the use of a regular long-acting beta agonist (LABA) in combination with inhaled corticosteroid therapy for those asthmatics whose symptoms are not controlled by inhaled corticosteroid alone. These approaches are based upon studies showing a consistent pharmacogenetic response to regular use of SABAs and less consistent findings in studies evaluating LABAs. The emerging pharmacogenetic studies are provocative and should lead to functional studies. Meanwhile, the conflicting data concerning LABAs may be caused by such factors as small sample sizes of study populations and differences in experimental design.}
+      \field{issn}{0889-8561}
+      \field{journaltitle}{Immunol Allergy Clin North Am}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{{Pharmacogenetics of the beta 2-adrenergic receptor gene.}}
+      \field{volume}{27}
+      \field{year}{2007}
+      \field{pages}{665\bibrangedash 84\bibrangessep vii}
+      \verb{doi}
+      \verb 10.1016/j.iac.2007.09.007
+      \endverb
+      \verb{file}
+      \verb :Users/ska/Documents/thesis/literature/2007/Ortega et al/Ortega et al. - 2007 - Pharmacogenetics of the beta 2-adrenergic receptor gene.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0889856107000847
+      \endverb
+      \keyw{Adrenergic beta-Agonists,Adrenergic beta-Agonists: therapeutic use,Animals,Asthma,Asthma: drug therapy,Asthma: genetics,Forced Expiratory Volume,Humans,Peak Expiratory Flow Rate,Pharmacogenetics,Polymorphism,Single Nucleotide,Receptors,Adrenergic,beta-2,Receptors,Adrenergic,beta-2: genetics}
     \endentry
     \entry{Park2004}{article}{}
       \name{labelname}{2}{}{%
@@ -2136,7 +2481,7 @@
         {{uniquename=0,hash=17d007869b4309da6bddacc0052f159a}{Diwan}{D\bibinitperiod}{Mustansir}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=76bfeec4a9d2d5e66e319f8700b99ec1}{Anisman}{A\bibinitperiod}{Hymie}{H\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=38079b8a717d69b6b996159401ab6e88}{Fletcher}{F\bibinitperiod}{Paul\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=414c815ecb8df2b770441120027fc1e4}{Nobrega}{N\bibinitperiod}{José\bibnamedelima N}{J\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0b67f6186d444e28f73548d2c1a517b9}{Nobrega}{N\bibinitperiod}{Jos{é}\bibnamedelima N}{J\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=f366ed4d779dfffcffc0a514cf788132}{Liu}{L\bibinitperiod}{Fang}{F\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{8}{}{%
@@ -2146,11 +2491,11 @@
         {{uniquename=0,hash=17d007869b4309da6bddacc0052f159a}{Diwan}{D\bibinitperiod}{Mustansir}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=76bfeec4a9d2d5e66e319f8700b99ec1}{Anisman}{A\bibinitperiod}{Hymie}{H\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=38079b8a717d69b6b996159401ab6e88}{Fletcher}{F\bibinitperiod}{Paul\bibnamedelima J}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=414c815ecb8df2b770441120027fc1e4}{Nobrega}{N\bibinitperiod}{José\bibnamedelima N}{J\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0b67f6186d444e28f73548d2c1a517b9}{Nobrega}{N\bibinitperiod}{Jos{é}\bibnamedelima N}{J\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=f366ed4d779dfffcffc0a514cf788132}{Liu}{L\bibinitperiod}{Fang}{F\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{ec8dcb6b140794ddd537f7d7a945bed1}
-      \strng{fullhash}{f7e623f6baa8322f44641d2c3cfdd6c1}
+      \strng{fullhash}{555c8134b158022af531ae1470c644b1}
       \field{sortinit}{P}
       \field{sortinithash}{b8af9282ac256b81613dc9012a0ac921}
       \field{labelyear}{2010}
@@ -2173,6 +2518,41 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/21113156
       \endverb
       \keyw{Analysis of Variance,Animals,Blotting,Western,Cell Line,Depression,Depression: drug therapy,Depression: metabolism,Depression: physiopathology,Dimerization,Escape Reaction,Escape Reaction: drug effects,Helplessness,Learned,Humans,Immunoprecipitation,Locomotion,Locomotion: drug effects,Multiprotein Complexes,Multiprotein Complexes: metabolism,Organic Anion Transporters,Organic Anion Transporters: metabolism,Prefrontal Cortex,Prefrontal Cortex: metabolism,Protein Binding,Protein Binding: drug effects,Rats,Receptors,Dopamine D1,Receptors,Dopamine D1: metabolism,Receptors,Dopamine D2,Receptors,Dopamine D2: metabolism,Recombinant Fusion Proteins,Recombinant Fusion Proteins: metabolism,Recombinant Fusion Proteins: pharmacology,Recombinant Fusion Proteins: therapeutic use,tat Gene Products,Human Immunodeficiency Virus,tat Gene Products,Human Immunodeficiency Virus: g}
+    \endentry
+    \entry{Pfleger2006}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=60bc43ba8f965889f7372ddc8489bd5e}{Pfleger}{P\bibinitperiod}{Kevin\bibnamedelimb D\bibnamedelima G}{K\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2f6310074086e5591e7e2d07955d5536}{Eidne}{E\bibinitperiod}{Karin\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=60bc43ba8f965889f7372ddc8489bd5e}{Pfleger}{P\bibinitperiod}{Kevin\bibnamedelimb D\bibnamedelima G}{K\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2f6310074086e5591e7e2d07955d5536}{Eidne}{E\bibinitperiod}{Karin\bibnamedelima A}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{26dd0e49c03c79c09715bb27c26f728c}
+      \strng{fullhash}{7b00984c31190017b842739b34e715a9}
+      \field{sortinit}{P}
+      \field{sortinithash}{b8af9282ac256b81613dc9012a0ac921}
+      \field{labelyear}{2006}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Nat Meth}
+      \field{abstract}{Bioluminescence resonance energy transfer (BRET) is a straightforward biophysical technique for studying protein-protein interactions. It requires: (1) that proteins of interest and suitable controls be labeled with either a donor or acceptor molecule, (2) placement of these labeled proteins in the desired environment for assessing their potential interaction, and (3) use of suitable detection instrumentation to monitor resultant energy transfer. There are now several possible applications, combinations of donor and acceptor molecules, potential assay environments and detection system perturbations. Therefore, this review aims to demystify and clarify the important aspects of the BRET methodology that should be considered when using this technique.}
+      \field{issn}{1548-7091}
+      \field{journaltitle}{Nat Methods}
+      \field{month}{03}
+      \field{number}{3}
+      \field{shorttitle}{Nat Meth}
+      \field{title}{{Illuminating insights into protein-protein interactions using bioluminescence resonance energy transfer (BRET).}}
+      \field{volume}{3}
+      \field{year}{2006}
+      \field{pages}{165\bibrangedash 74}
+      \verb{doi}
+      \verb 10.1038/nmeth841
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nmeth841
+      \endverb
+      \keyw{Fluorescence Resonance Energy Transfer,Fluorescence Resonance Energy Transfer: instrument,Fluorescence Resonance Energy Transfer: methods,Green Fluorescent Proteins,Green Fluorescent Proteins: chemistry,Luminescent Measurements,Luminescent Measurements: methods,Protein Binding,Proteins,Proteins: chemistry,Recombinant Fusion Proteins,Recombinant Fusion Proteins: chemistry}
     \endentry
     \entry{Pierce2002}{article}{}
       \name{labelname}{3}{}{%
@@ -2258,6 +2638,49 @@
       \verb :Users/ska/Documents/thesis/literature/2007/Pin et al/Pin et al. - 2007 - International Union of Basic and Clinical Pharmacology. LXVII. Recommendations for the recognition and nomenclature.pdf:pdf
       \endverb
     \endentry
+    \entry{Rajapakse2010}{article}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=c3fc605cbb1c2bbcef24c79e9140f941}{Rajapakse}{R\bibinitperiod}{Harsha\bibnamedelima E}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ac896705420cfe3f03e0639b776fa86d}{Gahlaut}{G\bibinitperiod}{Nivriti}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f27b6537d2039cb46c76861ae675248d}{Mohandessi}{M\bibinitperiod}{Shabnam}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=af9fa3bd3e2b4298536fdbcb709fefbc}{Yu}{Y\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8601a973c66491c6302f5873a7e9ced7}{Turner}{T\bibinitperiod}{Jerrold\bibnamedelima R}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0d3d3f23b0cab6fa5f323c2de42046d5}{Miller}{M\bibinitperiod}{Lawrence\bibnamedelima W}{L\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=c3fc605cbb1c2bbcef24c79e9140f941}{Rajapakse}{R\bibinitperiod}{Harsha\bibnamedelima E}{H\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ac896705420cfe3f03e0639b776fa86d}{Gahlaut}{G\bibinitperiod}{Nivriti}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f27b6537d2039cb46c76861ae675248d}{Mohandessi}{M\bibinitperiod}{Shabnam}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=af9fa3bd3e2b4298536fdbcb709fefbc}{Yu}{Y\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8601a973c66491c6302f5873a7e9ced7}{Turner}{T\bibinitperiod}{Jerrold\bibnamedelima R}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0d3d3f23b0cab6fa5f323c2de42046d5}{Miller}{M\bibinitperiod}{Lawrence\bibnamedelima W}{L\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d696f458b91a489b355124c253141400}
+      \strng{fullhash}{4a1395c3e883df7ec7b749bbb8e2a38c}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Time-resolved luminescence resonance energy transfer imaging of protein-protein interactions in living cells.}}
+      \field{abstract}{F{ö}rster resonance energy transfer (FRET) with fluorescent proteins permits high spatial resolution imaging of protein-protein interactions in living cells. However, substantial non-FRET fluorescence background can obscure small FRET signals, making many potential interactions unobservable by conventional FRET techniques. Here we demonstrate time-resolved microscopy of luminescence resonance energy transfer (LRET) for live-cell imaging of protein-protein interactions. A luminescent terbium complex, TMP-Lumi4, was introduced into cultured cells using two methods: (i) osmotic lysis of pinocytic vesicles; and (ii) reversible membrane permeabilization with streptolysin O. Upon intracellular delivery, the complex was observed to bind specifically and stably to transgenically expressed Escherichia coli dihydrofolate reductase (eDHFR) fusion proteins. LRET between the eDHFR-bound terbium complex and green fluorescent protein (GFP) was detected as long-lifetime, sensitized GFP emission. Background signals from cellular autofluorescence and directly excited GFP fluorescence were effectively eliminated by imposing a time delay (10 micros) between excitation and detection. Background elimination made it possible to detect interactions between the first PDZ domain of ZO-1 (fused to eDHFR) and the C-terminal YV motif of claudin-1 (fused to GFP) in single microscope images at subsecond time scales. We observed a highly significant (P<10(-6)), six-fold difference between the mean, donor-normalized LRET signal from cells expressing interacting fusion proteins and from control cells expressing noninteracting mutants. The results show that time-resolved LRET microscopy with a selectively targeted, luminescent terbium protein label affords improved speed and sensitivity over conventional FRET methods for a variety of live-cell imaging and screening applications.}
+      \field{isbn}{1091-6490 (Electronic)$\backslash$n0027-8424 (Linking)}
+      \field{issn}{1091-6490}
+      \field{journaltitle}{Proc Natl Acad Sci U S A}
+      \field{number}{31}
+      \field{title}{{Time-resolved luminescence resonance energy transfer imaging of protein-protein interactions in living cells.}}
+      \field{volume}{107}
+      \field{year}{2010}
+      \field{pages}{13582\bibrangedash 13587}
+      \verb{doi}
+      \verb 10.1073/pnas.1002025107
+      \endverb
+      \verb{file}
+      \verb :Users/ska/Documents/thesis/literature/2010/Rajapakse et al/Rajapakse et al. - 2010 - Time-resolved luminescence resonance energy transfer imaging of protein-protein interactions in living cells.pdf:pdf;:Users/ska/Documents/thesis/literature/2010/Rajapakse et al/Rajapakse et al. - 2010 - Time-resolved luminescence resonance energy transfer imaging of protein-protein interactions in living cell(2).pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pnas.org/content/107/31/13582.short
+      \endverb
+    \endentry
     \entry{Rashid2007}{article}{}
       \name{labelname}{8}{}{%
         {{uniquename=0,hash=c2074bcc5e89cd5f968021ef11bc50ab}{Rashid}{R\bibinitperiod}{Asim\bibnamedelima J}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
@@ -2315,12 +2738,12 @@
         {{uniquename=0,hash=be291367279add976aead2397a7b207d}{Kulahin}{K\bibinitperiod}{Nikolaj}{N\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=3160f6037d8d739bf67306e94ecf07be}{Iversen}{I\bibinitperiod}{Helle}{H\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=1a53279d14c533b6c87d7d2cb0c164ec}{Cappelen}{C\bibinitperiod}{Karen\bibnamedelima Arevad}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=6686e6a82e54ec457cfe0318cd772e57}{Schäffer}{S\bibinitperiod}{Lauge}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=505ce083ed82e707a534830af9524301}{Sch{ä}ffer}{S\bibinitperiod}{Lauge}{L\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=dcb8bb14c6a8a753dfb32663dade8033}{Lehtonen}{L\bibinitperiod}{Janne}{J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=33f93d8130855ce3c656e2b3c28a4667}{Hecksher-Soerensen}{H\bibinithyphendelim S\bibinitperiod}{Jacob}{J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=18f38a4c478b45304903a18a31296c4a}{Secher}{S\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b5a6e5e3858418ac0623b0a557876e64}{Mathiesen}{M\bibinitperiod}{Jesper\bibnamedelima Mosolff}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=936cece2d952abcaab31b086ee9f06b6}{Bräuner-Osborne}{B\bibinithyphendelim O\bibinitperiod}{Hans}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c193eff61574bb3d7319dd97bb36baa1}{Br{ä}uner-Osborne}{B\bibinithyphendelim O\bibinitperiod}{Hans}{H\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=85404252c5f3d7b9e718d16bdda2fb17}{Whistler}{W\bibinitperiod}{Jennifer\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=203896e0fc6e763a32af234e7a8f5d16}{Knudsen}{K\bibinitperiod}{Sanne\bibnamedelima Moeller}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=28166a11401ef83caf0aacd03b3129ec}{Waldhoer}{W\bibinitperiod}{Maria}{M\bibinitperiod}{}{}{}{}}%
@@ -2332,12 +2755,12 @@
         {{uniquename=0,hash=be291367279add976aead2397a7b207d}{Kulahin}{K\bibinitperiod}{Nikolaj}{N\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=3160f6037d8d739bf67306e94ecf07be}{Iversen}{I\bibinitperiod}{Helle}{H\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=1a53279d14c533b6c87d7d2cb0c164ec}{Cappelen}{C\bibinitperiod}{Karen\bibnamedelima Arevad}{K\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=6686e6a82e54ec457cfe0318cd772e57}{Schäffer}{S\bibinitperiod}{Lauge}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=505ce083ed82e707a534830af9524301}{Sch{ä}ffer}{S\bibinitperiod}{Lauge}{L\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=dcb8bb14c6a8a753dfb32663dade8033}{Lehtonen}{L\bibinitperiod}{Janne}{J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=33f93d8130855ce3c656e2b3c28a4667}{Hecksher-Soerensen}{H\bibinithyphendelim S\bibinitperiod}{Jacob}{J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=18f38a4c478b45304903a18a31296c4a}{Secher}{S\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b5a6e5e3858418ac0623b0a557876e64}{Mathiesen}{M\bibinitperiod}{Jesper\bibnamedelima Mosolff}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=936cece2d952abcaab31b086ee9f06b6}{Bräuner-Osborne}{B\bibinithyphendelim O\bibinitperiod}{Hans}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c193eff61574bb3d7319dd97bb36baa1}{Br{ä}uner-Osborne}{B\bibinithyphendelim O\bibinitperiod}{Hans}{H\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=85404252c5f3d7b9e718d16bdda2fb17}{Whistler}{W\bibinitperiod}{Jennifer\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=203896e0fc6e763a32af234e7a8f5d16}{Knudsen}{K\bibinitperiod}{Sanne\bibnamedelima Moeller}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=28166a11401ef83caf0aacd03b3129ec}{Waldhoer}{W\bibinitperiod}{Maria}{M\bibinitperiod}{}{}{}{}}%
@@ -2346,7 +2769,7 @@
         {Elsevier Ireland Ltd}%
       }
       \strng{namehash}{4842a8c1a554dd9133f3d9901e74f016}
-      \strng{fullhash}{d2fcc4b7327b010bcca69423a69de72a}
+      \strng{fullhash}{6916a63a7d87d177fd5b5f6826ffe0ff}
       \field{sortinit}{R}
       \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
       \field{labelyear}{2014}
@@ -2374,16 +2797,16 @@
     \entry{Rosenbaum2009}{article}{}
       \name{labelname}{3}{}{%
         {{uniquename=0,hash=0828d953129b55f1f04d368185bc4a7d}{Rosenbaum}{R\bibinitperiod}{Daniel\bibnamedelima M}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=fa9629b465a2fdd1e087cca8c5522b0c}{Rasmussen}{R\bibinitperiod}{Søren\bibnamedelimb G\bibnamedelima F}{S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a3b965d18a54a31cb9e31c3c946397ab}{Rasmussen}{R\bibinitperiod}{S{ø}ren\bibnamedelimb G\bibnamedelima F}{S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=decc5062cdeca8b403aad00dc8d4ce14}{Kobilka}{K\bibinitperiod}{Brian\bibnamedelima K}{B\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
         {{uniquename=0,hash=0828d953129b55f1f04d368185bc4a7d}{Rosenbaum}{R\bibinitperiod}{Daniel\bibnamedelima M}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=fa9629b465a2fdd1e087cca8c5522b0c}{Rasmussen}{R\bibinitperiod}{Søren\bibnamedelimb G\bibnamedelima F}{S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a3b965d18a54a31cb9e31c3c946397ab}{Rasmussen}{R\bibinitperiod}{S{ø}ren\bibnamedelimb G\bibnamedelima F}{S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=decc5062cdeca8b403aad00dc8d4ce14}{Kobilka}{K\bibinitperiod}{Brian\bibnamedelima K}{B\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{9b50a06728b1772b4b51707bffeed9ce}
-      \strng{fullhash}{67c6e476dc30989294db323941b854e4}
+      \strng{fullhash}{143ed5213d6ccce4670bd51115ff312c}
       \field{sortinit}{R}
       \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
       \field{labelyear}{2009}
@@ -2408,22 +2831,22 @@
     \entry{Salahpour2004}{article}{}
       \name{labelname}{6}{}{%
         {{uniquename=0,hash=2d20845c786800e0e4a7539bb00916d5}{Salahpour}{S\bibinitperiod}{Ali}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=be79da2114b81142d5fd7920533a3205}{Angers}{A\bibinitperiod}{Stéphane}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=bac90c16b11cbada8a0586694ca0f84b}{Mercier}{M\bibinitperiod}{Jean-François}{J\bibinithyphendelim F\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=145c5b0dcb94470a59e4f6a120e05cd5}{Lagacé}{L\bibinitperiod}{Monique}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9d32033589c02cfef3725bc02c4165d5}{Angers}{A\bibinitperiod}{St{é}phane}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e95ecfeb71c265b4af8202b2e580b182}{Mercier}{M\bibinitperiod}{Jean-Fran{ç}ois}{J\bibinithyphendelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=768b7bb395c862b1d0e16b79927a9cac}{Lagac{é}}{L\bibinitperiod}{Monique}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=bc5ddd1bd419c9c57f7e3dd80489a3a3}{Marullo}{M\bibinitperiod}{Stefano}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=7ea48095889361f5fa9410c51a3acfa2}{Bouvier}{B\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{6}{}{%
         {{uniquename=0,hash=2d20845c786800e0e4a7539bb00916d5}{Salahpour}{S\bibinitperiod}{Ali}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=be79da2114b81142d5fd7920533a3205}{Angers}{A\bibinitperiod}{Stéphane}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=bac90c16b11cbada8a0586694ca0f84b}{Mercier}{M\bibinitperiod}{Jean-François}{J\bibinithyphendelim F\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=145c5b0dcb94470a59e4f6a120e05cd5}{Lagacé}{L\bibinitperiod}{Monique}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9d32033589c02cfef3725bc02c4165d5}{Angers}{A\bibinitperiod}{St{é}phane}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e95ecfeb71c265b4af8202b2e580b182}{Mercier}{M\bibinitperiod}{Jean-Fran{ç}ois}{J\bibinithyphendelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=768b7bb395c862b1d0e16b79927a9cac}{Lagac{é}}{L\bibinitperiod}{Monique}{M\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=bc5ddd1bd419c9c57f7e3dd80489a3a3}{Marullo}{M\bibinitperiod}{Stefano}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=7ea48095889361f5fa9410c51a3acfa2}{Bouvier}{B\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{dc74020f7331fc28ea9001166848c025}
-      \strng{fullhash}{11a5e986863549ba370a1d67279824f5}
+      \strng{fullhash}{3a3fa5e4017a745455f0c5984e7898b0}
       \field{sortinit}{S}
       \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
       \field{labelyear}{2004}
@@ -2450,6 +2873,126 @@
       \endverb
       \keyw{Adrenergic,Binding Sites,Biological Transport,Cell Fractionation,Cell Line,Cell Membrane,Cell Membrane: metabolism,Dimerization,Endoplasmic Reticulum,Endoplasmic Reticulum: metabolism,Energy Transfer,Enzyme-Linked Immunosorbent Assay,Fluorescent Antibody Technique,Gene Expression,Green Fluorescent Proteins,Hemagglutinins,Hemagglutinins: genetics,Luciferases,Luciferases: genetics,Luminescent Measurements,Luminescent Proteins,Luminescent Proteins: genetics,Mutagenesis,Polymerase Chain Reaction,Receptors,Recombinant Fusion Proteins,Structure-Activity Relationship,Transfection,beta-2,beta-2: chemistry,beta-2: genetics,beta-2: metabolism}
     \endentry
+    \entry{Selvin1994}{article}{}
+      \name{labelname}{2}{uniquelist=2}{%
+        {{uniquename=0,hash=1a51cea15667ccdda2860c6816c2f70f}{Selvin}{S\bibinitperiod}{P\bibnamedelima R}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=44aa651a30e82d53ac406f796e8044e8}{Hearst}{H\bibinitperiod}{J\bibnamedelima E}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{uniquelist=2}{%
+        {{uniquename=0,hash=1a51cea15667ccdda2860c6816c2f70f}{Selvin}{S\bibinitperiod}{P\bibnamedelima R}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=44aa651a30e82d53ac406f796e8044e8}{Hearst}{H\bibinitperiod}{J\bibnamedelima E}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7b288e5436734f1460435902d6b4dcb4}
+      \strng{fullhash}{7b288e5436734f1460435902d6b4dcb4}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labelyear}{1994}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Luminescence energy transfer using a terbium chelate: improvements on fluorescence energy transfer.}}
+      \field{abstract}{We extend the technique of fluorescence resonance energy transfer (FRET) by introducing a luminescent terbium chelate as a donor and an organic dye, tetramethylrhodamine, as an acceptor. The results are consistent with a F{ö}rster theory of energy transfer, provided the appropriate parameters are used. The use of lanthanide donors, in general, and this pair, in particular, has many advantages over more conventional FRET pairs, which rely solely on organic dyes. The distance at which 50{\%} energy transfer occurs is large, 65 A; the donor lifetime is a single exponential and long (millisecond), making lifetime measurements facile and accurate. Uncertainty in the orientation factor, which creates uncertainty in measured distances, is minimized by the donor's multiple electronic transitions and long lifetime. The sensitized emission of the acceptor can be measured with little or no interfering background, yielding a > 25-fold improvements in the signal-to-background ratio over standard donor-acceptor pairs. These improvements are expected to make distances > 100 A measurable via FRET. We also report measurement of the sensitized emission lifetime, a measurement that is completely insensitive to total concentration and incomplete labeling.}
+      \field{isbn}{0027-8424 (Print)}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proc Natl Acad Sci}
+      \field{month}{10}
+      \field{number}{21}
+      \field{title}{{Luminescence energy transfer using a terbium chelate: improvements on fluorescence energy transfer.}}
+      \field{volume}{91}
+      \field{year}{1994}
+      \field{pages}{10024\bibrangedash 10028}
+      \verb{doi}
+      \verb 10.1073/pnas.91.21.10024
+      \endverb
+      \verb{file}
+      \verb :Users/ska/Documents/thesis/literature/1994/Selvin, Hearst/Selvin, Hearst - 1994 - Luminescence energy transfer using a terbium chelate improvements on fluorescence energy transfer.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.pnas.org/cgi/doi/10.1073/pnas.91.21.10024
+      \endverb
+    \endentry
+    \entry{Selvin2002}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=54f5f259c2f8a54e5534fe50bfc54757}{Selvin}{S\bibinitperiod}{Paul\bibnamedelima R}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=54f5f259c2f8a54e5534fe50bfc54757}{Selvin}{S\bibinitperiod}{Paul\bibnamedelima R}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{54f5f259c2f8a54e5534fe50bfc54757}
+      \strng{fullhash}{54f5f259c2f8a54e5534fe50bfc54757}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Principles and biophysical applications of lanthanide-based probes.}}
+      \field{abstract}{Using luminescent lanthanides, instead of conventional fluorophores, as donor molecules in resonance energy transfer measurements offers many technical advantages and opens up a wide range of new applications. Advantages include farther measurable distances ( approximately 100 A) with greater accuracy, insensitivity to incomplete labeling, and the ability to use generic relatively large labels, when necessary. Applications highlighted include the study of ion channels in living cells, protein-protein interaction in cells, DNA-protein complexes, and high-throughput screening assays to measure peptide dimerization associated with DNA transcription factors and ligand-receptor interactions.}
+      \field{isbn}{1056-8700 (Print)$\backslash$n1056-8700 (Linking)}
+      \field{issn}{1056-8700}
+      \field{journaltitle}{Annu Rev Biophys Biomol Struct}
+      \field{title}{{Principles and biophysical applications of lanthanide-based probes.}}
+      \field{volume}{31}
+      \field{year}{2002}
+      \field{pages}{275\bibrangedash 302}
+      \verb{doi}
+      \verb 10.1146/annurev.biophys.31.101101.140927
+      \endverb
+      \verb{file}
+      \verb :Users/ska/Documents/thesis/literature/2002/Selvin/Selvin - 2002 - Principles and biophysical applications of lanthanide-based probes.pdf:pdf
+      \endverb
+      \keyw{a wide range of,advantages and opens up,advantages include farther,as donor molecules in,fluorescence resonance energy transfer,instead of conventional fluorophores,lanthanide,lanthanides,luminescence,new applications,offers many technical,resonance energy transfer measurements,s abstract using luminescent}
+    \endentry
+    \entry{Soderberg2006}{article}{}
+      \name{labelname}{11}{}{%
+        {{uniquename=0,hash=69826f9b883427dd24c5d62afb56de25}{S{ö}derberg}{S\bibinitperiod}{Ola}{O\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=830e565be1aa21716fa2f78e90211670}{Gullberg}{G\bibinitperiod}{Mats}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6ad59584d77acfc81b387d3a454085ce}{Jarvius}{J\bibinitperiod}{Malin}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c3ecc02679f31bc6d72c2ac79bdbbb13}{Ridderstr{å}le}{R\bibinitperiod}{Karin}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=97785ff48f0e95739b6844469e914c5c}{Leuchowius}{L\bibinitperiod}{Karl-Johan}{K\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=77ba1fa3184365e780a8788438f85724}{Jarvius}{J\bibinitperiod}{Jonas}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7242b40ed1ed821052456d14f316f10c}{Wester}{W\bibinitperiod}{Kenneth}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0208b2cee6b710359e73d313d92bfb0f}{Hydbring}{H\bibinitperiod}{Per}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=941da1a68856077a6d677ca510074ae2}{Bahram}{B\bibinitperiod}{Fuad}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=41e047a30ee4dfabede72d6548b93205}{Larsson}{L\bibinitperiod}{Lars-Gunnar}{L\bibinithyphendelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d03048f54c00fc181a549267fe5bb3a1}{Landegren}{L\bibinitperiod}{Ulf}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{uniquename=0,hash=69826f9b883427dd24c5d62afb56de25}{S{ö}derberg}{S\bibinitperiod}{Ola}{O\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=830e565be1aa21716fa2f78e90211670}{Gullberg}{G\bibinitperiod}{Mats}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6ad59584d77acfc81b387d3a454085ce}{Jarvius}{J\bibinitperiod}{Malin}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c3ecc02679f31bc6d72c2ac79bdbbb13}{Ridderstr{å}le}{R\bibinitperiod}{Karin}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=97785ff48f0e95739b6844469e914c5c}{Leuchowius}{L\bibinitperiod}{Karl-Johan}{K\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=77ba1fa3184365e780a8788438f85724}{Jarvius}{J\bibinitperiod}{Jonas}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7242b40ed1ed821052456d14f316f10c}{Wester}{W\bibinitperiod}{Kenneth}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0208b2cee6b710359e73d313d92bfb0f}{Hydbring}{H\bibinitperiod}{Per}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=941da1a68856077a6d677ca510074ae2}{Bahram}{B\bibinitperiod}{Fuad}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=41e047a30ee4dfabede72d6548b93205}{Larsson}{L\bibinitperiod}{Lars-Gunnar}{L\bibinithyphendelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d03048f54c00fc181a549267fe5bb3a1}{Landegren}{L\bibinitperiod}{Ulf}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{db6cd11d3d412b35656d19f1c8ddafa7}
+      \strng{fullhash}{f492175778c77f3685ffe5453a02292f}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labelyear}{2006}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{Direct observation of individual endogenous protein complexes in situ by proximity ligation}}
+      \field{issn}{1548-7091}
+      \field{journaltitle}{Nat Methods}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Direct observation of individual endogenous protein complexes in situ by proximity ligation}}
+      \field{volume}{3}
+      \field{year}{2006}
+      \field{pages}{995\bibrangedash 1000}
+      \verb{doi}
+      \verb 10.1038/nmeth947
+      \endverb
+      \verb{file}
+      \verb :Users/ska/Documents/thesis/literature/2006/S{ö}derberg et al/S{ö}derberg et al. - 2006 - Direct observation of individual endogenous protein complexes in situ by proximity ligation.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/doifinder/10.1038/nmeth947
+      \endverb
+    \endentry
     \entry{Tanganelli2004}{article}{}
       \name{labelname}{10}{}{%
         {{uniquename=0,hash=02e89ebd949f1d4b23fcd5e18717219c}{Tanganelli}{T\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
@@ -2458,10 +3001,10 @@
         {{uniquename=0,hash=b0a49472d23b0b07910507c461b2421c}{Antonelli}{A\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=3d076d649d686b60e1025ebdea9b029e}{Kehr}{K\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=db704d82e661984cef0d9b49bdd55bc4}{Franco}{F\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=b97e415907092f9b5b04ee1b0e6e6949}{Ferré}{F\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3f744a63ca07411116ce3244dbbb696a}{Ferr{é}}{F\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=d41ece86096a17e5934a03c4e954d5b8}{Agnati}{A\bibinitperiod}{L\bibnamedelima F}{L\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=c4b48e7715b5e6a77fb44f8c0dabaf97}{Fuxe}{F\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=36ada6bceb8e8147c3955ac73cf2c553}{Scheel-Krüger}{S\bibinithyphendelim K\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9ab82e2fc91331327092187eb98a2076}{Scheel-Kr{ü}ger}{S\bibinithyphendelim K\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{10}{}{%
         {{uniquename=0,hash=02e89ebd949f1d4b23fcd5e18717219c}{Tanganelli}{T\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
@@ -2470,13 +3013,13 @@
         {{uniquename=0,hash=b0a49472d23b0b07910507c461b2421c}{Antonelli}{A\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=3d076d649d686b60e1025ebdea9b029e}{Kehr}{K\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=db704d82e661984cef0d9b49bdd55bc4}{Franco}{F\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=b97e415907092f9b5b04ee1b0e6e6949}{Ferré}{F\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3f744a63ca07411116ce3244dbbb696a}{Ferr{é}}{F\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=d41ece86096a17e5934a03c4e954d5b8}{Agnati}{A\bibinitperiod}{L\bibnamedelima F}{L\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=c4b48e7715b5e6a77fb44f8c0dabaf97}{Fuxe}{F\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=36ada6bceb8e8147c3955ac73cf2c553}{Scheel-Krüger}{S\bibinithyphendelim K\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9ab82e2fc91331327092187eb98a2076}{Scheel-Kr{ü}ger}{S\bibinithyphendelim K\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{47c415a2de1b7f5799d12bd07d0a9983}
-      \strng{fullhash}{9c3621842ad0d63b8020f20638d37cc0}
+      \strng{fullhash}{5ab07e6a13c52e489231d5bdf8ee522a}
       \field{sortinit}{T}
       \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
       \field{labelyear}{2004}
@@ -2564,6 +3107,50 @@
       \field{pages}{18448\bibrangedash 18452}
       \verb{file}
       \verb :Users/ska/Documents/thesis/literature/1994/Von Zastrow, Kobilka/Von Zastrow, Kobilka - 1994 - Antagonist-dependent and -independent steps in the mechanism of adrenergic receptor internalization.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Waldhoer2005}{article}{}
+      \name{labelname}{8}{}{%
+        {{uniquename=0,hash=28166a11401ef83caf0aacd03b3129ec}{Waldhoer}{W\bibinitperiod}{Maria}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ce6216867602fba133074f78688e93e3}{Fong}{F\bibinitperiod}{Jamie}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1e3e70839fbdf5c1454bd3539f713bbd}{Jones}{J\bibinitperiod}{Robert\bibnamedelima M}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d016a8fd379f4aa42152b2cc8020d4c6}{Lunzer}{L\bibinitperiod}{Mary\bibnamedelima M}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=51ad7991eef25ff9153820f5a50ab215}{Sharma}{S\bibinitperiod}{Shiv\bibnamedelima K}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=18394774de113a0b0cc4b820dbde1884}{Kostenis}{K\bibinitperiod}{Evi}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1b9ef4f82d1e8668afdb51c73d65e132}{Portoghese}{P\bibinitperiod}{Philip\bibnamedelima S}{P\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=68640b48e9db47feb12dbf5c18310fc6}{Whistler}{W\bibinitperiod}{Jennifer\bibnamedelima L}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{uniquename=0,hash=28166a11401ef83caf0aacd03b3129ec}{Waldhoer}{W\bibinitperiod}{Maria}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ce6216867602fba133074f78688e93e3}{Fong}{F\bibinitperiod}{Jamie}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1e3e70839fbdf5c1454bd3539f713bbd}{Jones}{J\bibinitperiod}{Robert\bibnamedelima M}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d016a8fd379f4aa42152b2cc8020d4c6}{Lunzer}{L\bibinitperiod}{Mary\bibnamedelima M}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=51ad7991eef25ff9153820f5a50ab215}{Sharma}{S\bibinitperiod}{Shiv\bibnamedelima K}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=18394774de113a0b0cc4b820dbde1884}{Kostenis}{K\bibinitperiod}{Evi}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1b9ef4f82d1e8668afdb51c73d65e132}{Portoghese}{P\bibinitperiod}{Philip\bibnamedelima S}{P\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=68640b48e9db47feb12dbf5c18310fc6}{Whistler}{W\bibinitperiod}{Jennifer\bibnamedelima L}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2be22361fbd960bedabc18c2655d46c3}
+      \strng{fullhash}{04b2c124fbc19a23f1654fe7ca6b2710}
+      \field{sortinit}{W}
+      \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
+      \field{labeltitle}{{A heterodimer-selective agonist shows in vivo relevance of G protein-coupled receptor dimers.}}
+      \field{abstract}{There has been much speculation regarding the functional relevance of G protein-coupled receptor heterodimers, primarily because demonstrating their existence in vivo has proven to be a considerable challenge. Here we show that the opioid agonist ligand 6'-guanidinonaltrindole (6'-GNTI) has the unique property of selectively activating only opioid receptor heterodimers but not homomers. Importantly, 6'-GNTI is an analgesic, thereby demonstrating that opioid receptor heterodimers are indeed functionally relevant in vivo. However, 6'-GNTI induces analgesia only when it is administered in the spinal cord but not in the brain, suggesting that the organization of heterodimers is tissue-specific. This study demonstrates a proof of concept for tissue-selective drug targeting based on G protein-coupled receptor heterodimerization. Importantly, targeting opioid heterodimers could provide an approach toward the design of analgesic drugs with reduced side effects.}
+      \field{isbn}{0027-8424 (Print)$\backslash$r0027-8424 (Linking)}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proc Natl Acad Sci U S A}
+      \field{number}{25}
+      \field{title}{{A heterodimer-selective agonist shows in vivo relevance of G protein-coupled receptor dimers.}}
+      \field{volume}{102}
+      \field{year}{2005}
+      \field{pages}{9050\bibrangedash 9055}
+      \verb{doi}
+      \verb 10.1073/pnas.0501112102
+      \endverb
+      \verb{file}
+      \verb :Users/ska/Documents/thesis/literature/2005/Waldhoer et al/Waldhoer et al. - 2005 - A heterodimer-selective agonist shows in vivo relevance of G protein-coupled receptor dimers.pdf:pdf
       \endverb
     \endentry
     \entry{Ward2011}{article}{}
@@ -2710,18 +3297,18 @@
       \field{labelyear}{2012}
       \field{labelmonth}{05}
       \field{datelabelsource}{}
-      \field{labeltitle}{{Structure of the human [kgr]-opioid receptor in complex with JDTic}}
+      \field{labeltitle}{{Structure of the human kappa-opioid receptor in complex with JDTic}}
       \field{annotation}{10.1038/nature10939}
       \field{issn}{0028-0836}
       \field{journaltitle}{Nature}
       \field{month}{05}
       \field{number}{7398}
-      \field{title}{{Structure of the human [kgr]-opioid receptor in complex with JDTic}}
+      \field{title}{{Structure of the human kappa-opioid receptor in complex with JDTic}}
       \field{volume}{485}
       \field{year}{2012}
       \field{pages}{327\bibrangedash 332}
       \verb{url}
-      \verb http://dx.doi.org/10.1038/nature10939%20http://www.nature.com/nature/journal/v485/n7398/abs/nature10939.html%5C#supplementary-information
+      \verb http://dx.doi.org/10.1038/nature10939%20http://www.nature.com/nature/journal/v485/n7398/abs/nature10939.html%7B%5C#%7Dsupplementary-information
       \endverb
     \endentry
     \entry{Zhang2002a}{article}{}
@@ -2778,7 +3365,7 @@
       \field{labelyear}{2002}
       \field{datelabelsource}{}
       \field{labeltitle}{{Dimerization and phosphorylation of thyrotropin-releasing hormone receptors are modulated by agonist stimulation}}
-      \field{abstract}{Dimerization and phosphorylation of thyrotropin-releasing hormone (TRH) receptors was characterized using HEK293 and pituitary GHFT cells expressing epitope-tagged receptors. TRH receptors tagged with FLAG and hemagglutinin epitopes were co-precipitated only if they were co-expressed, and 10-30\% of receptors were isolated as hemagglutinin/FLAG-receptor dimers under basal conditions. The abundance of receptor dimers was increased when cells had been stimulated by TRH, indicating that TRH either stabilizes pre-existing dimers or increases dimer formation. TRH increased receptor dimerization and phosphorylation within 1 min in a dose-dependent manner. TRH increased phosphorylation of both receptor monomers and dimers, documented by incorporation of (32)P and an upshift in receptor mobility reversed by phosphatase treatment. The ability of TRH to increase receptor phosphorylation and dimerization did not depend on signal transduction, because it was not inhibited by the phospholipase C inhibitor. Receptor phosphorylation required an agonist but was not blocked by the casein kinase II inhibitor apigenin, the protein kinase C inhibitor GF109203X, or expression of a dominant negative form of G protein-coupled receptor kinase 2. TRH receptors lacking most of the cytoplasmic carboxyl terminus formed dimers constitutively but failed to undergo agonist-induced dimerization and phosphorylation. TRH also increased phosphorylation and dimerization of TRH receptors expressed in GHFT pre-lactotroph cells.}
+      \field{abstract}{Dimerization and phosphorylation of thyrotropin-releasing hormone (TRH) receptors was characterized using HEK293 and pituitary GHFT cells expressing epitope-tagged receptors. TRH receptors tagged with FLAG and hemagglutinin epitopes were co-precipitated only if they were co-expressed, and 10-30{\%} of receptors were isolated as hemagglutinin/FLAG-receptor dimers under basal conditions. The abundance of receptor dimers was increased when cells had been stimulated by TRH, indicating that TRH either stabilizes pre-existing dimers or increases dimer formation. TRH increased receptor dimerization and phosphorylation within 1 min in a dose-dependent manner. TRH increased phosphorylation of both receptor monomers and dimers, documented by incorporation of (32)P and an upshift in receptor mobility reversed by phosphatase treatment. The ability of TRH to increase receptor phosphorylation and dimerization did not depend on signal transduction, because it was not inhibited by the phospholipase C inhibitor. Receptor phosphorylation required an agonist but was not blocked by the casein kinase II inhibitor apigenin, the protein kinase C inhibitor GF109203X, or expression of a dominant negative form of G protein-coupled receptor kinase 2. TRH receptors lacking most of the cytoplasmic carboxyl terminus formed dimers constitutively but failed to undergo agonist-induced dimerization and phosphorylation. TRH also increased phosphorylation and dimerization of TRH receptors expressed in GHFT pre-lactotroph cells.}
       \field{isbn}{0021-9258 (Print)}
       \field{issn}{00219258}
       \field{journaltitle}{J Biol Chem}
@@ -2826,7 +3413,7 @@
       \verb{url}
       \verb http://www.ncbi.nlm.nih.gov/pubmed/9843382
       \endverb
-      \keyw{Amino Acid Sequence,Animals,Antidiuretic Hormone Receptor Antagonists,Blotting,Western,COS Cells,Cell Membrane,Cell Membrane: genetics,Cell Membrane: metabolism,Dimerization,Down-Regulation,Down-Regulation: genetics,Humans,Ligands,Molecular Sequence Data,Mutagenesis,Insertional,Peptide Fragments,Peptide Fragments: antagonists \& inhibitors,Peptide Fragments: biosynthesis,Peptide Fragments: genetics,Peptide Fragments: metabolism,Protein Binding,Protein Binding: genetics,Receptors,Vasopressin,Receptors,Vasopressin: biosynthesis,Receptors,Vasopressin: genetics,Receptors,Vasopressin: metabolism,Signal Transduction,Signal Transduction: genetics,Transfection}
+      \keyw{Amino Acid Sequence,Animals,Antidiuretic Hormone Receptor Antagonists,Blotting,Western,COS Cells,Cell Membrane,Cell Membrane: genetics,Cell Membrane: metabolism,Dimerization,Down-Regulation,Down-Regulation: genetics,Humans,Ligands,Molecular Sequence Data,Mutagenesis,Insertional,Peptide Fragments,Peptide Fragments: antagonists {\&} inhibitors,Peptide Fragments: biosynthesis,Peptide Fragments: genetics,Peptide Fragments: metabolism,Protein Binding,Protein Binding: genetics,Receptors,Vasopressin,Receptors,Vasopressin: biosynthesis,Receptors,Vasopressin: genetics,Receptors,Vasopressin: metabolism,Signal Transduction,Signal Transduction: genetics,Transfection}
     \endentry
   \endsortlist
 \endrefsection

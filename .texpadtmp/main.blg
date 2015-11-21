@@ -1,17 +1,17 @@
-[0] Config.pm:320> INFO - This is Biber 1.9
-[0] Config.pm:323> INFO - Logfile is '/Users/ska/Documents/thesis/.texpadtmp/main.blg'
-[40] biber-darwin:277> INFO - === Tue Jul 14, 2015, 11:23:25
-[41] Biber.pm:333> INFO - Reading '/Users/ska/Documents/thesis/.texpadtmp/main.bcf'
-[110] Biber.pm:635> INFO - Found 63 citekeys in bib section 0
-[136] Biber.pm:3051> INFO - Processing section 0
-[154] Biber.pm:3189> INFO - Looking for bibtex format file '/Users/ska/Documents/thesis/bibliography/library.bib' for section 0
-[196] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[238] bibtex.pm:864> INFO - Found BibTeX data source '/Users/ska/Documents/thesis/bibliography/library.bib'
-[418] Utils.pm:144> WARN - BibTeX subsystem: /var/folders/00/llkm_g7j1mx6rrq8r4nq0hkh0000gn/T/mRaaUOGvQb/library.bib_10712.utf8, line 6, warning: 174 characters of junk seen at toplevel
-[1300] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1300] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1300] Biber.pm:2928> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale 'de-DE'
-[1300] Biber.pm:2932> INFO - No sort tailoring available for locale 'de-DE'
-[1729] bbl.pm:517> INFO - Writing '/Users/ska/Documents/thesis/.texpadtmp/main.bbl' with encoding 'UTF-8'
-[1756] bbl.pm:606> INFO - Output to /Users/ska/Documents/thesis/.texpadtmp/main.bbl
-[1757] Biber.pm:106> INFO - WARNINGS: 1
+[1] Config.pm:320> INFO - This is Biber 1.9
+[1] Config.pm:323> INFO - Logfile is '/Users/ska/Documents/thesis/.texpadtmp/main.blg'
+[59] biber-darwin:277> INFO - === Sat Nov 21, 2015, 17:37:21
+[59] Biber.pm:333> INFO - Reading '/Users/ska/Documents/thesis/.texpadtmp/main.bcf'
+[135] Biber.pm:635> INFO - Found 77 citekeys in bib section 0
+[168] Biber.pm:3051> INFO - Processing section 0
+[193] Biber.pm:3189> INFO - Looking for bibtex format file '/Users/ska/Documents/thesis/bibliography/library.bib' for section 0
+[237] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[287] bibtex.pm:864> INFO - Found BibTeX data source '/Users/ska/Documents/thesis/bibliography/library.bib'
+[538] Utils.pm:144> WARN - BibTeX subsystem: /var/folders/00/llkm_g7j1mx6rrq8r4nq0hkh0000gn/T/XLIwPHBspD/library.bib_2618.utf8, line 6, warning: 176 characters of junk seen at toplevel
+[1840] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1840] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1840] Biber.pm:2928> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale 'de-DE'
+[1840] Biber.pm:2932> INFO - No sort tailoring available for locale 'de-DE'
+[2489] bbl.pm:517> INFO - Writing '/Users/ska/Documents/thesis/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[2519] bbl.pm:606> INFO - Output to /Users/ska/Documents/thesis/.texpadtmp/main.bbl
+[2520] Biber.pm:106> INFO - WARNINGS: 1
